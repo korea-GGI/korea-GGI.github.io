@@ -10,7 +10,7 @@ var smWidth = window.innerWidth * 0.95 - SMCMARGIN.LEFT - SMCMARGIN.RIGHT - 15,
 
 var smDataSet = [];
 var topAverage = [];
-d3.csv('data/ggiggi.csv', function (err, rows) {
+d3.csv('data/ggi_2017.csv', function (err, rows) {
     SCworldData(rows);
 });
 
@@ -91,14 +91,6 @@ var selectedCountryRedraw = function () {
         .attr('width', smWidth + SMCMARGIN.LEFT + SMCMARGIN.RIGHT + 20)
         .attr('height', smHeight + SMCMARGIN.TOP + SMCMARGIN.BOTTOM - 50)
         .selectAll('g.cell').data(d3.range(GRID.W * GRID.H));
-
-    //manMark
-    //    d3.select('#selectedCountryChart').append('g')
-    //        .attr('class', 'manMarkG')
-    //        .append('path')
-    //        .attr('d', 'M ' + smWidth + ' 0 L ' + smWidth + ' ' + smHeight + -200 + ' ')
-    //        .style('stroke', '#000').style('stroke-width', 1)
-    //        .attr('transform', 'translate(70,0)');
     //smCell
     cellSel.enter()
         .append('g')

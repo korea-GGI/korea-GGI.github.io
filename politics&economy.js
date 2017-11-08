@@ -11,7 +11,7 @@ var length = window.innerWidth * 0.95 - POLIMARGIN.LEFT - 15,
     targetYear = 2017;
 // datas---------------------------------------
 
-d3.csv('data/ggiggi_2017.csv', function (err, rows) {
+d3.csv('data/ggi_2017.csv', function (err, rows) {
     poliData(rows);
 });
 

@@ -10,7 +10,7 @@ var countriesWidth = window.innerWidth * 0.95 - CONMARGIN.LEFT - CONMARGIN.RIGHT
 
 var dataSet = [];
 var topAverage = [];
-d3.csv('data/ggiggi_2017.csv', function (err, rows) {
+d3.csv('data/ggi_2017.csv', function (err, rows) {
     worldData(rows);
 });
 
