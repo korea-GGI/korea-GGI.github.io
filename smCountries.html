@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <title>2017 성 격차지수</title>
+    <meta name="viewport" content="initial-scale=1, width=device-width">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <script src='//d3js.org/d3.v4.min.js'></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="apple-touch-icon" sizes="57x57" href="ggi_favi.ico/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="ggi_favi.ico/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="ggi_favi.ico/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="ggi_favi.ico/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="ggi_favi.ico/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="ggi_favi.ico/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="ggi_favi.ico/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="ggi_favi.ico/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="ggi_favi.ico/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="ggi_favi.ico/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="ggi_favi.ico/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="ggi_favi.ico/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="ggi_favi.ico/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <style>
+        @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+        @import url('//fonts.googleapis.com/css?family=Roboto');
+        @import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);
+
+    </style>
+
+    <link rel='stylesheet ' href='smCountries.css'>
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="top">
+            <div class="title"> <a href="//korea-ggi.github.io/ggi_open">2017 성 격차지수</a><br><a href="//korea-ggi.github.io/smCountries">한국과 다른나라의 성 격차지수를 비교해볼까요?</a></div>
+        </div>
+        <div class="rulerWrap">
+            <svg id="mainChart"></svg>
+        </div>
+        <header>
+            <div class="menuIcon">
+                <img src="images/ggi_plus_menu.png" width="70px">
+            </div>
+            <div class="menuBox">
+                <ul class="menu">
+                    <a href="//korea-ggi.github.io">
+                        <li class="first">
+                            2017 성 격차지수
+                        </li>
+                    </a>
+                    <a href="//korea-ggi.github.io/smCountries">
+                        <li class="second">
+                            한국과 다른나라 성 격차지수를 직접 비교해볼까요?
+                        </li>
+                    </a>
+                    <a href="//korea-ggi.github.io/how_Index_make">
+                        <li class="second">
+                            성 격차지수 계산법을 알아볼까요?
+                        </li>
+                    </a>
+                    <a href="//korea-ggi.github.io/fourteen_index">
+                        <li class="second">
+                            한국 성별차이를 비교한 모든 분야를 알아볼까요?
+
+                        </li>
+                    </a>
+
+                    <a href="//korea-ggi.github.io/unpaid_work">
+                        <li>
+                            한국 여성 무급노동 독박 OECD 2위!
+                        </li>
+                    </a>
+                    <li>한국 성별임금격차 OECD 1위!</li>
+                    <a href="//korea-ggi.github.io/economy&politics">
+                        <li>
+                            여성 정치인이 많아질수록 세상은 변한다.
+                        </li>
+                    </a>
+                </ul>
+            </div>
+            <script>
+                $(".menuIcon").click(function() {
+                    $(".menuBox").toggle("drop", {
+                        direction: "left"
+                    }, 600);
+                });
+
+            </script>
+        </header>
+        <div class="context">
+
+            <div class="section" id="selectedCountry">
+                <svg id="selectedCountryChart"></svg>
+            </div>
+            <div class="bottom">
+                <p>이 사이트는 세계 경제 포럼(World Economic Forum)의 2017 성 격차지수 데이터와 OECD 데이터를 기반으로 제작 되었습니다.</p>
+                <ul>
+                    <a href="//reports.weforum.org/global-gender-gap-report-2017/">
+                        <li>2017 성 격차 보고서</li>
+                    </a>
+                    <a href="//www3.weforum.org/docs/WEF_GGGR_2017.pdf">
+                        <li>2017 성 격차 보고서 PDF</li>
+                    </a>
+                    <li>2017 성 격차지수.CSV</li>
+                    <a href="//stats.oecd.org/index.aspx?queryid=54757">
+                        <li>OECD 무급노동 데이터</li>
+                    </a>
+                    <a href="//stats.oecd.org/index.aspx?queryid=54751">
+                        <li>OECD 임금격차 데이터</li>
+                    </a>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+    <script src='ggi_main.js'></script>
+    <script src='smCountries.js'></script>
+</body>

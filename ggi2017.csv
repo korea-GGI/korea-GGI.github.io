@@ -1,0 +1,3385 @@
+country,countrynames,score,rank,year,type
+Albania,알바니아,0.6613,38,2006,economic
+Albania,알바니아,0.9888,58,2006,education
+Albania,알바니아,0.9553,110,2006,health
+Albania,알바니아,0.0375,105,2006,political
+Albania,알바니아,0.6607,60,2006,overall
+Albania,알바니아,0.6885,36,2007,economic
+Albania,알바니아,0.9925,48,2007,education
+Albania,알바니아,0.9553,116,2007,health
+Albania,알바니아,0.0375,117,2007,political
+Albania,알바니아,0.6685,64,2007,overall
+Albania,알바니아,0.6491,62,2008,economic
+Albania,알바니아,0.9907,68,2008,education
+Albania,알바니아,0.9553,118,2008,health
+Albania,알바니아,0.0413,119,2008,political
+Albania,알바니아,0.6591,85,2008,overall
+Albania,알바니아,0.6532,63,2009,economic
+Albania,알바니아,0.9906,73,2009,education
+Albania,알바니아,0.9553,122,2009,health
+Albania,알바니아,0.0413,125,2009,political
+Albania,알바니아,0.6601,89,2009,overall
+Albania,알바니아,0.6808,51,2010,economic
+Albania,알바니아,0.9942,52,2010,education
+Albania,알바니아,0.937,131,2010,health
+Albania,알바니아,0.0785,97,2010,political
+Albania,알바니아,0.6726,78,2010,overall
+Albania,알바니아,0.7129,38,2011,economic
+Albania,알바니아,0.9809,87,2011,education
+Albania,알바니아,0.9268,135,2011,health
+Albania,알바니아,0.0784,99,2011,political
+Albania,알바니아,0.6748,78,2011,overall
+Albania,알바니아,0.6663,63,2012,economic
+Albania,알바니아,0.989,76,2012,education
+Albania,알바니아,0.9313,133,2012,health
+Albania,알바니아,0.0753,105,2012,political
+Albania,알바니아,0.6655,91,2012,overall
+Albania,알바니아,0.6324,87,2013,economic
+Albania,알바니아,0.9755,92,2013,education
+Albania,알바니아,0.9313,134,2013,health
+Albania,알바니아,0.0256,130,2013,political
+Albania,알바니아,0.6412,108,2013,overall
+Albania,알바니아,0.6534,78,2014,economic
+Albania,알바니아,0.97,98,2014,education
+Albania,알바니아,0.9409,139,2014,health
+Albania,알바니아,0.1834,55,2014,political
+Albania,알바니아,0.6869,80,2014,overall
+Albania,알바니아,0.671,69,2015,economic
+Albania,알바니아,0.972,98,2015,education
+Albania,알바니아,0.947,142,2015,health
+Albania,알바니아,0.214,50,2015,political
+Albania,알바니아,0.701,69,2015,overall
+Albania,알바니아,0.668,73,2016,economic
+Albania,알바니아,0.986,88,2016,education
+Albania,알바니아,0.947,141,2016,health
+Albania,알바니아,0.214,53,2016,political
+Albania,알바니아,0.7036,62,2016,overall
+Algeria,알제리,0.4428,103,2006,economic
+Algeria,알제리,0.9438,84,2006,education
+Algeria,알제리,0.9712,78,2006,health
+Algeria,알제리,0.0495,98,2006,political
+Algeria,알제리,0.6018,96,2006,overall
+Algeria,알제리,0.4643,113,2007,economic
+Algeria,알제리,0.9422,96,2007,education
+Algeria,알제리,0.9714,85,2007,health
+Algeria,알제리,0.0495,111,2007,political
+Algeria,알제리,0.6068,106,2007,overall
+Algeria,알제리,0.468,115,2008,economic
+Algeria,알제리,0.9491,96,2008,education
+Algeria,알제리,0.9714,86,2008,health
+Algeria,알제리,0.0558,115,2008,political
+Algeria,알제리,0.6111,109,2008,overall
+Algeria,알제리,0.4697,119,2009,economic
+Algeria,알제리,0.9505,99,2009,education
+Algeria,알제리,0.9714,91,2009,health
+Algeria,알제리,0.0558,120,2009,political
+Algeria,알제리,0.6119,115,2009,overall
+Algeria,알제리,0.4666,119,2010,economic
+Algeria,알제리,0.953,99,2010,education
+Algeria,알제리,0.9661,106,2010,health
+Algeria,알제리,0.035,123,2010,political
+Algeria,알제리,0.6052,119,2010,overall
+Algeria,알제리,0.4452,124,2011,economic
+Algeria,알제리,0.9502,96,2011,education
+Algeria,알제리,0.9661,107,2011,health
+Algeria,알제리,0.035,124,2011,political
+Algeria,알제리,0.5991,121,2011,overall
+Algeria,알제리,0.3776,131,2012,economic
+Algeria,알제리,0.9499,103,2012,education
+Algeria,알제리,0.9661,108,2012,health
+Algeria,알제리,0.1511,57,2012,political
+Algeria,알제리,0.6112,120,2012,overall
+Algeria,알제리,0.3307,133,2013,economic
+Algeria,알제리,0.9387,106,2013,education
+Algeria,알제리,0.9661,108,2013,health
+Algeria,알제리,0.1511,62,2013,political
+Algeria,알제리,0.5966,124,2013,overall
+Algeria,알제리,0.393,136,2014,economic
+Algeria,알제리,0.9363,113,2014,education
+Algeria,알제리,0.9661,124,2014,health
+Algeria,알제리,0.1772,60,2014,political
+Algeria,알제리,0.6182,121,2014,overall
+Algeria,알제리,0.41,137,2015,economic
+Algeria,알제리,0.946,110,2015,education
+Algeria,알제리,0.966,128,2015,health
+Algeria,알제리,0.205,55,2015,political
+Algeria,알제리,0.632,127,2015,overall
+Algeria,알제리,0.435,134,2016,economic
+Algeria,알제리,0.962,104,2016,education
+Algeria,알제리,0.966,127,2016,health
+Algeria,알제리,0.205,56,2016,political
+Algeria,알제리,0.642,119,2016,overall
+Angola,앙골라,0.5872,69,2006,economic
+Angola,앙골라,0.7792,107,2006,education
+Angola,앙골라,0.9796,1,2006,health
+Angola,앙골라,0.0696,81,2006,political
+Angola,앙골라,0.6039,95,2006,overall
+Angola,앙골라,0.5851,87,2007,economic
+Angola,앙골라,0.7792,119,2007,education
+Angola,앙골라,0.9796,1,2007,health
+Angola,앙골라,0.0696,92,2007,political
+Angola,앙골라,0.6034,108,2007,overall
+Angola,앙골라,0.5843,87,2008,economic
+Angola,앙골라,0.7779,122,2008,education
+Angola,앙골라,0.9796,1,2008,health
+Angola,앙골라,0.0711,103,2008,political
+Angola,앙골라,0.6032,112,2008,overall
+Angola,앙골라,0.5832,96,2009,economic
+Angola,앙골라,0.7779,127,2009,education
+Angola,앙골라,0.9796,1,2009,health
+Angola,앙골라,0.2007,36,2009,political
+Angola,앙골라,0.6353,104,2009,overall
+Angola,앙골라,0.6296,76,2010,economic
+Angola,앙골라,0.7854,125,2010,education
+Angola,앙골라,0.9796,1,2010,health
+Angola,앙골라,0.2901,24,2010,political
+Angola,앙골라,0.6712,81,2010,overall
+Angola,앙골라,0.5937,96,2011,economic
+Angola,앙골라,0.7864,126,2011,education
+Angola,앙골라,0.9796,1,2011,health
+Angola,앙골라,0.2898,24,2011,political
+Angola,앙골라,0.6624,86,2011,overall
+Angola,앙골라,N/A,N/A,2012,overall
+Angola,앙골라,0.6163,92,2013,economic
+Angola,앙골라,0.8062,127,2013,education
+Angola,앙골라,0.9796,1,2013,health
+Angola,앙골라,0.2614,34,2013,political
+Angola,앙골라,0.6659,92,2013,overall
+Angola,앙골라,0.5878,111,2014,economic
+Angola,앙골라,0.7211,138,2014,education
+Angola,앙골라,0.9754,61,2014,health
+Angola,앙골라,0.2402,38,2014,political
+Angola,앙골라,0.6311,116,2014,overall
+Angola,앙골라,0.59,116,2015,economic
+Angola,앙골라,0.726,141,2015,education
+Angola,앙골라,0.98,1,2015,health
+Angola,앙골라,0.251,38,2015,political
+Angola,앙골라,0.637,125,2015,overall
+Angola,앙골라,0.565,120,2016,economic
+Angola,앙골라,0.778,138,2016,education
+Angola,앙골라,0.98,1,2016,health
+Angola,앙골라,0.251,40,2016,political
+Angola,앙골라,0.6432,115,2016,overall
+Argentina,아르헨티나,0.5513,82,2006,economic
+Argentina,아르헨티나,0.9965,29,2006,education
+Argentina,아르헨티나,0.9796,1,2006,health
+Argentina,아르헨티나,0.2044,23,2006,political
+Argentina,아르헨티나,0.6829,40,2006,overall
+Argentina,아르헨티나,0.6128,75,2007,economic
+Argentina,아르헨티나,0.996,33,2007,education
+Argentina,아르헨티나,0.9796,1,2007,health
+Argentina,아르헨티나,0.2044,25,2007,political
+Argentina,아르헨티나,0.6982,32,2007,overall
+Argentina,아르헨티나,0.607,80,2008,economic
+Argentina,아르헨티나,0.9941,57,2008,education
+Argentina,아르헨티나,0.9796,1,2008,health
+Argentina,아르헨티나,0.3027,15,2008,political
+Argentina,아르헨티나,0.7209,24,2008,overall
+Argentina,아르헨티나,0.6029,89,2009,economic
+Argentina,아르헨티나,0.9941,57,2009,education
+Argentina,아르헨티나,0.9796,1,2009,health
+Argentina,아르헨티나,0.3077,14,2009,political
+Argentina,아르헨티나,0.7211,24,2009,overall
+Argentina,아르헨티나,0.6024,87,2010,economic
+Argentina,아르헨티나,0.9953,47,2010,education
+Argentina,아르헨티나,0.9796,1,2010,health
+Argentina,아르헨티나,0.2976,20,2010,political
+Argentina,아르헨티나,0.7187,29,2010,overall
+Argentina,아르헨티나,0.6124,84,2011,economic
+Argentina,아르헨티나,0.9941,51,2011,education
+Argentina,아르헨티나,0.9796,1,2011,health
+Argentina,아르헨티나,0.3084,20,2011,political
+Argentina,아르헨티나,0.7236,28,2011,overall
+Argentina,아르헨티나,0.6075,92,2012,economic
+Argentina,아르헨티나,0.9962,41,2012,education
+Argentina,아르헨티나,0.9796,1,2012,health
+Argentina,아르헨티나,0.3018,24,2012,political
+Argentina,아르헨티나,0.7212,32,2012,overall
+Argentina,아르헨티나,0.5887,101,2013,economic
+Argentina,아르헨티나,0.9962,42,2013,education
+Argentina,아르헨티나,0.9796,1,2013,health
+Argentina,아르헨티나,0.3136,24,2013,political
+Argentina,아르헨티나,0.7195,34,2013,overall
+Argentina,아르헨티나,0.6312,96,2014,economic
+Argentina,아르헨티나,0.9962,50,2014,education
+Argentina,아르헨티나,0.9796,1,2014,health
+Argentina,아르헨티나,0.3197,21,2014,political
+Argentina,아르헨티나,0.7317,30,2014,overall
+Argentina,아르헨티나,0.615,105,2015,economic
+Argentina,아르헨티나,0.996,55,2015,education
+Argentina,아르헨티나,0.98,1,2015,health
+Argentina,아르헨티나,0.347,22,2015,political
+Argentina,아르헨티나,0.734,35,2015,overall
+Argentina,아르헨티나,0.616,101,2016,economic
+Argentina,아르헨티나,0.995,54,2016,education
+Argentina,아르헨티나,0.98,1,2016,health
+Argentina,아르헨티나,0.35,22,2016,political
+Argentina,아르헨티나,0.7352,33,2016,overall
+Armenia,아르메니아,N/A,N/A,2006,overall
+Armenia,아르메니아,0.7211,24,2007,economic
+Armenia,아르메니아,0.999,24,2007,education
+Armenia,아르메니아,0.9227,128,2007,health
+Armenia,아르메니아,0.0173,125,2007,political
+Armenia,아르메니아,0.6651,69,2007,overall
+Armenia,아르메니아,0.6969,36,2008,economic
+Armenia,아르메니아,0.9993,29,2008,education
+Armenia,아르메니아,0.9279,130,2008,health
+Armenia,아르메니아,0.0468,118,2008,political
+Armenia,아르메니아,0.6677,76,2008,overall
+Armenia,아르메니아,0.6712,56,2009,economic
+Armenia,아르메니아,0.9992,29,2009,education
+Armenia,아르메니아,0.9332,133,2009,health
+Armenia,아르메니아,0.0439,123,2009,political
+Armenia,아르메니아,0.6619,88,2009,overall
+Armenia,아르메니아,0.669,59,2010,economic
+Armenia,아르메니아,0.9994,26,2010,education
+Armenia,아르메니아,0.937,130,2010,health
+Armenia,아르메니아,0.0621,106,2010,political
+Armenia,아르메니아,0.6669,84,2010,overall
+Armenia,아르메니아,0.658,62,2011,economic
+Armenia,아르메니아,0.9994,27,2011,education
+Armenia,아르메니아,0.9419,131,2011,health
+Armenia,아르메니아,0.0623,108,2011,political
+Armenia,아르메니아,0.6654,84,2011,overall
+Armenia,아르메니아,0.6446,76,2012,economic
+Armenia,아르메니아,0.9995,25,2012,education
+Armenia,아르메니아,0.9441,130,2012,health
+Armenia,아르메니아,0.0662,114,2012,political
+Armenia,아르메니아,0.6636,92,2012,overall
+Armenia,아르메니아,0.6384,82,2013,economic
+Armenia,아르메니아,0.9995,29,2013,education
+Armenia,아르메니아,0.9497,131,2013,health
+Armenia,아르메니아,0.0662,115,2013,political
+Armenia,아르메니아,0.6634,94,2013,overall
+Armenia,아르메니아,0.6478,82,2014,economic
+Armenia,아르메니아,0.9996,31,2014,education
+Armenia,아르메니아,0.9332,142,2014,health
+Armenia,아르메니아,0.068,123,2014,political
+Armenia,아르메니아,0.6622,99,2014,overall
+Armenia,아르메니아,0.664,79,2015,economic
+Armenia,아르메니아,1,35,2015,education
+Armenia,아르메니아,0.939,144,2015,health
+Armenia,아르메니아,0.068,125,2015,political
+Armenia,아르메니아,0.668,104,2015,overall
+Armenia,아르메니아,0.671,69,2016,economic
+Armenia,아르메니아,1,27,2016,education
+Armenia,아르메니아,0.939,143,2016,health
+Armenia,아르메니아,0.068,125,2016,political
+Armenia,아르메니아,0.6693,101,2016,overall
+Australia,오스트레일리아,0.7259,12,2006,economic
+Australia,오스트레일리아,1,1,2006,education
+Australia,오스트레일리아,0.9761,57,2006,health
+Australia,오스트레일리아,0.1634,32,2006,political
+Australia,오스트레일리아,0.7163,15,2006,overall
+Australia,오스트레일리아,0.744,12,2007,economic
+Australia,오스트레일리아,1,1,2007,education
+Australia,오스트레일리아,0.9741,71,2007,health
+Australia,오스트레일리아,0.1634,35,2007,political
+Australia,오스트레일리아,0.7204,17,2007,overall
+Australia,오스트레일리아,0.7307,22,2008,economic
+Australia,오스트레일리아,1,1,2008,education
+Australia,오스트레일리아,0.9741,73,2008,health
+Australia,오스트레일리아,0.1915,37,2008,political
+Australia,오스트레일리아,0.7241,21,2008,overall
+Australia,오스트레일리아,0.7477,19,2009,economic
+Australia,오스트레일리아,1,1,2009,education
+Australia,오스트레일리아,0.9737,78,2009,health
+Australia,오스트레일리아,0.1915,39,2009,political
+Australia,오스트레일리아,0.7282,20,2009,overall
+Australia,오스트레일리아,0.7428,24,2010,economic
+Australia,오스트레일리아,1,1,2010,education
+Australia,오스트레일리아,0.9739,73,2010,health
+Australia,오스트레일리아,0.1917,39,2010,political
+Australia,오스트레일리아,0.7271,23,2010,overall
+Australia,오스트레일리아,0.7565,18,2011,economic
+Australia,오스트레일리아,1,1,2011,education
+Australia,오스트레일리아,0.9739,74,2011,health
+Australia,오스트레일리아,0.1861,38,2011,political
+Australia,오스트레일리아,0.7291,23,2011,overall
+Australia,오스트레일리아,0.7593,22,2012,economic
+Australia,오스트레일리아,1,1,2012,education
+Australia,오스트레일리아,0.9735,73,2012,health
+Australia,오스트레일리아,0.1847,42,2012,political
+Australia,오스트레일리아,0.7294,25,2012,overall
+Australia,오스트레일리아,0.7879,13,2013,economic
+Australia,오스트레일리아,1,1,2013,education
+Australia,오스트레일리아,0.9735,69,2013,health
+Australia,오스트레일리아,0.1945,43,2013,political
+Australia,오스트레일리아,0.739,24,2013,overall
+Australia,오스트레일리아,0.801,14,2014,economic
+Australia,오스트레일리아,1,1,2014,education
+Australia,오스트레일리아,0.9737,70,2014,health
+Australia,오스트레일리아,0.1887,53,2014,political
+Australia,오스트레일리아,0.7409,23,2014,overall
+Australia,오스트레일리아,0.766,32,2015,economic
+Australia,오스트레일리아,1,1,2015,education
+Australia,오스트레일리아,0.974,74,2015,health
+Australia,오스트레일리아,0.193,61,2015,political
+Australia,오스트레일리아,0.733,36,2015,overall
+Australia,오스트레일리아,0.719,42,2016,economic
+Australia,오스트레일리아,1,1,2016,education
+Australia,오스트레일리아,0.974,72,2016,health
+Australia,오스트레일리아,0.193,61,2016,political
+Australia,오스트레일리아,0.7214,46,2016,overall
+Austria,오스트리아,0.5526,81,2006,economic
+Austria,오스트리아,0.9802,68,2006,education
+Austria,오스트리아,0.9796,1,2006,health
+Austria,오스트리아,0.2821,14,2006,political
+Austria,오스트리아,0.6986,27,2006,overall
+Austria,오스트리아,0.5824,89,2007,economic
+Austria,오스트리아,0.9802,77,2007,education
+Austria,오스트리아,0.9796,1,2007,health
+Austria,오스트리아,0.2821,15,2007,political
+Austria,오스트리아,0.706,26,2007,overall
+Austria,오스트리아,0.5872,84,2008,economic
+Austria,오스트리아,0.9886,76,2008,education
+Austria,오스트리아,0.9796,1,2008,health
+Austria,오스트리아,0.3057,14,2008,political
+Austria,오스트리아,0.7153,29,2008,overall
+Austria,오스트리아,0.5701,102,2009,economic
+Austria,오스트리아,0.9886,78,2009,education
+Austria,오스트리아,0.9796,1,2009,health
+Austria,오스트리아,0.2744,23,2009,political
+Austria,오스트리아,0.7031,41,2009,overall
+Austria,오스트리아,0.5952,92,2010,economic
+Austria,오스트리아,0.9886,75,2010,education
+Austria,오스트리아,0.9787,44,2010,health
+Austria,오스트리아,0.2742,26,2010,political
+Austria,오스트리아,0.7091,37,2010,overall
+Austria,오스트리아,0.6245,77,2011,economic
+Austria,오스트리아,0.9886,76,2011,education
+Austria,오스트리아,0.9787,46,2011,health
+Austria,오스트리아,0.2744,27,2011,political
+Austria,오스트리아,0.7165,34,2011,overall
+Austria,오스트리아,0.6515,70,2012,economic
+Austria,오스트리아,0.9946,49,2012,education
+Austria,오스트리아,0.9787,50,2012,health
+Austria,오스트리아,0.3318,18,2012,political
+Austria,오스트리아,0.7391,20,2012,overall
+Austria,오스트리아,0.6642,69,2013,economic
+Austria,오스트리아,1,1,2013,education
+Austria,오스트리아,0.9787,47,2013,health
+Austria,오스트리아,0.3318,19,2013,political
+Austria,오스트리아,0.7437,19,2013,overall
+Austria,오스트리아,0.6704,68,2014,economic
+Austria,오스트리아,1,1,2014,education
+Austria,오스트리아,0.9789,52,2014,health
+Austria,오스트리아,0.2573,36,2014,political
+Austria,오스트리아,0.7266,34,2014,overall
+Austria,오스트리아,0.705,52,2015,economic
+Austria,오스트리아,1,1,2015,education
+Austria,오스트리아,0.98,1,2015,health
+Austria,오스트리아,0.246,39,2015,political
+Austria,오스트리아,0.733,37,2015,overall
+Austria,오스트리아,0.65,84,2016,economic
+Austria,오스트리아,0.987,86,2016,education
+Austria,오스트리아,0.98,1,2016,health
+Austria,오스트리아,0.246,41,2016,political
+Austria,오스트리아,0.7158,52,2016,overall
+Azerbaijan,아제르바이잔,N/A,N/A,2006,overall
+Azerbaijan,아제르바이잔,0.7319,19,2007,economic
+Azerbaijan,아제르바이잔,0.9715,82,2007,education
+Azerbaijan,아제르바이잔,0.926,127,2007,health
+Azerbaijan,아제르바이잔,0.0831,85,2007,political
+Azerbaijan,아제르바이잔,0.6781,57,2007,overall
+Azerbaijan,아제르바이잔,0.7863,4,2008,economic
+Azerbaijan,아제르바이잔,0.9673,91,2008,education
+Azerbaijan,아제르바이잔,0.9313,129,2008,health
+Azerbaijan,아제르바이잔,0.0575,114,2008,political
+Azerbaijan,아제르바이잔,0.6856,60,2008,overall
+Azerbaijan,아제르바이잔,0.6863,47,2009,economic
+Azerbaijan,아제르바이잔,0.9699,94,2009,education
+Azerbaijan,아제르바이잔,0.9366,132,2009,health
+Azerbaijan,아제르바이잔,0.0575,119,2009,political
+Azerbaijan,아제르바이잔,0.6626,87,2009,overall
+Azerbaijan,아제르바이잔,0.6352,73,2010,economic
+Azerbaijan,아제르바이잔,0.9671,93,2010,education
+Azerbaijan,아제르바이잔,0.9287,134,2010,health
+Azerbaijan,아제르바이잔,0.0473,113,2010,political
+Azerbaijan,아제르바이잔,0.6446,100,2010,overall
+Azerbaijan,아제르바이잔,0.642,70,2011,economic
+Azerbaijan,아제르바이잔,0.9891,73,2011,education
+Azerbaijan,아제르바이잔,0.9331,132,2011,health
+Azerbaijan,아제르바이잔,0.0665,103,2011,political
+Azerbaijan,아제르바이잔,0.6577,91,2011,overall
+Azerbaijan,아제르바이잔,0.6489,74,2012,economic
+Azerbaijan,아제르바이잔,0.983,84,2012,education
+Azerbaijan,아제르바이잔,0.92,135,2012,health
+Azerbaijan,아제르바이잔,0.0663,113,2012,political
+Azerbaijan,아제르바이잔,0.6546,99,2012,overall
+Azerbaijan,아제르바이잔,0.6591,72,2013,economic
+Azerbaijan,아제르바이잔,0.982,85,2013,education
+Azerbaijan,아제르바이잔,0.9254,136,2013,health
+Azerbaijan,아제르바이잔,0.0663,114,2013,political
+Azerbaijan,아제르바이잔,0.6582,99,2013,overall
+Azerbaijan,아제르바이잔,0.7087,52,2014,economic
+Azerbaijan,아제르바이잔,0.984,92,2014,education
+Azerbaijan,아제르바이잔,0.9441,137,2014,health
+Azerbaijan,아제르바이잔,0.0642,127,2014,political
+Azerbaijan,아제르바이잔,0.6753,90,2014,overall
+Azerbaijan,아제르바이잔,0.701,54,2015,economic
+Azerbaijan,아제르바이잔,0.984,90,2015,education
+Azerbaijan,아제르바이잔,0.95,139,2015,health
+Azerbaijan,아제르바이잔,0.063,129,2015,political
+Azerbaijan,아제르바이잔,0.675,94,2015,overall
+Azerbaijan,아제르바이잔,0.728,38,2016,economic
+Azerbaijan,아제르바이잔,0.988,83,2016,education
+Azerbaijan,아제르바이잔,0.95,138,2016,health
+Azerbaijan,아제르바이잔,0.069,124,2016,political
+Azerbaijan,아제르바이잔,0.6837,85,2016,overall
+Bahamas,바하마,N/A,N/A,2006,overall
+Bahamas,바하마,N/A,N/A,2007,overall
+Bahamas,바하마,N/A,N/A,2008,overall
+Bahamas,바하마,0.8264,2,2009,economic
+Bahamas,바하마,1,1,2009,education
+Bahamas,바하마,0.9796,1,2009,health
+Bahamas,바하마,0.0655,109,2009,political
+Bahamas,바하마,0.7179,28,2009,overall
+Bahamas,바하마,0.8288,4,2010,economic
+Bahamas,바하마,1,1,2010,education
+Bahamas,바하마,0.9796,1,2010,health
+Bahamas,바하마,0.043,115,2010,political
+Bahamas,바하마,0.7128,36,2010,overall
+Bahamas,바하마,0.9135,1,2011,economic
+Bahamas,바하마,1,1,2011,education
+Bahamas,바하마,0.9796,1,2011,health
+Bahamas,바하마,0.043,117,2011,political
+Bahamas,바하마,0.734,22,2011,overall
+Bahamas,바하마,0.8359,2,2012,economic
+Bahamas,바하마,1,1,2012,education
+Bahamas,바하마,0.9796,1,2012,health
+Bahamas,바하마,0.0471,122,2012,political
+Bahamas,바하마,0.7156,37,2012,overall
+Bahamas,바하마,0.8244,5,2013,economic
+Bahamas,바하마,1,1,2013,education
+Bahamas,바하마,0.9796,1,2013,health
+Bahamas,바하마,0.0471,124,2013,political
+Bahamas,바하마,0.7128,40,2013,overall
+Bahamas,바하마,0.8223,5,2014,economic
+Bahamas,바하마,1,1,2014,education
+Bahamas,바하마,0.9796,1,2014,health
+Bahamas,바하마,0.1059,101,2014,political
+Bahamas,바하마,0.7269,33,2014,overall
+Bahamas,바하마,0.823,7,2015,economic
+Bahamas,바하마,1,1,2015,education
+Bahamas,바하마,0.98,1,2015,health
+Bahamas,바하마,0.11,98,2015,political
+Bahamas,바하마,0.728,40,2015,overall
+Bahamas,바하마,0.827,3,2016,economic
+Bahamas,바하마,1,1,2016,education
+Bahamas,바하마,0.98,1,2016,health
+Bahamas,바하마,0.11,99,2016,political
+Bahamas,바하마,0.7291,37,2016,overall
+Bahrain,바레인,0.3829,111,2006,economic
+Bahrain,바레인,0.9893,54,2006,education
+Bahrain,바레인,0.9617,104,2006,health
+Bahrain,바레인,0.0236,110,2006,political
+Bahrain,바레인,0.5894,101,2006,overall
+Bahrain,바레인,0.3903,124,2007,economic
+Bahrain,바레인,0.9893,59,2007,education
+Bahrain,바레인,0.9612,110,2007,health
+Bahrain,바레인,0.0315,121,2007,political
+Bahrain,바레인,0.5931,113,2007,overall
+Bahrain,바레인,0.3988,126,2008,economic
+Bahrain,바레인,0.9917,66,2008,education
+Bahrain,바레인,0.9612,112,2008,health
+Bahrain,바레인,0.0192,127,2008,political
+Bahrain,바레인,0.5927,119,2008,overall
+Bahrain,바레인,0.483,118,2009,economic
+Bahrain,바레인,0.9911,69,2009,education
+Bahrain,바레인,0.9612,116,2009,health
+Bahrain,바레인,0.0192,131,2009,political
+Bahrain,바레인,0.6136,114,2009,overall
+Bahrain,바레인,0.4967,115,2010,economic
+Bahrain,바레인,0.9915,60,2010,education
+Bahrain,바레인,0.9612,110,2010,health
+Bahrain,바레인,0.0376,120,2010,political
+Bahrain,바레인,0.6217,110,2010,overall
+Bahrain,바레인,0.5079,115,2011,economic
+Bahrain,바레인,0.9862,81,2011,education
+Bahrain,바레인,0.9612,111,2011,health
+Bahrain,바레인,0.0376,122,2011,political
+Bahrain,바레인,0.6232,110,2011,overall
+Bahrain,바레인,0.4967,118,2012,economic
+Bahrain,바레인,0.9947,47,2012,education
+Bahrain,바레인,0.9612,111,2012,health
+Bahrain,바레인,0.0667,112,2012,political
+Bahrain,바레인,0.6298,111,2012,overall
+Bahrain,바레인,0.5146,117,2013,economic
+Bahrain,바레인,0.9911,71,2013,education
+Bahrain,바레인,0.9612,112,2013,health
+Bahrain,바레인,0.0667,113,2013,political
+Bahrain,바레인,0.6334,112,2013,overall
+Bahrain,바레인,0.4803,126,2014,economic
+Bahrain,바레인,0.9855,90,2014,education
+Bahrain,바레인,0.9612,132,2014,health
+Bahrain,바레인,0.0774,116,2014,political
+Bahrain,바레인,0.6261,119,2014,overall
+Bahrain,바레인,0.597,113,2015,economic
+Bahrain,바레인,0.981,94,2015,education
+Bahrain,바레인,0.961,133,2015,health
+Bahrain,바레인,0.037,138,2015,political
+Bahrain,바레인,0.644,121,2015,overall
+Bahrain,바레인,0.475,127,2016,economic
+Bahrain,바레인,0.987,84,2016,education
+Bahrain,바레인,0.961,132,2016,health
+Bahrain,바레인,0.037,137,2016,political
+Bahrain,바레인,0.615,130,2016,overall
+Bangladesh,방글라데시,0.423,107,2006,economic
+Bangladesh,방글라데시,0.8681,95,2006,education
+Bangladesh,방글라데시,0.9495,113,2006,health
+Bangladesh,방글라데시,0.2673,17,2006,political
+Bangladesh,방글라데시,0.627,90,2006,overall
+Bangladesh,방글라데시,0.4374,116,2007,economic
+Bangladesh,방글라데시,0.8714,105,2007,education
+Bangladesh,방글라데시,0.9496,122,2007,health
+Bangladesh,방글라데시,0.2673,17,2007,political
+Bangladesh,방글라데시,0.6314,98,2007,overall
+Bangladesh,방글라데시,0.4436,119,2008,economic
+Bangladesh,방글라데시,0.9093,104,2008,education
+Bangladesh,방글라데시,0.9496,124,2008,health
+Bangladesh,방글라데시,0.3098,13,2008,political
+Bangladesh,방글라데시,0.6531,88,2008,overall
+Bangladesh,방글라데시,0.4552,121,2009,economic
+Bangladesh,방글라데시,0.9113,105,2009,education
+Bangladesh,방글라데시,0.95,127,2009,health
+Bangladesh,방글라데시,0.2939,17,2009,political
+Bangladesh,방글라데시,0.6526,91,2009,overall
+Bangladesh,방글라데시,0.4732,117,2010,economic
+Bangladesh,방글라데시,0.9139,108,2010,education
+Bangladesh,방글라데시,0.9557,122,2010,health
+Bangladesh,방글라데시,0.3378,12,2010,political
+Bangladesh,방글라데시,0.6702,82,2010,overall
+Bangladesh,방글라데시,0.4932,118,2011,economic
+Bangladesh,방글라데시,0.9168,108,2011,education
+Bangladesh,방글라데시,0.9557,123,2011,health
+Bangladesh,방글라데시,0.3591,11,2011,political
+Bangladesh,방글라데시,0.6812,69,2011,overall
+Bangladesh,방글라데시,0.4799,121,2012,economic
+Bangladesh,방글라데시,0.8575,118,2012,education
+Bangladesh,방글라데시,0.9557,123,2012,health
+Bangladesh,방글라데시,0.3804,8,2012,political
+Bangladesh,방글라데시,0.6684,86,2012,overall
+Bangladesh,방글라데시,0.4954,121,2013,economic
+Bangladesh,방글라데시,0.8846,115,2013,education
+Bangladesh,방글라데시,0.9557,124,2013,health
+Bangladesh,방글라데시,0.4036,7,2013,political
+Bangladesh,방글라데시,0.6848,75,2013,overall
+Bangladesh,방글라데시,0.4774,127,2014,economic
+Bangladesh,방글라데시,0.9402,111,2014,education
+Bangladesh,방글라데시,0.9663,122,2014,health
+Bangladesh,방글라데시,0.4055,10,2014,political
+Bangladesh,방글라데시,0.6973,67,2014,overall
+Bangladesh,방글라데시,0.462,130,2015,economic
+Bangladesh,방글라데시,0.948,109,2015,education
+Bangladesh,방글라데시,0.971,95,2015,health
+Bangladesh,방글라데시,0.433,8,2015,political
+Bangladesh,방글라데시,0.704,62,2015,overall
+Bangladesh,방글라데시,0.41,135,2016,economic
+Bangladesh,방글라데시,0.95,114,2016,education
+Bangladesh,방글라데시,0.971,93,2016,health
+Bangladesh,방글라데시,0.462,7,2016,political
+Bangladesh,방글라데시,0.6983,72,2016,overall
+Barbados,바베이도스,N/A,N/A,2006,overall
+Barbados,바베이도스,N/A,N/A,2007,overall
+Barbados,바베이도스,0.7706,9,2008,economic
+Barbados,바베이도스,0.9957,44,2008,education
+Barbados,바베이도스,0.9796,1,2008,health
+Barbados,바베이도스,0.1295,62,2008,political
+Barbados,바베이도스,0.7188,26,2008,overall
+Barbados,바베이도스,0.7854,5,2009,economic
+Barbados,바베이도스,1,1,2009,education
+Barbados,바베이도스,0.9796,1,2009,health
+Barbados,바베이도스,0.1295,67,2009,political
+Barbados,바베이도스,0.7236,21,2009,overall
+Barbados,바베이도스,0.787,7,2010,economic
+Barbados,바베이도스,1,1,2010,education
+Barbados,바베이도스,0.9796,1,2010,health
+Barbados,바베이도스,0.1037,80,2010,political
+Barbados,바베이도스,0.7176,30,2010,overall
+Barbados,바베이도스,0.7843,8,2011,economic
+Barbados,바베이도스,1,1,2011,education
+Barbados,바베이도스,0.9796,1,2011,health
+Barbados,바베이도스,0.1042,82,2011,political
+Barbados,바베이도스,0.717,33,2011,overall
+Barbados,바베이도스,0.7905,11,2012,economic
+Barbados,바베이도스,1,1,2012,education
+Barbados,바베이도스,0.9796,1,2012,health
+Barbados,바베이도스,0.1226,79,2012,political
+Barbados,바베이도스,0.7232,27,2012,overall
+Barbados,바베이도스,0.7907,10,2013,economic
+Barbados,바베이도스,1,1,2013,education
+Barbados,바베이도스,0.9796,1,2013,health
+Barbados,바베이도스,0.1503,63,2013,political
+Barbados,바베이도스,0.7301,29,2013,overall
+Barbados,바베이도스,0.7885,20,2014,economic
+Barbados,바베이도스,0.9976,42,2014,education
+Barbados,바베이도스,0.9796,1,2014,health
+Barbados,바베이도스,0.1501,73,2014,political
+Barbados,바베이도스,0.7289,31,2014,overall
+Barbados,바베이도스,0.848,2,2015,economic
+Barbados,바베이도스,0.998,46,2015,education
+Barbados,바베이도스,0.98,1,2015,health
+Barbados,바베이도스,0.15,77,2015,political
+Barbados,바베이도스,0.744,25,2015,overall
+Barbados,바베이도스,0.825,4,2016,economic
+Barbados,바베이도스,1,1,2016,education
+Barbados,바베이도스,0.98,1,2016,health
+Barbados,바베이도스,0.15,78,2016,political
+Barbados,바베이도스,0.7388,28,2016,overall
+Belarus,벨라루스,N/A,N/A,2006,overall
+Belarus,벨라루스,0.7282,20,2007,economic
+Belarus,벨라루스,0.9835,74,2007,education
+Belarus,벨라루스,0.9791,37,2007,health
+Belarus,벨라루스,0.1546,39,2007,political
+Belarus,벨라루스,N/A,N/A,2007,overall
+Belarus,벨라루스,0.726,26,2008,economic
+Belarus,벨라루스,0.9902,72,2008,education
+Belarus,벨라루스,0.9791,38,2008,health
+Belarus,벨라루스,0.1442,52,2008,political
+Belarus,벨라루스,N/A,N/A,2008,overall
+Belarus,벨라루스,0.7256,29,2009,economic
+Belarus,벨라루스,0.9901,75,2009,education
+Belarus,벨라루스,0.9791,41,2009,health
+Belarus,벨라루스,0.1615,46,2009,political
+Belarus,벨라루스,N/A,N/A,2009,overall
+Belarus,벨라루스,N/A,N/A,2010,overall
+Belarus,벨라루스,N/A,N/A,2011,overall
+Belarus,벨라루스,N/A,N/A,2012,overall
+Belarus,벨라루스,N/A,N/A,2013,overall
+Belarus,벨라루스,0.8203,6,2014,economic
+Belarus,벨라루스,0.9995,35,2014,education
+Belarus,벨라루스,0.9791,37,2014,health
+Belarus,벨라루스,0.1211,89,2014,political
+Belarus,벨라루스,N/A,N/A,2014,overall
+Belarus,벨라루스,0.813,10,2015,economic
+Belarus,벨라루스,1,33,2015,education
+Belarus,벨라루스,0.979,42,2015,health
+Belarus,벨라루스,0.146,79,2015,political
+Belarus,벨라루스,0.734,34,2015,overall
+Belarus,벨라루스,0.823,5,2016,economic
+Belarus,벨라루스,1,29,2016,education
+Belarus,벨라루스,0.979,40,2016,health
+Belarus,벨라루스,0.146,80,2016,political
+Belarus,벨라루스,0.7369,30,2016,overall
+Belgium,벨기에,0.6199,54,2006,economic
+Belgium,벨기에,1,1,2006,education
+Belgium,벨기에,0.9796,1,2006,health
+Belgium,벨기에,0.2319,19,2006,political
+Belgium,벨기에,0.7078,20,2006,overall
+Belgium,벨기에,0.6684,46,2007,economic
+Belgium,벨기에,1,1,2007,education
+Belgium,벨기에,0.9789,50,2007,health
+Belgium,벨기에,0.2319,20,2007,political
+Belgium,벨기에,0.7198,19,2007,overall
+Belgium,벨기에,0.6519,60,2008,economic
+Belgium,벨기에,0.991,67,2008,education
+Belgium,벨기에,0.9789,52,2008,health
+Belgium,벨기에,0.2431,27,2008,political
+Belgium,벨기에,0.7163,28,2008,overall
+Belgium,벨기에,0.653,64,2009,economic
+Belgium,벨기에,0.991,71,2009,education
+Belgium,벨기에,0.9789,55,2009,health
+Belgium,벨기에,0.2431,29,2009,political
+Belgium,벨기에,0.7165,33,2009,overall
+Belgium,벨기에,0.7097,39,2010,economic
+Belgium,벨기에,0.9909,62,2010,education
+Belgium,벨기에,0.9787,44,2010,health
+Belgium,벨기에,0.3244,16,2010,political
+Belgium,벨기에,0.7509,14,2010,overall
+Belgium,벨기에,0.7187,36,2011,economic
+Belgium,벨기에,0.9909,63,2011,education
+Belgium,벨기에,0.9787,46,2011,health
+Belgium,벨기에,0.3241,17,2011,political
+Belgium,벨기에,0.7531,13,2011,overall
+Belgium,벨기에,0.7241,36,2012,economic
+Belgium,벨기에,0.9918,67,2012,education
+Belgium,벨기에,0.9787,50,2012,health
+Belgium,벨기에,0.3664,10,2012,political
+Belgium,벨기에,0.7652,12,2012,overall
+Belgium,벨기에,0.7367,34,2013,economic
+Belgium,벨기에,0.9918,67,2013,education
+Belgium,벨기에,0.9787,47,2013,health
+Belgium,벨기에,0.3664,14,2013,political
+Belgium,벨기에,0.7684,11,2013,overall
+Belgium,벨기에,0.7577,27,2014,economic
+Belgium,벨기에,0.9921,73,2014,education
+Belgium,벨기에,0.9789,52,2014,health
+Belgium,벨기에,0.3948,13,2014,political
+Belgium,벨기에,0.7809,9,2014,overall
+Belgium,벨기에,0.762,34,2015,economic
+Belgium,벨기에,1,1,2015,education
+Belgium,벨기에,0.974,66,2015,health
+Belgium,벨기에,0.275,35,2015,political
+Belgium,벨기에,0.753,20,2015,overall
+Belgium,벨기에,0.731,37,2016,economic
+Belgium,벨기에,1,1,2016,education
+Belgium,벨기에,0.974,64,2016,health
+Belgium,벨기에,0.275,35,2016,political
+Belgium,벨기에,0.7452,24,2016,overall
+Belize,벨리즈,N/A,N/A,2006,overall
+Belize,벨리즈,0.5521,96,2007,economic
+Belize,벨리즈,1,1,2007,education
+Belize,벨리즈,0.9796,1,2007,health
+Belize,벨리즈,0.0389,114,2007,political
+Belize,벨리즈,0.6426,92,2007,overall
+Belize,벨리즈,0.6094,79,2008,economic
+Belize,벨리즈,1,1,2008,education
+Belize,벨리즈,0.9796,1,2008,health
+Belize,벨리즈,0.0549,116,2008,political
+Belize,벨리즈,0.661,84,2008,overall
+Belize,벨리즈,0.6215,79,2009,economic
+Belize,벨리즈,0.9985,35,2009,education
+Belize,벨리즈,0.9796,1,2009,health
+Belize,벨리즈,0.0549,121,2009,political
+Belize,벨리즈,0.6636,85,2009,overall
+Belize,벨리즈,0.6362,72,2010,economic
+Belize,벨리즈,0.9987,32,2010,education
+Belize,벨리즈,0.9796,1,2010,health
+Belize,벨리즈,0,131,2010,political
+Belize,벨리즈,0.6536,93,2010,overall
+Belize,벨리즈,0.6162,81,2011,economic
+Belize,벨리즈,1,1,2011,education
+Belize,벨리즈,0.9796,1,2011,health
+Belize,벨리즈,0,132,2011,political
+Belize,벨리즈,0.6489,100,2011,overall
+Belize,벨리즈,0.6414,77,2012,economic
+Belize,벨리즈,0.955,100,2012,education
+Belize,벨리즈,0.9796,1,2012,health
+Belize,벨리즈,0.0099,131,2012,political
+Belize,벨리즈,0.6465,102,2012,overall
+Belize,벨리즈,0.6458,80,2013,economic
+Belize,벨리즈,0.9445,103,2013,education
+Belize,벨리즈,0.9796,1,2013,health
+Belize,벨리즈,0.0099,133,2013,political
+Belize,벨리즈,0.6449,107,2013,overall
+Belize,벨리즈,0.653,79,2014,economic
+Belize,벨리즈,1,1,2014,education
+Belize,벨리즈,0.9796,1,2014,health
+Belize,벨리즈,0.048,133,2014,political
+Belize,벨리즈,0.6701,96,2014,overall
+Belize,벨리즈,0.651,85,2015,economic
+Belize,벨리즈,0.994,68,2015,education
+Belize,벨리즈,0.98,1,2015,health
+Belize,벨리즈,0.048,135,2015,political
+Belize,벨리즈,0.668,103,2015,overall
+Belize,벨리즈,0.686,59,2016,economic
+Belize,벨리즈,0.99,75,2016,education
+Belize,벨리즈,0.98,1,2016,health
+Belize,벨리즈,0.048,135,2016,political
+Belize,벨리즈,0.6759,97,2016,overall
+Benin,베냉,0.6175,55,2006,economic
+Benin,베냉,0.6435,113,2006,education
+Benin,베냉,0.9688,86,2006,health
+Benin,베냉,0.082,76,2006,political
+Benin,베냉,0.578,109,2006,overall
+Benin,베냉,0.5429,102,2007,economic
+Benin,베냉,0.6579,125,2007,education
+Benin,베냉,0.9754,65,2007,health
+Benin,베냉,0.0864,81,2007,political
+Benin,베냉,0.5656,121,2007,overall
+Benin,베냉,0.5162,105,2008,economic
+Benin,베냉,0.6329,128,2008,education
+Benin,베냉,0.9754,67,2008,health
+Benin,베냉,0.1081,75,2008,political
+Benin,베냉,0.5582,124,2008,overall
+Benin,베냉,0.5463,110,2009,economic
+Benin,베냉,0.6273,132,2009,education
+Benin,베냉,0.9754,70,2009,health
+Benin,베냉,0.1081,79,2009,political
+Benin,베냉,0.5643,129,2009,overall
+Benin,베냉,0.6049,85,2010,economic
+Benin,베냉,0.6457,133,2010,education
+Benin,베냉,0.9612,110,2010,health
+Benin,베냉,0.0757,100,2010,political
+Benin,베냉,0.5719,128,2010,overall
+Benin,베냉,0.6494,67,2011,economic
+Benin,베냉,0.6558,133,2011,education
+Benin,베냉,0.9612,111,2011,health
+Benin,베냉,0.0664,104,2011,political
+Benin,베냉,0.5832,128,2011,overall
+Benin,베냉,0.7591,23,2012,economic
+Benin,베냉,0.6446,134,2012,education
+Benin,베냉,0.9612,111,2012,health
+Benin,베냉,0.1383,69,2012,political
+Benin,베냉,0.6258,117,2012,overall
+Benin,베냉,0.7419,31,2013,economic
+Benin,베냉,0.5127,136,2013,education
+Benin,베냉,0.9612,112,2013,health
+Benin,베냉,0.1383,72,2013,political
+Benin,베냉,0.5885,126,2013,overall
+Benin,베냉,N/A,N/A,2014,overall
+Benin,베냉,0.764,33,2015,economic
+Benin,베냉,0.7,144,2015,education
+Benin,베냉,0.967,117,2015,health
+Benin,베냉,0.067,127,2015,political
+Benin,베냉,0.625,128,2015,overall
+Benin,베냉,0.795,14,2016,economic
+Benin,베냉,0.712,143,2016,education
+Benin,베냉,0.967,116,2016,health
+Benin,베냉,0.067,128,2016,political
+Benin,베냉,0.6356,126,2016,overall
+Bhutan,부탄,N/A,N/A,2006,overall
+Bhutan,부탄,N/A,N/A,2007,overall
+Bhutan,부탄,N/A,N/A,2008,overall
+Bhutan,부탄,N/A,N/A,2009,overall
+Bhutan,부탄,N/A,N/A,2010,overall
+Bhutan,부탄,N/A,N/A,2011,overall
+Bhutan,부탄,N/A,N/A,2012,overall
+Bhutan,부탄,0.7528,27,2013,economic
+Bhutan,부탄,0.8843,116,2013,education
+Bhutan,부탄,0.9725,82,2013,health
+Bhutan,부탄,0.0509,122,2013,political
+Bhutan,부탄,0.6651,93,2013,overall
+Bhutan,부탄,0.6368,93,2014,economic
+Bhutan,부탄,0.886,123,2014,education
+Bhutan,부탄,0.9665,120,2014,health
+Bhutan,부탄,0.0563,130,2014,political
+Bhutan,부탄,0.6364,114,2014,overall
+Bhutan,부탄,0.641,90,2015,economic
+Bhutan,부탄,0.921,121,2015,education
+Bhutan,부탄,0.966,126,2015,health
+Bhutan,부탄,0.056,132,2015,political
+Bhutan,부탄,0.646,118,2015,overall
+Bhutan,부탄,0.619,99,2016,economic
+Bhutan,부탄,0.925,121,2016,education
+Bhutan,부탄,0.966,125,2016,health
+Bhutan,부탄,0.056,132,2016,political
+Bhutan,부탄,0.6417,120,2016,overall
+Bolivia,볼리비아,0.5594,77,2006,economic
+Bolivia,볼리비아,0.917,89,2006,education
+Bolivia,볼리비아,0.9703,79,2006,health
+Bolivia,볼리비아,0.0875,71,2006,political
+Bolivia,볼리비아,0.6335,86,2006,overall
+Bolivia,볼리비아,0.6072,77,2007,economic
+Bolivia,볼리비아,0.968,85,2007,education
+Bolivia,볼리비아,0.9668,107,2007,health
+Bolivia,볼리비아,0.0875,79,2007,political
+Bolivia,볼리비아,0.6574,78,2007,overall
+Bolivia,볼리비아,0.5837,88,2008,economic
+Bolivia,볼리비아,0.9713,90,2008,education
+Bolivia,볼리비아,0.9668,108,2008,health
+Bolivia,볼리비아,0.145,51,2008,political
+Bolivia,볼리비아,0.6667,78,2008,overall
+Bolivia,볼리비아,0.5906,94,2009,economic
+Bolivia,볼리비아,0.9746,91,2009,education
+Bolivia,볼리비아,0.9668,112,2009,health
+Bolivia,볼리비아,0.145,56,2009,political
+Bolivia,볼리비아,0.6693,80,2009,overall
+Bolivia,볼리비아,0.5957,91,2010,economic
+Bolivia,볼리비아,0.9592,97,2010,education
+Bolivia,볼리비아,0.9719,82,2010,health
+Bolivia,볼리비아,0.1735,46,2010,political
+Bolivia,볼리비아,0.6751,76,2010,overall
+Bolivia,볼리비아,0.6352,72,2011,economic
+Bolivia,볼리비아,0.9646,95,2011,education
+Bolivia,볼리비아,0.9719,84,2011,health
+Bolivia,볼리비아,0.1732,45,2011,political
+Bolivia,볼리비아,0.6862,62,2011,overall
+Bolivia,볼리비아,0.6365,79,2012,economic
+Bolivia,볼리비아,0.9629,98,2012,education
+Bolivia,볼리비아,0.9719,84,2012,health
+Bolivia,볼리비아,0.3175,20,2012,political
+Bolivia,볼리비아,0.7222,30,2012,overall
+Bolivia,볼리비아,0.6841,57,2013,economic
+Bolivia,볼리비아,0.9623,99,2013,education
+Bolivia,볼리비아,0.9719,84,2013,health
+Bolivia,볼리비아,0.3175,23,2013,political
+Bolivia,볼리비아,0.734,27,2013,overall
+Bolivia,볼리비아,0.6379,92,2014,economic
+Bolivia,볼리비아,0.9697,99,2014,education
+Bolivia,볼리비아,0.977,56,2014,health
+Bolivia,볼리비아,0.235,40,2014,political
+Bolivia,볼리비아,0.7049,56,2014,overall
+Bolivia,볼리비아,0.634,96,2015,economic
+Bolivia,볼리비아,0.967,101,2015,education
+Bolivia,볼리비아,0.98,1,2015,health
+Bolivia,볼리비아,0.415,10,2015,political
+Bolivia,볼리비아,0.749,22,2015,overall
+Bolivia,볼리비아,0.619,98,2016,economic
+Bolivia,볼리비아,0.97,98,2016,education
+Bolivia,볼리비아,0.98,1,2016,health
+Bolivia,볼리비아,0.415,11,2016,political
+Bolivia,볼리비아,0.7457,23,2016,overall
+Bosnia and Herzegovina,보스니아 헤르체고비나,0.581,113,2016,economic
+Bosnia and Herzegovina,보스니아 헤르체고비나,0.973,76,2016,health
+Bosnia and Herzegovina,보스니아 헤르체고비나,0.191,62,2016,political
+Bosnia and Herzegovina,Bosnia and Herzegovina,0.996,50,2016,education
+Botswana,보츠와나,0.6926,23,2006,economic
+Botswana,보츠와나,0.9814,67,2006,education
+Botswana,보츠와나,0.9561,109,2006,health
+Botswana,보츠와나,0.1287,47,2006,political
+Botswana,보츠와나,0.6897,34,2006,overall
+Botswana,보츠와나,0.6397,63,2007,economic
+Botswana,보츠와나,0.9979,30,2007,education
+Botswana,보츠와나,0.9527,118,2007,health
+Botswana,보츠와나,0.1287,53,2007,political
+Botswana,보츠와나,0.6797,51,2007,overall
+Botswana,보츠와나,0.6492,61,2008,economic
+Botswana,보츠와나,0.9999,26,2008,education
+Botswana,보츠와나,0.9527,120,2008,health
+Botswana,보츠와나,0.1338,61,2008,political
+Botswana,보츠와나,0.6839,61,2008,overall
+Botswana,보츠와나,0.742,22,2009,economic
+Botswana,보츠와나,0.9999,27,2009,education
+Botswana,보츠와나,0.9527,124,2009,health
+Botswana,보츠와나,0.1338,66,2009,political
+Botswana,보츠와나,0.7071,38,2009,overall
+Botswana,보츠와나,0.7359,29,2010,economic
+Botswana,보츠와나,1,1,2010,education
+Botswana,보츠와나,0.9549,125,2010,health
+Botswana,보츠와나,0.0597,108,2010,political
+Botswana,보츠와나,0.6876,62,2010,overall
+Botswana,보츠와나,0.7185,37,2011,economic
+Botswana,보츠와나,1,1,2011,education
+Botswana,보츠와나,0.9549,126,2011,health
+Botswana,보츠와나,0.0595,111,2011,political
+Botswana,보츠와나,0.6832,66,2011,overall
+Botswana,보츠와나,0.7076,45,2012,economic
+Botswana,보츠와나,1,1,2012,education
+Botswana,보츠와나,0.9549,125,2012,health
+Botswana,보츠와나,0.0353,124,2012,political
+Botswana,보츠와나,0.6744,77,2012,overall
+Botswana,보츠와나,0.7108,48,2013,economic
+Botswana,보츠와나,1,1,2013,education
+Botswana,보츠와나,0.9549,127,2013,health
+Botswana,보츠와나,0.0353,127,2013,political
+Botswana,보츠와나,0.6752,85,2013,overall
+Botswana,보츠와나,0.8166,8,2014,economic
+Botswana,보츠와나,1,1,2014,education
+Botswana,보츠와나,0.9671,112,2014,health
+Botswana,보츠와나,0.0679,124,2014,political
+Botswana,보츠와나,0.7129,49,2014,overall
+Botswana,보츠와나,0.8,15,2015,economic
+Botswana,보츠와나,1,1,2015,education
+Botswana,보츠와나,0.973,87,2015,health
+Botswana,보츠와나,0.068,126,2015,political
+Botswana,보츠와나,0.71,54,2015,overall
+Botswana,보츠와나,0.819,6,2016,economic
+Botswana,보츠와나,1,1,2016,education
+Botswana,보츠와나,0.973,85,2016,health
+Botswana,보츠와나,0.068,126,2016,political
+Botswana,보츠와나,0.715,54,2016,overall
+Brazil,브라질,0.6044,63,2006,economic
+Brazil,브라질,0.9724,74,2006,education
+Brazil,브라질,0.9796,1,2006,health
+Brazil,브라질,0.061,86,2006,political
+Brazil,브라질,0.6543,66,2006,overall
+Brazil,브라질,0.6449,62,2007,economic
+Brazil,브라질,0.9686,84,2007,education
+Brazil,브라질,0.9796,1,2007,health
+Brazil,브라질,0.0617,96,2007,political
+Brazil,브라질,0.6637,72,2007,overall
+Brazil,브라질,0.6526,59,2008,economic
+Brazil,브라질,1,1,2008,education
+Brazil,브라질,0.9796,1,2008,health
+Brazil,브라질,0.0625,110,2008,political
+Brazil,브라질,0.6737,71,2008,overall
+Brazil,브라질,0.6369,75,2009,economic
+Brazil,브라질,0.9991,32,2009,education
+Brazil,브라질,0.9796,1,2009,health
+Brazil,브라질,0.0625,114,2009,political
+Brazil,브라질,0.6695,79,2009,overall
+Brazil,브라질,0.6431,66,2010,economic
+Brazil,브라질,0.9904,63,2010,education
+Brazil,브라질,0.9796,1,2010,health
+Brazil,브라질,0.0488,112,2010,political
+Brazil,브라질,0.6655,85,2010,overall
+Brazil,브라질,0.649,68,2011,economic
+Brazil,브라질,0.9904,66,2011,education
+Brazil,브라질,0.9796,1,2011,health
+Brazil,브라질,0.0526,114,2011,political
+Brazil,브라질,0.6679,82,2011,overall
+Brazil,브라질,0.6499,73,2012,economic
+Brazil,브라질,1,1,2012,education
+Brazil,브라질,0.9796,1,2012,health
+Brazil,브라질,0.1344,72,2012,political
+Brazil,브라질,0.6909,62,2012,overall
+Brazil,브라질,0.6561,74,2013,economic
+Brazil,브라질,1,1,2013,education
+Brazil,브라질,0.9796,1,2013,health
+Brazil,브라질,0.144,68,2013,political
+Brazil,브라질,0.6949,62,2013,overall
+Brazil,브라질,0.6491,81,2014,economic
+Brazil,브라질,1,1,2014,education
+Brazil,브라질,0.9796,1,2014,health
+Brazil,브라질,0.1476,74,2014,political
+Brazil,브라질,0.6941,69,2014,overall
+Brazil,브라질,0.642,89,2015,economic
+Brazil,브라질,1,1,2015,education
+Brazil,브라질,0.98,1,2015,health
+Brazil,브라질,0.123,89,2015,political
+Brazil,브라질,0.686,83,2015,overall
+Brazil,브라질,0.64,91,2016,economic
+Brazil,브라질,0.998,42,2016,education
+Brazil,브라질,0.98,1,2016,health
+Brazil,브라질,0.132,86,2016,political
+Brazil,브라질,0.6873,79,2016,overall
+Brunei Darussalam,브루나이,N/A,N/A,2006,overall
+Brunei Darussalam,브루나이,N/A,N/A,2007,overall
+Brunei Darussalam,브루나이,0.57,91,2008,economic
+Brunei Darussalam,브루나이,0.9934,62,2008,education
+Brunei Darussalam,브루나이,0.9659,109,2008,health
+Brunei Darussalam,브루나이,0.0275,122,2008,political
+Brunei Darussalam,브루나이,0.6392,97,2008,overall
+Brunei Darussalam,브루나이,0.6239,78,2009,economic
+Brunei Darussalam,브루나이,0.9923,65,2009,education
+Brunei Darussalam,브루나이,0.9659,113,2009,health
+Brunei Darussalam,브루나이,0.0275,127,2009,political
+Brunei Darussalam,브루나이,0.6524,92,2009,overall
+Brunei Darussalam,브루나이,0.7404,26,2010,economic
+Brunei Darussalam,브루나이,0.9931,56,2010,education
+Brunei Darussalam,브루나이,0.9658,107,2010,health
+Brunei Darussalam,브루나이,0,131,2010,political
+Brunei Darussalam,브루나이,0.6748,77,2010,overall
+Brunei Darussalam,브루나이,0.7552,20,2011,economic
+Brunei Darussalam,브루나이,0.9938,52,2011,education
+Brunei Darussalam,브루나이,0.9658,108,2011,health
+Brunei Darussalam,브루나이,0,132,2011,political
+Brunei Darussalam,브루나이,0.6787,76,2011,overall
+Brunei Darussalam,브루나이,0.7403,30,2012,economic
+Brunei Darussalam,브루나이,0.9937,56,2012,education
+Brunei Darussalam,브루나이,0.9658,109,2012,health
+Brunei Darussalam,브루나이,0,133,2012,political
+Brunei Darussalam,브루나이,0.675,75,2012,overall
+Brunei Darussalam,브루나이,0.7372,33,2013,economic
+Brunei Darussalam,브루나이,0.9889,76,2013,education
+Brunei Darussalam,브루나이,0.9658,109,2013,health
+Brunei Darussalam,브루나이,0,135,2013,political
+Brunei Darussalam,브루나이,0.673,88,2013,overall
+Brunei Darussalam,브루나이,0.736,36,2014,economic
+Brunei Darussalam,브루나이,0.9858,88,2014,education
+Brunei Darussalam,브루나이,0.9657,126,2014,health
+Brunei Darussalam,브루나이,0,142,2014,political
+Brunei Darussalam,브루나이,0.6719,94,2014,overall
+Brunei Darussalam,브루나이,0.78,23,2015,economic
+Brunei Darussalam,브루나이,0.993,70,2015,education
+Brunei Darussalam,브루나이,0.966,131,2015,health
+Brunei Darussalam,브루나이,0,145,2015,political
+Brunei Darussalam,브루나이,0.684,87,2015,overall
+Brunei Darussalam,브루나이,0.696,56,2016,economic
+Brunei Darussalam,브루나이,0.992,70,2016,education
+Brunei Darussalam,브루나이,0.966,130,2016,health
+Brunei Darussalam,브루나이,0.021,141,2016,political
+Brunei Darussalam,브루나이,0.6686,102,2016,overall
+Bulgaria,불가리아,0.6132,58,2006,economic
+Bulgaria,불가리아,0.9889,56,2006,education
+Bulgaria,불가리아,0.9791,36,2006,health
+Bulgaria,불가리아,0.1666,30,2006,political
+Bulgaria,불가리아,0.687,36,2006,overall
+Bulgaria,불가리아,0.6992,30,2007,economic
+Bulgaria,불가리아,0.9889,62,2007,education
+Bulgaria,불가리아,0.9791,37,2007,health
+Bulgaria,불가리아,0.1666,32,2007,political
+Bulgaria,불가리아,0.7085,24,2007,overall
+Bulgaria,불가리아,0.6975,35,2008,economic
+Bulgaria,불가리아,0.9901,73,2008,education
+Bulgaria,불가리아,0.9791,38,2008,health
+Bulgaria,불가리아,0.1641,43,2008,political
+Bulgaria,불가리아,0.7077,35,2008,overall
+Bulgaria,불가리아,0.6935,40,2009,economic
+Bulgaria,불가리아,0.9921,66,2009,education
+Bulgaria,불가리아,0.9791,41,2009,health
+Bulgaria,불가리아,0.1641,42,2009,political
+Bulgaria,불가리아,0.7072,37,2009,overall
+Bulgaria,불가리아,0.6843,50,2010,economic
+Bulgaria,불가리아,0.9925,58,2010,education
+Bulgaria,불가리아,0.9791,40,2010,health
+Bulgaria,불가리아,0.1372,64,2010,political
+Bulgaria,불가리아,0.6983,50,2010,overall
+Bulgaria,불가리아,0.6867,48,2011,economic
+Bulgaria,불가리아,0.9923,58,2011,education
+Bulgaria,불가리아,0.9791,41,2011,health
+Bulgaria,불가리아,0.1367,67,2011,political
+Bulgaria,불가리아,0.6987,51,2011,overall
+Bulgaria,불가리아,0.696,50,2012,economic
+Bulgaria,불가리아,0.9924,64,2012,education
+Bulgaria,불가리아,0.9791,34,2012,health
+Bulgaria,불가리아,0.1409,67,2012,political
+Bulgaria,불가리아,0.7021,52,2012,overall
+Bulgaria,불가리아,0.7067,49,2013,economic
+Bulgaria,불가리아,0.9924,64,2013,education
+Bulgaria,불가리아,0.9791,34,2013,health
+Bulgaria,불가리아,0.1606,58,2013,political
+Bulgaria,불가리아,0.7097,43,2013,overall
+Bulgaria,불가리아,0.7288,39,2014,economic
+Bulgaria,불가리아,0.9934,66,2014,education
+Bulgaria,불가리아,0.9791,37,2014,health
+Bulgaria,불가리아,0.2764,31,2014,political
+Bulgaria,불가리아,0.7444,21,2014,overall
+Bulgaria,불가리아,0.701,55,2015,economic
+Bulgaria,불가리아,0.992,72,2015,education
+Bulgaria,불가리아,0.979,42,2015,health
+Bulgaria,불가리아,0.215,48,2015,political
+Bulgaria,불가리아,0.722,43,2015,overall
+Bulgaria,불가리아,0.716,43,2016,economic
+Bulgaria,불가리아,0.993,65,2016,education
+Bulgaria,불가리아,0.979,40,2016,health
+Bulgaria,불가리아,0.215,51,2016,political
+Bulgaria,불가리아,0.7257,41,2016,overall
+Burkina Faso,부르키나파소,0.6387,49,2006,economic
+Burkina Faso,부르키나파소,0.6456,112,2006,education
+Burkina Faso,부르키나파소,0.9733,68,2006,health
+Burkina Faso,부르키나파소,0.084,74,2006,political
+Burkina Faso,부르키나파소,0.5854,103,2006,overall
+Burkina Faso,부르키나파소,0.6313,67,2007,economic
+Burkina Faso,부르키나파소,0.6798,124,2007,education
+Burkina Faso,부르키나파소,0.9699,92,2007,health
+Burkina Faso,부르키나파소,0.084,84,2007,political
+Burkina Faso,부르키나파소,0.5912,115,2007,overall
+Burkina Faso,부르키나파소,0.6377,67,2008,economic
+Burkina Faso,부르키나파소,0.7068,125,2008,education
+Burkina Faso,부르키나파소,0.9699,93,2008,health
+Burkina Faso,부르키나파소,0.0971,82,2008,political
+Burkina Faso,부르키나파소,0.6029,113,2008,overall
+Burkina Faso,부르키나파소,0.6395,72,2009,economic
+Burkina Faso,부르키나파소,0.726,129,2009,education
+Burkina Faso,부르키나파소,0.9699,98,2009,health
+Burkina Faso,부르키나파소,0.0971,88,2009,political
+Burkina Faso,부르키나파소,0.6081,118,2009,overall
+Burkina Faso,부르키나파소,0.6383,69,2010,economic
+Burkina Faso,부르키나파소,0.7485,128,2010,education
+Burkina Faso,부르키나파소,0.9685,98,2010,health
+Burkina Faso,부르키나파소,0.1098,77,2010,political
+Burkina Faso,부르키나파소,0.6162,111,2010,overall
+Burkina Faso,부르키나파소,0.6266,76,2011,economic
+Burkina Faso,부르키나파소,0.7563,129,2011,education
+Burkina Faso,부르키나파소,0.9685,98,2011,health
+Burkina Faso,부르키나파소,0.1097,77,2011,political
+Burkina Faso,부르키나파소,0.6153,115,2011,overall
+Burkina Faso,부르키나파소,0.7376,32,2012,economic
+Burkina Faso,부르키나파소,0.7864,125,2012,education
+Burkina Faso,부르키나파소,0.9685,100,2012,health
+Burkina Faso,부르키나파소,0.0897,94,2012,political
+Burkina Faso,부르키나파소,0.6455,104,2012,overall
+Burkina Faso,부르키나파소,0.7467,28,2013,economic
+Burkina Faso,부르키나파소,0.7987,128,2013,education
+Burkina Faso,부르키나파소,0.9685,99,2013,health
+Burkina Faso,부르키나파소,0.0914,98,2013,political
+Burkina Faso,부르키나파소,0.6513,103,2013,overall
+Burkina Faso,부르키나파소,0.722,43,2014,economic
+Burkina Faso,부르키나파소,0.7988,133,2014,education
+Burkina Faso,부르키나파소,0.9673,110,2014,health
+Burkina Faso,부르키나파소,0.1117,92,2014,political
+Burkina Faso,부르키나파소,0.65,106,2014,overall
+Burkina Faso,부르키나파소,0.721,45,2015,economic
+Burkina Faso,부르키나파소,0.831,134,2015,education
+Burkina Faso,부르키나파소,0.967,117,2015,health
+Burkina Faso,부르키나파소,0.083,118,2015,political
+Burkina Faso,부르키나파소,0.651,112,2015,overall
+Burkina Faso,부르키나파소,0.714,44,2016,economic
+Burkina Faso,부르키나파소,0.809,136,2016,education
+Burkina Faso,부르키나파소,0.967,116,2016,health
+Burkina Faso,부르키나파소,0.068,127,2016,political
+Burkina Faso,부르키나파소,0.6396,122,2016,overall
+Burundi,부룬디,N/A,N/A,2006,overall
+Burundi,부룬디,N/A,N/A,2007,overall
+Burundi,부룬디,N/A,N/A,2008,overall
+Burundi,부룬디,N/A,N/A,2009,overall
+Burundi,부룬디,N/A,N/A,2010,overall
+Burundi,부룬디,0.8355,4,2011,economic
+Burundi,부룬디,0.8565,119,2011,education
+Burundi,부룬디,0.9685,98,2011,health
+Burundi,부룬디,0.2477,32,2011,political
+Burundi,부룬디,0.727,24,2011,overall
+Burundi,부룬디,0.8322,3,2012,economic
+Burundi,부룬디,0.8644,117,2012,education
+Burundi,부룬디,0.9685,100,2012,health
+Burundi,부룬디,0.2702,30,2012,political
+Burundi,부룬디,0.7338,24,2012,overall
+Burundi,부룬디,0.8307,3,2013,economic
+Burundi,부룬디,0.8895,114,2013,education
+Burundi,부룬디,0.9685,99,2013,health
+Burundi,부룬디,0.2702,31,2013,political
+Burundi,부룬디,0.7397,22,2013,overall
+Burundi,부룬디,0.863,1,2014,economic
+Burundi,부룬디,0.9013,120,2014,education
+Burundi,부룬디,0.9796,1,2014,health
+Burundi,부룬디,0.2822,30,2014,political
+Burundi,부룬디,0.7565,16,2014,overall
+Burundi,부룬디,0.845,3,2015,economic
+Burundi,부룬디,0.857,131,2015,education
+Burundi,부룬디,0.974,68,2015,health
+Burundi,부룬디,0.314,28,2015,political
+Burundi,부룬디,0.748,24,2015,overall
+Burundi,부룬디,0.865,1,2016,economic
+Burundi,부룬디,0.917,124,2016,education
+Burundi,부룬디,0.974,66,2016,health
+Burundi,부룬디,0.314,28,2016,political
+Burundi,부룬디,0.7675,12,2016,overall
+Ivory Coast,코트디부아르,N/A,N/A,2006,overall
+Ivory Coast,코트디부아르,N/A,N/A,2007,overall
+Ivory Coast,코트디부아르,N/A,N/A,2008,overall
+Ivory Coast,코트디부아르,N/A,N/A,2009,overall
+Ivory Coast,코트디부아르,0.5691,130,2010,overall
+Ivory Coast,코트디부아르,0.5773,130,2011,overall
+Ivory Coast,코트디부아르,0.5785,130,2012,overall
+Ivory Coast,코트디부아르,0.7141,133,2013,education
+Ivory Coast,코트디부아르,0.9796,1,2013,health
+Ivory Coast,코트디부아르,0.5814,131,2013,overall
+Ivory Coast,코트디부아르,0.5817,112,2014,economic
+Ivory Coast,코트디부아르,0.7217,137,2014,education
+Ivory Coast,코트디부아르,0.968,104,2014,health
+Ivory Coast,코트디부아르,0.0781,115,2014,political
+Ivory Coast,코트디부아르,0.5874,130,2014,overall
+Ivory Coast,코트디부아르,0.603,112,2015,economic
+Ivory Coast,코트디부아르,0.773,138,2015,education
+Ivory Coast,코트디부아르,0.968,113,2015,health
+Ivory Coast,코트디부아르,0.081,119,2015,political
+Ivory Coast,코트디부아르,0.606,133,2015,overall
+Ivory Coast,코트디부아르,0.575,116,2016,economic
+Ivory Coast,코트디부아르,0.764,139,2016,education
+Ivory Coast,코트디부아르,0.968,112,2016,health
+Ivory Coast,코트디부아르,0.081,120,2016,political
+Ivory Coast,코트디부아르,0.597,135,2016,overall
+Ivory Coast,코트디부아르,0.539,106,2010,economic
+Ivory Coast,코트디부아르,0.6923,130,2010,education
+Ivory Coast,코트디부아르,0.9796,1,2010,health
+Ivory Coast,코트디부아르,0.0655,104,2010,political
+Ivory Coast,코트디부아르,0.5569,103,2011,economic
+Ivory Coast,코트디부아르,0.7073,130,2011,education
+Ivory Coast,코트디부아르,0.9796,1,2011,health
+Ivory Coast,코트디부아르,0.0656,105,2011,political
+Ivory Coast,코트디부아르,0.5468,111,2012,economic
+Ivory Coast,코트디부아르,0.7095,131,2012,education
+Ivory Coast,코트디부아르,0.9796,1,2012,health
+Ivory Coast,코트디부아르,0.0782,104,2012,political
+Ivory Coast,코트디부아르,0.5561,110,2013,economic
+Cambodia,캄보디아,0.6754,29,2006,economic
+Cambodia,캄보디아,0.809,105,2006,education
+Cambodia,캄보디아,0.9796,1,2006,health
+Cambodia,캄보디아,0.0525,94,2006,political
+Cambodia,캄보디아,0.6291,88,2006,overall
+Cambodia,캄보디아,0.664,52,2007,economic
+Cambodia,캄보디아,0.8451,112,2007,education
+Cambodia,캄보디아,0.9796,1,2007,health
+Cambodia,캄보디아,0.0525,105,2007,political
+Cambodia,캄보디아,0.6353,96,2007,overall
+Cambodia,캄보디아,0.6588,56,2008,economic
+Cambodia,캄보디아,0.8559,114,2008,education
+Cambodia,캄보디아,0.9796,1,2008,health
+Cambodia,캄보디아,0.0933,87,2008,political
+Cambodia,캄보디아,0.6469,92,2008,overall
+Cambodia,캄보디아,0.6488,65,2009,economic
+Cambodia,캄보디아,0.8568,117,2009,education
+Cambodia,캄보디아,0.9796,1,2009,health
+Cambodia,캄보디아,0.0786,98,2009,political
+Cambodia,캄보디아,0.641,102,2009,overall
+Cambodia,캄보디아,0.6383,68,2010,economic
+Cambodia,캄보디아,0.8655,115,2010,education
+Cambodia,캄보디아,0.9796,1,2010,health
+Cambodia,캄보디아,0.1095,78,2010,political
+Cambodia,캄보디아,0.6482,97,2010,overall
+Cambodia,캄보디아,0.6315,75,2011,economic
+Cambodia,캄보디아,0.8651,116,2011,education
+Cambodia,캄보디아,0.9796,1,2011,health
+Cambodia,캄보디아,0.1093,78,2011,political
+Cambodia,캄보디아,0.6464,102,2011,overall
+Cambodia,캄보디아,0.6402,78,2012,economic
+Cambodia,캄보디아,0.8714,116,2012,education
+Cambodia,캄보디아,0.9796,1,2012,health
+Cambodia,캄보디아,0.0916,91,2012,political
+Cambodia,캄보디아,0.6457,103,2012,overall
+Cambodia,캄보디아,0.6514,77,2013,economic
+Cambodia,캄보디아,0.8811,117,2013,education
+Cambodia,캄보디아,0.9796,1,2013,health
+Cambodia,캄보디아,0.0916,96,2013,political
+Cambodia,캄보디아,0.6509,104,2013,overall
+Cambodia,캄보디아,0.654,77,2014,economic
+Cambodia,캄보디아,0.8833,124,2014,education
+Cambodia,캄보디아,0.9796,1,2014,health
+Cambodia,캄보디아,0.0911,110,2014,political
+Cambodia,캄보디아,0.652,104,2014,overall
+Cambodia,캄보디아,0.681,63,2015,economic
+Cambodia,캄보디아,0.891,127,2015,education
+Cambodia,캄보디아,0.98,1,2015,health
+Cambodia,캄보디아,0.098,109,2015,political
+Cambodia,캄보디아,0.622,130,2015,overall
+Cambodia,캄보디아,0.659,77,2016,economic
+Cambodia,캄보디아,0.897,128,2016,education
+Cambodia,캄보디아,0.98,1,2016,health
+Cambodia,캄보디아,0.098,108,2016,political
+Cambodia,캄보디아,0.6581,111,2016,overall
+Cameroon,카메룬,0.4951,94,2006,economic
+Cameroon,카메룬,0.824,101,2006,education
+Cameroon,카메룬,0.966,97,2006,health
+Cameroon,카메룬,0.0611,85,2006,political
+Cameroon,카메룬,0.5865,102,2006,overall
+Cameroon,카메룬,0.5114,107,2007,economic
+Cameroon,카메룬,0.8264,115,2007,education
+Cameroon,카메룬,0.9686,100,2007,health
+Cameroon,카메룬,0.0611,97,2007,political
+Cameroon,카메룬,0.5919,114,2007,overall
+Cameroon,카메룬,0.5211,104,2008,economic
+Cameroon,카메룬,0.8343,119,2008,education
+Cameroon,카메룬,0.9686,101,2008,health
+Cameroon,카메룬,0.0825,97,2008,political
+Cameroon,카메룬,0.6017,115,2008,overall
+Cameroon,카메룬,0.5498,107,2009,economic
+Cameroon,카메룬,0.8421,122,2009,education
+Cameroon,카메룬,0.9686,106,2009,health
+Cameroon,카메룬,0.0825,95,2009,political
+Cameroon,카메룬,0.6108,116,2009,overall
+Cameroon,카메룬,0.5414,105,2010,economic
+Cameroon,카메룬,0.8585,117,2010,education
+Cameroon,카메룬,0.9612,110,2010,health
+Cameroon,카메룬,0.0829,93,2010,political
+Cameroon,카메룬,0.611,114,2010,overall
+Cameroon,카메룬,0.5252,112,2011,economic
+Cameroon,카메룬,0.8597,118,2011,education
+Cameroon,카메룬,0.9612,111,2011,health
+Cameroon,카메룬,0.083,96,2011,political
+Cameroon,카메룬,0.6073,119,2011,overall
+Cameroon,카메룬,0.6834,52,2012,economic
+Cameroon,카메룬,0.7816,126,2012,education
+Cameroon,카메룬,0.9612,111,2012,health
+Cameroon,카메룬,0.0902,92,2012,political
+Cameroon,카메룬,0.6291,112,2012,overall
+Cameroon,카메룬,0.7258,40,2013,economic
+Cameroon,카메룬,0.847,122,2013,education
+Cameroon,카메룬,0.9612,112,2013,health
+Cameroon,카메룬,0.0902,99,2013,political
+Cameroon,카메룬,0.656,100,2013,overall
+Cameroon,카메룬,N/A,N/A,2014,overall
+Cameroon,카메룬,0.724,44,2015,economic
+Cameroon,카메룬,0.857,130,2015,education
+Cameroon,카메룬,0.968,115,2015,health
+Cameroon,카메룬,0.18,63,2015,political
+Cameroon,카메룬,0.682,89,2015,overall
+Cameroon,카메룬,0.727,39,2016,economic
+Cameroon,카메룬,0.862,130,2016,education
+Cameroon,카메룬,0.968,114,2016,health
+Cameroon,카메룬,0.18,65,2016,political
+Cameroon,카메룬,0.6841,84,2016,overall
+Canada,캐나다,0.7296,10,2006,economic
+Canada,캐나다,0.9987,21,2006,education
+Canada,캐나다,0.9784,51,2006,health
+Canada,캐나다,0.1592,33,2006,political
+Canada,캐나다,0.7165,14,2006,overall
+Canada,캐나다,0.7428,13,2007,economic
+Canada,캐나다,0.9987,26,2007,education
+Canada,캐나다,0.9787,51,2007,health
+Canada,캐나다,0.1592,36,2007,political
+Canada,캐나다,0.7198,18,2007,overall
+Canada,캐나다,0.7441,15,2008,economic
+Canada,캐나다,0.9977,37,2008,education
+Canada,캐나다,0.9783,57,2008,health
+Canada,캐나다,0.1343,60,2008,political
+Canada,캐나다,0.7136,31,2008,overall
+Canada,캐나다,0.7641,10,2009,economic
+Canada,캐나다,0.9977,38,2009,education
+Canada,캐나다,0.9783,60,2009,health
+Canada,캐나다,0.1383,62,2009,political
+Canada,캐나다,0.7196,25,2009,overall
+Canada,캐나다,0.7768,8,2010,economic
+Canada,캐나다,0.9977,35,2010,education
+Canada,캐나다,0.9784,47,2010,health
+Canada,캐나다,0.1959,36,2010,political
+Canada,캐나다,0.7372,20,2010,overall
+Canada,캐나다,0.7759,10,2011,economic
+Canada,캐나다,0.9989,31,2011,education
+Canada,캐나다,0.9784,49,2011,health
+Canada,캐나다,0.2095,36,2011,political
+Canada,캐나다,0.7407,18,2011,overall
+Canada,캐나다,0.7877,12,2012,economic
+Canada,캐나다,0.9909,70,2012,education
+Canada,캐나다,0.978,52,2012,health
+Canada,캐나다,0.1959,38,2012,political
+Canada,캐나다,0.7381,21,2012,overall
+Canada,캐나다,0.7959,9,2013,economic
+Canada,캐나다,1,1,2013,education
+Canada,캐나다,0.978,49,2013,health
+Canada,캐나다,0.1959,42,2013,political
+Canada,캐나다,0.7425,20,2013,overall
+Canada,캐나다,0.7928,17,2014,economic
+Canada,캐나다,1,1,2014,education
+Canada,캐나다,0.9694,100,2014,health
+Canada,캐나다,0.2233,42,2014,political
+Canada,캐나다,0.7464,18,2014,overall
+Canada,캐나다,0.773,28,2015,economic
+Canada,캐나다,1,1,2015,education
+Canada,캐나다,0.969,109,2015,health
+Canada,캐나다,0.218,46,2015,political
+Canada,캐나다,0.74,29,2015,overall
+Canada,캐나다,0.732,36,2016,economic
+Canada,캐나다,1,1,2016,education
+Canada,캐나다,0.969,108,2016,health
+Canada,캐나다,0.222,49,2016,political
+Canada,캐나다,0.7309,35,2016,overall
+Cape Verde,카보베르데,N/A,N/A,2006,overall
+Cape Verde,카보베르데,N/A,N/A,2007,overall
+Cape Verde,카보베르데,N/A,N/A,2008,overall
+Cape Verde,카보베르데,N/A,N/A,2009,overall
+Cape Verde,카보베르데,N/A,N/A,2010,overall
+Cape Verde,카보베르데,N/A,N/A,2011,overall
+Cape Verde,카보베르데,0.6231,84,2012,economic
+Cape Verde,카보베르데,0.9681,97,2012,education
+Cape Verde,카보베르데,0.9796,1,2012,health
+Cape Verde,카보베르데,0.3011,25,2012,political
+Cape Verde,카보베르데,0.718,35,2012,overall
+Cape Verde,카보베르데,0.602,96,2013,economic
+Cape Verde,카보베르데,0.9663,97,2013,education
+Cape Verde,카보베르데,0.9796,1,2013,health
+Cape Verde,카보베르데,0.3011,25,2013,political
+Cape Verde,카보베르데,0.7122,41,2013,overall
+Cape Verde,카보베르데,0.6077,107,2014,economic
+Cape Verde,카보베르데,0.9648,102,2014,education
+Cape Verde,카보베르데,0.9796,1,2014,health
+Cape Verde,카보베르데,0.3013,26,2014,political
+Cape Verde,카보베르데,0.7133,48,2014,overall
+Cape Verde,카보베르데,0.591,115,2015,economic
+Cape Verde,카보베르데,0.97,99,2015,education
+Cape Verde,카보베르데,0.98,1,2015,health
+Cape Verde,카보베르데,0.329,25,2015,political
+Cape Verde,카보베르데,0.717,49,2015,overall
+Cape Verde,카보베르데,0.61,104,2016,economic
+Cape Verde,카보베르데,0.984,90,2016,education
+Cape Verde,카보베르데,0.98,1,2016,health
+Cape Verde,카보베르데,0.343,23,2016,political
+Cape Verde,카보베르데,0.7292,36,2016,overall
+Ivory Coast,코트디부아르,0.0758,107,2013,political
+Iceland,아이스랜드,0.7544,1,2013,political
+Chad,차드,0.6011,65,2006,economic
+Chad,차드,0.4678,115,2006,education
+Chad,차드,0.9764,56,2006,health
+Chad,차드,0.0537,91,2006,political
+Chad,차드,0.5247,112,2006,overall
+Chad,차드,0.6523,58,2007,economic
+Chad,차드,0.4699,128,2007,education
+Chad,차드,0.9765,60,2007,health
+Chad,차드,0.0537,102,2007,political
+Chad,차드,0.5381,125,2007,overall
+Chad,차드,0.6028,81,2008,economic
+Chad,차드,0.4683,130,2008,education
+Chad,차드,0.9765,62,2008,health
+Chad,차드,0.0685,105,2008,political
+Chad,차드,0.529,127,2008,overall
+Chad,차드,0.6474,66,2009,economic
+Chad,차드,0.4743,134,2009,education
+Chad,차드,0.9765,65,2009,health
+Chad,차드,0.0685,106,2009,political
+Chad,차드,0.5417,131,2009,overall
+Chad,차드,0.6265,77,2010,economic
+Chad,차드,0.5091,134,2010,education
+Chad,차드,0.9612,110,2010,health
+Chad,차드,0.0352,122,2010,political
+Chad,차드,0.533,133,2010,overall
+Chad,차드,0.593,98,2011,economic
+Chad,차드,0.5158,135,2011,education
+Chad,차드,0.9612,111,2011,health
+Chad,차드,0.0638,107,2011,political
+Chad,차드,0.5334,134,2011,overall
+Chad,차드,0.6772,56,2012,economic
+Chad,차드,0.5197,135,2012,education
+Chad,차드,0.9612,111,2012,health
+Chad,차드,0.0796,102,2012,political
+Chad,차드,0.5594,133,2012,overall
+Chad,차드,0.6547,75,2013,economic
+Chad,차드,0.5311,135,2013,education
+Chad,차드,0.9612,112,2013,health
+Chad,차드,0.0883,102,2013,political
+Chad,차드,0.5588,134,2013,overall
+Chad,차드,0.6645,70,2014,economic
+Chad,차드,0.5743,142,2014,education
+Chad,차드,0.9683,103,2014,health
+Chad,차드,0.0983,106,2014,political
+Chad,차드,0.5764,134,2014,overall
+Chad,차드,0.666,77,2015,economic
+Chad,차드,0.591,145,2015,education
+Chad,차드,0.968,112,2015,health
+Chad,차드,0.093,112,2015,political
+Chad,차드,0.58,142,2015,overall
+Chad,차드,0.667,74,2016,economic
+Chad,차드,0.618,144,2016,education
+Chad,차드,0.968,111,2016,health
+Chad,차드,0.093,111,2016,political
+Chad,차드,0.5867,139,2016,overall
+Chile,칠레,0.5138,90,2006,economic
+Chile,칠레,0.9799,69,2006,education
+Chile,칠레,0.9796,1,2006,health
+Chile,칠레,0.1087,56,2006,political
+Chile,칠레,0.6455,77,2006,overall
+Chile,칠레,0.5172,105,2007,economic
+Chile,칠레,0.9799,78,2007,education
+Chile,칠레,0.9796,1,2007,health
+Chile,칠레,0.116,58,2007,political
+Chile,칠레,0.6482,84,2007,overall
+Chile,칠레,0.5154,106,2008,economic
+Chile,칠레,0.9856,81,2008,education
+Chile,칠레,0.9796,1,2008,health
+Chile,칠레,0.2467,26,2008,political
+Chile,칠레,0.6818,63,2008,overall
+Chile,칠레,0.5213,112,2009,economic
+Chile,칠레,0.9961,44,2009,education
+Chile,칠레,0.9796,1,2009,health
+Chile,칠레,0.2566,26,2009,political
+Chile,칠레,0.6884,62,2009,overall
+Chile,칠레,0.5338,108,2010,economic
+Chile,칠레,0.9963,42,2010,education
+Chile,칠레,0.9796,1,2010,health
+Chile,칠레,0.2957,21,2010,political
+Chile,칠레,0.7013,48,2010,overall
+Chile,칠레,0.5411,106,2011,economic
+Chile,칠레,0.9957,40,2011,education
+Chile,칠레,0.9796,1,2011,health
+Chile,칠레,0.2958,22,2011,political
+Chile,칠레,0.703,46,2011,overall
+Chile,칠레,0.5475,110,2012,economic
+Chile,칠레,0.9986,32,2012,education
+Chile,칠레,0.9796,1,2012,health
+Chile,칠레,0.1448,64,2012,political
+Chile,칠레,0.6676,87,2012,overall
+Chile,칠레,0.5445,112,2013,economic
+Chile,칠레,0.9993,32,2013,education
+Chile,칠레,0.9796,1,2013,health
+Chile,칠레,0.1448,67,2013,political
+Chile,칠레,0.667,91,2013,overall
+Chile,칠레,0.5523,119,2014,economic
+Chile,칠레,0.9997,30,2014,education
+Chile,칠레,0.9792,36,2014,health
+Chile,칠레,0.2589,35,2014,political
+Chile,칠레,0.6975,64,2014,overall
+Chile,칠레,0.57,123,2015,economic
+Chile,칠레,1,36,2015,education
+Chile,칠레,0.979,41,2015,health
+Chile,칠레,0.243,42,2015,political
+Chile,칠레,0.698,72,2015,overall
+Chile,칠레,0.565,119,2016,economic
+Chile,칠레,0.999,38,2016,education
+Chile,칠레,0.979,39,2016,health
+Chile,칠레,0.254,39,2016,political
+Chile,칠레,0.6994,70,2016,overall
+China,중국,0.6206,53,2006,economic
+China,중국,0.9574,78,2006,education
+China,중국,0.9355,114,2006,health
+China,중국,0.1107,52,2006,political
+China,중국,0.6561,62,2006,overall
+China,중국,0.6478,60,2007,economic
+China,중국,0.9574,91,2007,education
+China,중국,0.941,124,2007,health
+China,중국,0.1107,59,2007,political
+China,중국,0.6643,71,2007,overall
+China,중국,0.6915,43,2008,economic
+China,중국,0.9778,87,2008,education
+China,중국,0.941,126,2008,health
+China,중국,0.1408,54,2008,political
+China,중국,0.6878,55,2008,overall
+China,중국,0.6955,38,2009,economic
+China,중국,0.9797,87,2009,education
+China,중국,0.9467,130,2009,health
+China,중국,0.1408,60,2009,political
+China,중국,0.6907,58,2009,overall
+China,중국,0.6927,46,2010,economic
+China,중국,0.981,88,2010,education
+China,중국,0.929,133,2010,health
+China,중국,0.1495,56,2010,political
+China,중국,0.6881,61,2010,overall
+China,중국,0.6825,50,2011,economic
+China,중국,0.9815,85,2011,education
+China,중국,0.9327,133,2011,health
+China,중국,0.1496,57,2011,political
+China,중국,0.6866,61,2011,overall
+China,중국,0.6753,58,2012,economic
+China,중국,0.9819,85,2012,education
+China,중국,0.9344,132,2012,health
+China,중국,0.1496,58,2012,political
+China,중국,0.6853,69,2012,overall
+China,중국,0.6752,62,2013,economic
+China,중국,0.988,81,2013,education
+China,중국,0.9398,133,2013,health
+China,중국,0.1604,59,2013,political
+China,중국,0.6908,70,2013,overall
+China,중국,0.6555,76,2014,economic
+China,중국,0.9855,89,2014,education
+China,중국,0.9404,140,2014,health
+China,중국,0.1506,72,2014,political
+China,중국,0.683,84,2014,overall
+China,중국,0.657,81,2015,economic
+China,중국,0.988,83,2015,education
+China,중국,0.919,145,2015,health
+China,중국,0.162,73,2015,political
+China,중국,0.682,90,2015,overall
+China,중국,0.656,81,2016,economic
+China,중국,0.967,99,2016,education
+China,중국,0.919,144,2016,health
+China,중국,0.162,74,2016,political
+China,중국,0.6758,98,2016,overall
+Colombia,콜롬비아,0.6605,39,2006,economic
+Colombia,콜롬비아,0.9996,14,2006,education
+Colombia,콜롬비아,0.9796,1,2006,health
+Colombia,콜롬비아,0.1799,27,2006,political
+Colombia,콜롬비아,0.7049,22,2006,overall
+Colombia,콜롬비아,0.691,35,2007,economic
+Colombia,콜롬비아,0.9996,16,2007,education
+Colombia,콜롬비아,0.9796,1,2007,health
+Colombia,콜롬비아,0.1657,33,2007,political
+Colombia,콜롬비아,0.709,23,2007,overall
+Colombia,콜롬비아,0.6966,37,2008,economic
+Colombia,콜롬비아,0.9987,32,2008,education
+Colombia,콜롬비아,0.9796,1,2008,health
+Colombia,콜롬비아,0.1026,79,2008,political
+Colombia,콜롬비아,0.6944,49,2008,overall
+Colombia,콜롬비아,0.694,39,2009,economic
+Colombia,콜롬비아,0.9996,28,2009,education
+Colombia,콜롬비아,0.9796,1,2009,health
+Colombia,콜롬비아,0.1026,84,2009,political
+Colombia,콜롬비아,0.6939,54,2009,overall
+Colombia,콜롬비아,0.6941,45,2010,economic
+Colombia,콜롬비아,0.9956,44,2010,education
+Colombia,콜롬비아,0.9791,40,2010,health
+Colombia,콜롬비아,0.1018,83,2010,political
+Colombia,콜롬비아,0.6927,54,2010,overall
+Colombia,콜롬비아,0.5984,89,2011,economic
+Colombia,콜롬비아,0.9955,42,2011,education
+Colombia,콜롬비아,0.9791,41,2011,health
+Colombia,콜롬비아,0.1125,74,2011,political
+Colombia,콜롬비아,0.6714,80,2011,overall
+Colombia,콜롬비아,0.6207,86,2012,economic
+Colombia,콜롬비아,0.9944,51,2012,education
+Colombia,콜롬비아,0.9791,34,2012,health
+Colombia,콜롬비아,0.1662,51,2012,political
+Colombia,콜롬비아,0.6901,63,2012,overall
+Colombia,콜롬비아,0.7275,39,2013,economic
+Colombia,콜롬비아,0.9954,45,2013,education
+Colombia,콜롬비아,0.9791,34,2013,health
+Colombia,콜롬비아,0.1662,55,2013,political
+Colombia,콜롬비아,0.7171,35,2013,overall
+Colombia,콜롬비아,0.7107,50,2014,economic
+Colombia,콜롬비아,0.9961,51,2014,education
+Colombia,콜롬비아,0.9791,37,2014,health
+Colombia,콜롬비아,0.1628,67,2014,political
+Colombia,콜롬비아,0.7122,51,2014,overall
+Colombia,콜롬비아,0.746,37,2015,economic
+Colombia,콜롬비아,0.994,61,2015,education
+Colombia,콜롬비아,0.979,42,2015,health
+Colombia,콜롬비아,0.18,64,2015,political
+Colombia,콜롬비아,0.725,42,2015,overall
+Colombia,콜롬비아,0.749,28,2016,economic
+Colombia,콜롬비아,0.999,37,2016,education
+Colombia,콜롬비아,0.979,40,2016,health
+Colombia,콜롬비아,0.18,66,2016,political
+Colombia,콜롬비아,0.7267,39,2016,overall
+Costa Rica,코스타리카,0.5223,89,2006,economic
+Costa Rica,코스타리카,0.9954,32,2006,education
+Costa Rica,코스타리카,0.9796,1,2006,health
+Costa Rica,코스타리카,0.2771,15,2006,political
+Costa Rica,코스타리카,0.6936,30,2006,overall
+Costa Rica,코스타리카,0.5536,95,2007,economic
+Costa Rica,코스타리카,0.9954,36,2007,education
+Costa Rica,코스타리카,0.9796,1,2007,health
+Costa Rica,코스타리카,0.2771,16,2007,political
+Costa Rica,코스타리카,0.7014,27,2007,overall
+Costa Rica,코스타리카,0.586,86,2008,economic
+Costa Rica,코스타리카,0.9954,51,2008,education
+Costa Rica,코스타리카,0.9796,1,2008,health
+Costa Rica,코스타리카,0.2833,20,2008,political
+Costa Rica,코스타리카,0.7111,32,2008,overall
+Costa Rica,코스타리카,0.6136,84,2009,economic
+Costa Rica,코스타리카,0.9954,48,2009,education
+Costa Rica,코스타리카,0.9796,1,2009,health
+Costa Rica,코스타리카,0.2833,20,2009,political
+Costa Rica,코스타리카,0.718,27,2009,overall
+Costa Rica,코스타리카,0.5787,98,2010,economic
+Costa Rica,코스타리카,0.9954,46,2010,education
+Costa Rica,코스타리카,0.9747,66,2010,health
+Costa Rica,코스타리카,0.3287,14,2010,political
+Costa Rica,코스타리카,0.7194,28,2010,overall
+Costa Rica,코스타리카,0.5935,97,2011,economic
+Costa Rica,코스타리카,1,1,2011,education
+Costa Rica,코스타리카,0.9747,66,2011,health
+Costa Rica,코스타리카,0.3382,14,2011,political
+Costa Rica,코스타리카,0.7266,25,2011,overall
+Costa Rica,코스타리카,0.5987,99,2012,economic
+Costa Rica,코스타리카,1,1,2012,education
+Costa Rica,코스타리카,0.9747,65,2012,health
+Costa Rica,코스타리카,0.3164,21,2012,political
+Costa Rica,코스타리카,0.7225,29,2012,overall
+Costa Rica,코스타리카,0.5955,98,2013,economic
+Costa Rica,코스타리카,1,1,2013,education
+Costa Rica,코스타리카,0.9747,62,2013,health
+Costa Rica,코스타리카,0.3263,21,2013,political
+Costa Rica,코스타리카,0.7241,31,2013,overall
+Costa Rica,코스타리카,0.6155,105,2014,economic
+Costa Rica,코스타리카,1,1,2014,education
+Costa Rica,코스타리카,0.9747,62,2014,health
+Costa Rica,코스타리카,0.2758,32,2014,political
+Costa Rica,코스타리카,0.7165,46,2014,overall
+Costa Rica,코스타리카,0.587,118,2015,economic
+Costa Rica,코스타리카,1,1,2015,education
+Costa Rica,코스타리카,0.975,64,2015,health
+Costa Rica,코스타리카,0.365,20,2015,political
+Costa Rica,코스타리카,0.732,38,2015,overall
+Costa Rica,코스타리카,0.606,105,2016,economic
+Costa Rica,코스타리카,1,30,2016,education
+Costa Rica,코스타리카,0.975,62,2016,health
+Costa Rica,코스타리카,0.365,20,2016,political
+Costa Rica,코스타리카,0.7362,32,2016,overall
+Croatia,크로아티아,0.6507,42,2006,economic
+Croatia,크로아티아,0.9905,51,2006,education
+Croatia,크로아티아,0.9791,36,2006,health
+Croatia,크로아티아,0.2375,18,2006,political
+Croatia,크로아티아,0.7145,16,2006,overall
+Croatia,크로아티아,0.6783,40,2007,economic
+Croatia,크로아티아,0.9892,61,2007,education
+Croatia,크로아티아,0.9791,37,2007,health
+Croatia,크로아티아,0.2375,18,2007,political
+Croatia,크로아티아,0.721,16,2007,overall
+Croatia,크로아티아,0.6554,57,2008,economic
+Croatia,크로아티아,0.9944,56,2008,education
+Croatia,크로아티아,0.9791,38,2008,health
+Croatia,크로아티아,0.1579,47,2008,political
+Croatia,크로아티아,0.6967,45,2008,overall
+Croatia,크로아티아,0.6458,69,2009,economic
+Croatia,크로아티아,0.9946,55,2009,education
+Croatia,크로아티아,0.9791,41,2009,health
+Croatia,크로아티아,0.1579,49,2009,political
+Croatia,크로아티아,0.6944,53,2009,overall
+Croatia,크로아티아,0.6606,61,2010,economic
+Croatia,크로아티아,0.9939,53,2010,education
+Croatia,크로아티아,0.9796,1,2010,health
+Croatia,크로아티아,0.1417,57,2010,political
+Croatia,크로아티아,0.6939,53,2010,overall
+Croatia,크로아티아,0.6676,56,2011,economic
+Croatia,크로아티아,0.9954,44,2011,education
+Croatia,크로아티아,0.9796,1,2011,health
+Croatia,크로아티아,0.1598,53,2011,political
+Croatia,크로아티아,0.7006,50,2011,overall
+Croatia,크로아티아,0.6691,61,2012,economic
+Croatia,크로아티아,0.995,46,2012,education
+Croatia,크로아티아,0.9791,34,2012,health
+Croatia,크로아티아,0.1779,47,2012,political
+Croatia,크로아티아,0.7053,49,2012,overall
+Croatia,크로아티아,0.6753,61,2013,economic
+Croatia,크로아티아,0.9951,47,2013,education
+Croatia,크로아티아,0.9791,34,2013,health
+Croatia,크로아티아,0.1779,50,2013,political
+Croatia,크로아티아,0.7069,49,2013,overall
+Croatia,크로아티아,0.6753,65,2014,economic
+Croatia,크로아티아,0.9938,65,2014,education
+Croatia,크로아티아,0.9791,37,2014,health
+Croatia,크로아티아,0.1817,56,2014,political
+Croatia,크로아티아,0.7075,53,2014,overall
+Croatia,크로아티아,0.664,78,2015,economic
+Croatia,크로아티아,0.994,65,2015,education
+Croatia,크로아티아,0.979,42,2015,health
+Croatia,크로아티아,0.193,60,2015,political
+Croatia,크로아티아,0.708,57,2015,overall
+Croatia,크로아티아,0.672,68,2016,economic
+Croatia,크로아티아,0.995,57,2016,education
+Croatia,크로아티아,0.979,40,2016,health
+Croatia,크로아티아,0.154,76,2016,political
+Croatia,크로아티아,0.6999,68,2016,overall
+Cuba,쿠바,N/A,N/A,2006,overall
+Cuba,쿠바,0.6807,39,2007,economic
+Cuba,쿠바,0.9903,55,2007,education
+Cuba,쿠바,0.9745,69,2007,health
+Cuba,쿠바,0.222,23,2007,political
+Cuba,쿠바,0.7169,22,2007,overall
+Cuba,쿠바,0.611,77,2008,economic
+Cuba,쿠바,1,25,2008,education
+Cuba,쿠바,0.9745,71,2008,health
+Cuba,쿠바,0.2926,19,2008,political
+Cuba,쿠바,0.7195,25,2008,overall
+Cuba,쿠바,0.6034,88,2009,economic
+Cuba,쿠바,1,1,2009,education
+Cuba,쿠바,0.9745,74,2009,health
+Cuba,쿠바,0.2926,18,2009,political
+Cuba,쿠바,0.7176,29,2009,overall
+Cuba,쿠바,0.6092,84,2010,economic
+Cuba,쿠바,1,1,2010,education
+Cuba,쿠바,0.9743,69,2010,health
+Cuba,쿠바,0.3176,18,2010,political
+Cuba,쿠바,0.7253,24,2010,overall
+Cuba,쿠바,0.6656,57,2011,economic
+Cuba,쿠바,1,23,2011,education
+Cuba,쿠바,0.9743,69,2011,health
+Cuba,쿠바,0.318,18,2011,political
+Cuba,쿠바,0.7394,20,2011,overall
+Cuba,쿠바,0.6655,64,2012,economic
+Cuba,쿠바,0.9995,24,2012,education
+Cuba,쿠바,0.9743,66,2012,health
+Cuba,쿠바,0.3276,19,2012,political
+Cuba,쿠바,0.7417,19,2012,overall
+Cuba,쿠바,0.6736,65,2013,economic
+Cuba,쿠바,0.9995,30,2013,education
+Cuba,쿠바,0.9743,63,2013,health
+Cuba,쿠바,0.3685,13,2013,political
+Cuba,쿠바,0.754,15,2013,overall
+Cuba,쿠바,0.5798,113,2014,economic
+Cuba,쿠바,1,26,2014,education
+Cuba,쿠바,0.9791,37,2014,health
+Cuba,쿠바,0.368,18,2014,political
+Cuba,쿠바,0.7317,29,2014,overall
+Cuba,쿠바,0.579,119,2015,economic
+Cuba,쿠바,1,26,2015,education
+Cuba,쿠바,0.975,63,2015,health
+Cuba,쿠바,0.407,12,2015,political
+Cuba,쿠바,0.64,122,2015,overall
+Cuba,쿠바,0.578,114,2016,economic
+Cuba,쿠바,1,1,2016,education
+Cuba,쿠바,0.975,61,2016,health
+Cuba,쿠바,0.407,12,2016,political
+Cuba,쿠바,0.74,27,2016,overall
+Cyprus,키프로스,0.5618,75,2006,economic
+Cyprus,키프로스,0.9893,55,2006,education
+Cyprus,키프로스,0.9693,84,2006,health
+Cyprus,키프로스,0.0517,95,2006,political
+Cyprus,키프로스,0.643,82,2006,overall
+Cyprus,키프로스,0.6021,81,2007,economic
+Cyprus,키프로스,0.9893,60,2007,education
+Cyprus,키프로스,0.9657,108,2007,health
+Cyprus,키프로스,0.0517,107,2007,political
+Cyprus,키프로스,0.6522,80,2007,overall
+Cyprus,키프로스,0.61,78,2008,economic
+Cyprus,키프로스,0.9954,50,2008,education
+Cyprus,키프로스,0.9657,110,2008,health
+Cyprus,키프로스,0.1066,76,2008,political
+Cyprus,키프로스,0.6694,74,2008,overall
+Cyprus,키프로스,0.6168,82,2009,economic
+Cyprus,키프로스,0.9933,61,2009,education
+Cyprus,키프로스,0.9657,114,2009,health
+Cyprus,키프로스,0.1066,80,2009,political
+Cyprus,키프로스,0.6706,77,2009,overall
+Cyprus,키프로스,0.63,75,2010,economic
+Cyprus,키프로스,0.9879,77,2010,education
+Cyprus,키프로스,0.9701,88,2010,health
+Cyprus,키프로스,0.069,102,2010,political
+Cyprus,키프로스,0.6642,86,2010,overall
+Cyprus,키프로스,0.6175,80,2011,economic
+Cyprus,키프로스,0.9776,89,2011,education
+Cyprus,키프로스,0.9701,90,2011,health
+Cyprus,키프로스,0.0618,109,2011,political
+Cyprus,키프로스,0.6567,93,2011,overall
+Cyprus,키프로스,0.6149,87,2012,economic
+Cyprus,키프로스,0.978,90,2012,education
+Cyprus,키프로스,0.9701,92,2012,health
+Cyprus,키프로스,0.1298,74,2012,political
+Cyprus,키프로스,0.6732,79,2012,overall
+Cyprus,키프로스,0.6353,85,2013,economic
+Cyprus,키프로스,0.9853,83,2013,education
+Cyprus,키프로스,0.9701,91,2013,health
+Cyprus,키프로스,0.1298,76,2013,political
+Cyprus,키프로스,0.6801,79,2013,overall
+Cyprus,키프로스,0.656,75,2014,economic
+Cyprus,키프로스,0.9978,41,2014,education
+Cyprus,키프로스,0.9738,69,2014,health
+Cyprus,키프로스,0.069,122,2014,political
+Cyprus,키프로스,0.6741,91,2014,overall
+Cyprus,키프로스,0.643,88,2015,economic
+Cyprus,키프로스,0.998,41,2015,education
+Cyprus,키프로스,0.974,73,2015,health
+Cyprus,키프로스,0.069,124,2015,political
+Cyprus,키프로스,0.671,98,2015,overall
+Cyprus,키프로스,0.665,75,2016,economic
+Cyprus,키프로스,0.998,41,2016,education
+Cyprus,키프로스,0.974,71,2016,health
+Cyprus,키프로스,0.1,105,2016,political
+Cyprus,키프로스,0.6844,83,2016,overall
+Czech Republic,체코,0.627,52,2006,economic
+Czech Republic,체코,0.9908,47,2006,education
+Czech Republic,체코,0.9791,36,2006,health
+Czech Republic,체코,0.0877,70,2006,political
+Czech Republic,체코,0.6712,52,2006,overall
+Czech Republic,체코,0.6295,71,2007,economic
+Czech Republic,체코,0.9908,53,2007,education
+Czech Republic,체코,0.9791,37,2007,health
+Czech Republic,체코,0.0877,78,2007,political
+Czech Republic,체코,0.6718,62,2007,overall
+Czech Republic,체코,0.6366,68,2008,economic
+Czech Republic,체코,1,1,2008,education
+Czech Republic,체코,0.9791,38,2008,health
+Czech Republic,체코,0.0921,88,2008,political
+Czech Republic,체코,0.677,67,2008,overall
+Czech Republic,체코,0.6443,70,2009,economic
+Czech Republic,체코,1,1,2009,education
+Czech Republic,체코,0.9791,41,2009,health
+Czech Republic,체코,0.0921,91,2009,political
+Czech Republic,체코,0.6789,72,2009,overall
+Czech Republic,체코,0.6205,80,2010,economic
+Czech Republic,체코,1,1,2010,education
+Czech Republic,체코,0.9792,38,2010,health
+Czech Republic,체코,0.1403,59,2010,political
+Czech Republic,체코,0.685,65,2010,overall
+Czech Republic,체코,0.5961,94,2011,economic
+Czech Republic,체코,1,1,2011,education
+Czech Republic,체코,0.9792,39,2011,health
+Czech Republic,체코,0.1403,60,2011,political
+Czech Republic,체코,0.6789,75,2011,overall
+Czech Republic,체코,0.6026,95,2012,economic
+Czech Republic,체코,1,1,2012,education
+Czech Republic,체코,0.9788,49,2012,health
+Czech Republic,체코,0.1254,76,2012,political
+Czech Republic,체코,0.6767,73,2012,overall
+Czech Republic,체코,0.6039,95,2013,economic
+Czech Republic,체코,1,1,2013,education
+Czech Republic,체코,0.9788,46,2013,health
+Czech Republic,체코,0.1254,79,2013,political
+Czech Republic,체코,0.677,83,2013,overall
+Czech Republic,체코,0.6216,100,2014,economic
+Czech Republic,체코,1,1,2014,education
+Czech Republic,체코,0.9791,37,2014,health
+Czech Republic,체코,0.094,109,2014,political
+Czech Republic,체코,0.6737,92,2014,overall
+Czech Republic,체코,0.636,94,2015,economic
+Czech Republic,체코,1,1,2015,education
+Czech Republic,체코,0.979,42,2015,health
+Czech Republic,체코,0.134,83,2015,political
+Czech Republic,체코,0.687,82,2015,overall
+Czech Republic,체코,0.647,89,2016,economic
+Czech Republic,체코,1,1,2016,education
+Czech Republic,체코,0.979,40,2016,health
+Czech Republic,체코,0.134,85,2016,political
+Czech Republic,체코,0.6901,77,2016,overall
+Denmark,덴마크,0.7081,19,2006,economic
+Denmark,덴마크,1,1,2006,education
+Denmark,덴마크,0.9723,76,2006,health
+Denmark,덴마크,0.3045,13,2006,political
+Denmark,덴마크,0.7462,8,2006,overall
+Denmark,덴마크,0.7336,18,2007,economic
+Denmark,덴마크,1,1,2007,education
+Denmark,덴마크,0.9696,96,2007,health
+Denmark,덴마크,0.3045,13,2007,political
+Denmark,덴마크,0.7519,8,2007,overall
+Denmark,덴마크,0.7116,28,2008,economic
+Denmark,덴마크,1,1,2008,education
+Denmark,덴마크,0.9696,97,2008,health
+Denmark,덴마크,0.334,10,2008,political
+Denmark,덴마크,0.7538,7,2008,overall
+Denmark,덴마크,0.7477,20,2009,economic
+Denmark,덴마크,1,1,2009,education
+Denmark,덴마크,0.9696,102,2009,health
+Denmark,덴마크,0.334,11,2009,political
+Denmark,덴마크,0.7628,7,2009,overall
+Denmark,덴마크,0.7438,23,2010,economic
+Denmark,덴마크,1,1,2010,education
+Denmark,덴마크,0.9743,68,2010,health
+Denmark,덴마크,0.3695,10,2010,political
+Denmark,덴마크,0.7719,7,2010,overall
+Denmark,덴마크,0.7672,13,2011,economic
+Denmark,덴마크,1,1,2011,education
+Denmark,덴마크,0.9743,68,2011,health
+Denmark,덴마크,0.3696,10,2011,political
+Denmark,덴마크,0.7778,7,2011,overall
+Denmark,덴마크,0.7724,16,2012,economic
+Denmark,덴마크,1,1,2012,education
+Denmark,덴마크,0.9739,67,2012,health
+Denmark,덴마크,0.3645,11,2012,political
+Denmark,덴마크,0.7777,7,2012,overall
+Denmark,덴마크,0.7639,25,2013,economic
+Denmark,덴마크,1,1,2013,education
+Denmark,덴마크,0.9739,64,2013,health
+Denmark,덴마크,0.3738,11,2013,political
+Denmark,덴마크,0.7779,8,2013,overall
+Denmark,덴마크,0.8053,12,2014,economic
+Denmark,덴마크,1,1,2014,education
+Denmark,덴마크,0.9741,65,2014,health
+Denmark,덴마크,0.4306,7,2014,political
+Denmark,덴마크,0.8025,5,2014,overall
+Denmark,덴마크,0.788,20,2015,economic
+Denmark,덴마크,1,1,2015,education
+Denmark,덴마크,0.97,107,2015,health
+Denmark,덴마크,0.309,29,2015,political
+Denmark,덴마크,0.767,15,2015,overall
+Denmark,덴마크,0.735,34,2016,economic
+Denmark,덴마크,1,1,2016,education
+Denmark,덴마크,0.97,106,2016,health
+Denmark,덴마크,0.309,29,2016,political
+Denmark,덴마크,0.7535,19,2016,overall
+Dominican Republic,도미니카공화국,0.559,78,2006,economic
+Dominican Republic,도미니카공화국,1,1,2006,education
+Dominican Republic,도미니카공화국,0.9796,1,2006,health
+Dominican Republic,도미니카공화국,0.1172,49,2006,political
+Dominican Republic,도미니카공화국,0.6639,58,2006,overall
+Dominican Republic,도미니카공화국,0.5851,88,2007,economic
+Dominican Republic,도미니카공화국,1,1,2007,education
+Dominican Republic,도미니카공화국,0.9796,1,2007,health
+Dominican Republic,도미니카공화국,0.1172,55,2007,political
+Dominican Republic,도미니카공화국,0.6705,63,2007,overall
+Dominican Republic,도미니카공화국,0.6008,82,2008,economic
+Dominican Republic,도미니카공화국,1,1,2008,education
+Dominican Republic,도미니카공화국,0.9796,1,2008,health
+Dominican Republic,도미니카공화국,0.1172,69,2008,political
+Dominican Republic,도미니카공화국,0.6744,70,2008,overall
+Dominican Republic,도미니카공화국,0.647,67,2009,economic
+Dominican Republic,도미니카공화국,1,1,2009,education
+Dominican Republic,도미니카공화국,0.9796,1,2009,health
+Dominican Republic,도미니카공화국,0.1172,73,2009,political
+Dominican Republic,도미니카공화국,0.6859,65,2009,overall
+Dominican Republic,도미니카공화국,0.6516,64,2010,economic
+Dominican Republic,도미니카공화국,1,1,2010,education
+Dominican Republic,도미니카공화국,0.9711,86,2010,health
+Dominican Republic,도미니카공화국,0.087,92,2010,political
+Dominican Republic,도미니카공화국,0.6774,73,2010,overall
+Dominican Republic,도미니카공화국,0.5969,92,2011,economic
+Dominican Republic,도미니카공화국,1,1,2011,education
+Dominican Republic,도미니카공화국,0.9711,88,2011,health
+Dominican Republic,도미니카공화국,0.1049,80,2011,political
+Dominican Republic,도미니카공화국,0.6682,81,2011,overall
+Dominican Republic,도미니카공화국,0.6052,93,2012,economic
+Dominican Republic,도미니카공화국,0.9688,94,2012,education
+Dominican Republic,도미니카공화국,0.9711,89,2012,health
+Dominican Republic,도미니카공화국,0.1184,84,2012,political
+Dominican Republic,도미니카공화국,0.6659,89,2012,overall
+Dominican Republic,도미니카공화국,0.6751,63,2013,economic
+Dominican Republic,도미니카공화국,0.9822,84,2013,education
+Dominican Republic,도미니카공화국,0.9711,89,2013,health
+Dominican Republic,도미니카공화국,0.1184,84,2013,political
+Dominican Republic,도미니카공화국,0.6867,72,2013,overall
+Dominican Republic,도미니카공화국,0.6794,63,2014,economic
+Dominican Republic,도미니카공화국,0.9842,91,2014,education
+Dominican Republic,도미니카공화국,0.9706,91,2014,health
+Dominican Republic,도미니카공화국,0.1283,84,2014,political
+Dominican Republic,도미니카공화국,0.6906,75,2014,overall
+Dominican Republic,도미니카공화국,0.648,86,2015,economic
+Dominican Republic,도미니카공화국,0.984,91,2015,education
+Dominican Republic,도미니카공화국,0.971,98,2015,health
+Dominican Republic,도미니카공화국,0.14,81,2015,political
+Dominican Republic,도미니카공화국,0.686,84,2015,overall
+Dominican Republic,도미니카공화국,0.658,78,2016,economic
+Dominican Republic,도미니카공화국,0.989,77,2016,education
+Dominican Republic,도미니카공화국,0.971,97,2016,health
+Dominican Republic,도미니카공화국,0.085,118,2016,political
+Dominican Republic,도미니카공화국,0.676,96,2016,overall
+Ecuador,에콰도르,0.4994,92,2006,economic
+Ecuador,에콰도르,0.9939,39,2006,education
+Ecuador,에콰도르,0.9796,1,2006,health
+Ecuador,에콰도르,0.1003,64,2006,political
+Ecuador,에콰도르,0.6433,81,2006,overall
+Ecuador,에콰도르,0.6344,65,2007,economic
+Ecuador,에콰도르,0.9939,42,2007,education
+Ecuador,에콰도르,0.9796,1,2007,health
+Ecuador,에콰도르,0.1446,44,2007,political
+Ecuador,에콰도르,0.6881,42,2007,overall
+Ecuador,에콰도르,0.6234,74,2008,economic
+Ecuador,에콰도르,0.9953,52,2008,education
+Ecuador,에콰도르,0.9796,1,2008,health
+Ecuador,에콰도르,0.2381,28,2008,political
+Ecuador,에콰도르,0.7091,34,2008,overall
+Ecuador,에콰도르,0.6302,77,2009,economic
+Ecuador,에콰도르,0.9955,45,2009,education
+Ecuador,에콰도르,0.9796,1,2009,health
+Ecuador,에콰도르,0.2826,21,2009,political
+Ecuador,에콰도르,0.722,23,2009,overall
+Ecuador,에콰도르,0.5985,90,2010,economic
+Ecuador,에콰도르,0.9879,78,2010,education
+Ecuador,에콰도르,0.9758,57,2010,health
+Ecuador,에콰도르,0.2665,28,2010,political
+Ecuador,에콰도르,0.7072,39,2010,overall
+Ecuador,에콰도르,0.5838,99,2011,economic
+Ecuador,에콰도르,0.9877,77,2011,education
+Ecuador,에콰도르,0.9758,58,2011,health
+Ecuador,에콰도르,0.2668,29,2011,political
+Ecuador,에콰도르,0.7035,45,2011,overall
+Ecuador,에콰도르,0.5997,97,2012,economic
+Ecuador,에콰도르,0.9942,54,2012,education
+Ecuador,에콰도르,0.9758,58,2012,health
+Ecuador,에콰도르,0.3126,23,2012,political
+Ecuador,에콰도르,0.7206,33,2012,overall
+Ecuador,에콰도르,0.6253,90,2013,economic
+Ecuador,에콰도르,0.9942,52,2013,education
+Ecuador,에콰도르,0.9758,55,2013,health
+Ecuador,에콰도르,0.3604,17,2013,political
+Ecuador,에콰도르,0.7389,25,2013,overall
+Ecuador,에콰도르,0.7154,45,2014,economic
+Ecuador,에콰도르,0.9956,52,2014,education
+Ecuador,에콰도르,0.9796,1,2014,health
+Ecuador,에콰도르,0.2914,28,2014,political
+Ecuador,에콰도르,0.7455,20,2014,overall
+Ecuador,에콰도르,0.677,66,2015,economic
+Ecuador,에콰도르,0.996,53,2015,education
+Ecuador,에콰도르,0.98,1,2015,health
+Ecuador,에콰도르,0.297,31,2015,political
+Ecuador,에콰도르,0.738,32,2015,overall
+Ecuador,에콰도르,0.631,93,2016,economic
+Ecuador,에콰도르,0.996,48,2016,education
+Ecuador,에콰도르,0.98,1,2016,health
+Ecuador,에콰도르,0.297,32,2016,political
+Ecuador,에콰도르,0.7262,40,2016,overall
+Egypt,이집트,0.4157,108,2006,economic
+Egypt,이집트,0.903,90,2006,education
+Egypt,이집트,0.9738,66,2006,health
+Egypt,이집트,0.0218,111,2006,political
+Egypt,이집트,0.5786,108,2006,overall
+Egypt,이집트,0.421,120,2007,economic
+Egypt,이집트,0.9091,101,2007,education
+Egypt,이집트,0.9717,83,2007,health
+Egypt,이집트,0.0218,123,2007,political
+Egypt,이집트,0.5809,118,2007,overall
+Egypt,이집트,0.4367,120,2008,economic
+Egypt,이집트,0.9018,105,2008,education
+Egypt,이집트,0.9717,84,2008,health
+Egypt,이집트,0.0227,124,2008,political
+Egypt,이집트,0.5832,122,2008,overall
+Egypt,이집트,0.4498,124,2009,economic
+Egypt,이집트,0.9004,107,2009,education
+Egypt,이집트,0.9717,89,2009,health
+Egypt,이집트,0.0227,129,2009,political
+Egypt,이집트,0.5862,124,2009,overall
+Egypt,이집트,0.453,121,2010,economic
+Egypt,이집트,0.8987,110,2010,education
+Egypt,이집트,0.9768,52,2010,health
+Egypt,이집트,0.0311,125,2010,political
+Egypt,이집트,0.5899,125,2010,overall
+Egypt,이집트,0.4573,122,2011,economic
+Egypt,이집트,0.9081,110,2011,education
+Egypt,이집트,0.9768,52,2011,health
+Egypt,이집트,0.0311,126,2011,political
+Egypt,이집트,0.5933,123,2011,overall
+Egypt,이집트,0.4536,124,2012,economic
+Egypt,이집트,0.9248,110,2012,education
+Egypt,이집트,0.9768,54,2012,health
+Egypt,이집트,0.0348,125,2012,political
+Egypt,이집트,0.5975,126,2012,overall
+Egypt,이집트,0.4426,125,2013,economic
+Egypt,이집트,0.9199,108,2013,education
+Egypt,이집트,0.9768,51,2013,health
+Egypt,이집트,0.0348,128,2013,political
+Egypt,이집트,0.5935,125,2013,overall
+Egypt,이집트,0.4609,131,2014,economic
+Egypt,이집트,0.9467,109,2014,education
+Egypt,이집트,0.9765,57,2014,health
+Egypt,이집트,0.0413,134,2014,political
+Egypt,이집트,0.6064,124,2014,overall
+Egypt,이집트,0.441,135,2015,economic
+Egypt,이집트,0.935,115,2015,education
+Egypt,이집트,0.971,97,2015,health
+Egypt,이집트,0.048,136,2015,political
+Egypt,이집트,0.599,136,2015,overall
+Egypt,이집트,0.444,132,2016,economic
+Egypt,이집트,0.952,112,2016,education
+Egypt,이집트,0.971,95,2016,health
+Egypt,이집트,0.087,115,2016,political
+Egypt,이집트,0.6136,131,2016,overall
+El Salvador,엘살바도르,0.5701,73,2006,economic
+El Salvador,엘살바도르,0.988,59,2006,education
+El Salvador,엘살바도르,0.9796,1,2006,health
+El Salvador,엘살바도르,0.197,24,2006,political
+El Salvador,엘살바도르,0.6837,38,2006,overall
+El Salvador,엘살바도르,0.5762,91,2007,economic
+El Salvador,엘살바도르,0.9884,66,2007,education
+El Salvador,엘살바도르,0.9796,1,2007,health
+El Salvador,엘살바도르,0.197,26,2007,political
+El Salvador,엘살바도르,0.6853,46,2007,overall
+El Salvador,엘살바도르,0.5632,97,2008,economic
+El Salvador,엘살바도르,0.988,78,2008,education
+El Salvador,엘살바도르,0.9796,1,2008,health
+El Salvador,엘살바도르,0.2194,32,2008,political
+El Salvador,엘살바도르,0.6875,56,2008,overall
+El Salvador,엘살바도르,0.5787,98,2009,economic
+El Salvador,엘살바도르,0.9875,81,2009,education
+El Salvador,엘살바도르,0.9796,1,2009,health
+El Salvador,엘살바도르,0.23,32,2009,political
+El Salvador,엘살바도르,0.6939,55,2009,overall
+El Salvador,엘살바도르,0.5534,102,2010,economic
+El Salvador,엘살바도르,0.9876,79,2010,education
+El Salvador,엘살바도르,0.9796,1,2010,health
+El Salvador,엘살바도르,0.1178,73,2010,political
+El Salvador,엘살바도르,0.6596,90,2010,overall
+El Salvador,엘살바도르,0.5405,108,2011,economic
+El Salvador,엘살바도르,0.9891,72,2011,education
+El Salvador,엘살바도르,0.9796,1,2011,health
+El Salvador,엘살바도르,0.1176,72,2011,political
+El Salvador,엘살바도르,0.6567,94,2011,overall
+El Salvador,엘살바도르,0.5427,112,2012,economic
+El Salvador,엘살바도르,0.9889,77,2012,education
+El Salvador,엘살바도르,0.9796,1,2012,health
+El Salvador,엘살바도르,0.1409,66,2012,political
+El Salvador,엘살바도르,0.663,94,2012,overall
+El Salvador,엘살바도르,0.5345,114,2013,economic
+El Salvador,엘살바도르,0.9886,79,2013,education
+El Salvador,엘살바도르,0.9796,1,2013,health
+El Salvador,엘살바도르,0.1409,70,2013,political
+El Salvador,엘살바도르,0.6609,96,2013,overall
+El Salvador,엘살바도르,0.6415,89,2014,economic
+El Salvador,엘살바도르,0.9884,82,2014,education
+El Salvador,엘살바도르,0.9796,1,2014,health
+El Salvador,엘살바도르,0.1358,80,2014,political
+El Salvador,엘살바도르,0.6863,81,2014,overall
+El Salvador,엘살바도르,0.639,92,2015,economic
+El Salvador,엘살바도르,0.991,78,2015,education
+El Salvador,엘살바도르,0.98,1,2015,health
+El Salvador,엘살바도르,0.214,49,2015,political
+El Salvador,엘살바도르,0.706,61,2015,overall
+El Salvador,엘살바도르,0.623,95,2016,economic
+El Salvador,엘살바도르,0.991,73,2016,education
+El Salvador,엘살바도르,0.98,1,2016,health
+El Salvador,엘살바도르,0.214,52,2016,political
+El Salvador,엘살바도르,0.7018,64,2016,overall
+Estonia,에스토니아,0.6824,27,2006,economic
+Estonia,에스토니아,0.9992,16,2006,education
+Estonia,에스토니아,0.9791,36,2006,health
+Estonia,에스토니아,0.1167,51,2006,political
+Estonia,에스토니아,0.6944,29,2006,overall
+Estonia,에스토니아,0.6935,34,2007,economic
+Estonia,에스토니아,0.9992,20,2007,education
+Estonia,에스토니아,0.9791,37,2007,health
+Estonia,에스토니아,0.1313,51,2007,political
+Estonia,에스토니아,0.7008,29,2007,overall
+Estonia,에스토니아,0.7004,33,2008,economic
+Estonia,에스토니아,0.9954,48,2008,education
+Estonia,에스토니아,0.9791,38,2008,health
+Estonia,에스토니아,0.1555,48,2008,political
+Estonia,에스토니아,0.7076,36,2008,overall
+Estonia,에스토니아,0.705,36,2009,economic
+Estonia,에스토니아,0.9979,37,2009,education
+Estonia,에스토니아,0.9791,41,2009,health
+Estonia,에스토니아,0.1555,50,2009,political
+Estonia,에스토니아,0.7094,36,2009,overall
+Estonia,에스토니아,0.7193,35,2010,economic
+Estonia,에스토니아,0.9967,38,2010,education
+Estonia,에스토니아,0.9773,50,2010,health
+Estonia,에스토니아,0.1138,74,2010,political
+Estonia,에스토니아,0.7018,47,2010,overall
+Estonia,에스토니아,0.7201,35,2011,economic
+Estonia,에스토니아,0.9967,38,2011,education
+Estonia,에스토니아,0.9773,51,2011,health
+Estonia,에스토니아,0.0989,87,2011,political
+Estonia,에스토니아,0.6983,52,2011,overall
+Estonia,에스토니아,0.7193,40,2012,economic
+Estonia,에스토니아,0.9936,58,2012,education
+Estonia,에스토니아,0.9791,34,2012,health
+Estonia,에스토니아,0.0989,87,2012,political
+Estonia,에스토니아,0.6977,60,2012,overall
+Estonia,에스토니아,0.7228,41,2013,economic
+Estonia,에스토니아,0.9931,59,2013,education
+Estonia,에스토니아,0.9791,34,2013,health
+Estonia,에스토니아,0.1038,88,2013,political
+Estonia,에스토니아,0.6997,59,2013,overall
+Estonia,에스토니아,0.7055,56,2014,economic
+Estonia,에스토니아,1,1,2014,education
+Estonia,에스토니아,0.9791,37,2014,health
+Estonia,에스토니아,0.1221,88,2014,political
+Estonia,에스토니아,0.7017,60,2014,overall
+Estonia,에스토니아,0.711,47,2015,economic
+Estonia,에스토니아,0.999,39,2015,education
+Estonia,에스토니아,0.98,1,2015,health
+Estonia,에스토니아,0.308,30,2015,political
+Estonia,에스토니아,0.749,23,2015,overall
+Estonia,에스토니아,0.703,50,2016,economic
+Estonia,에스토니아,0.995,53,2016,education
+Estonia,에스토니아,0.98,1,2016,health
+Estonia,에스토니아,0.308,30,2016,political
+Estonia,에스토니아,0.7465,22,2016,overall
+Ethiopia,에티오피아,0.5683,74,2006,economic
+Ethiopia,에티오피아,0.7392,108,2006,education
+Ethiopia,에티오피아,0.9687,87,2006,health
+Ethiopia,에티오피아,0.1023,61,2006,political
+Ethiopia,에티오피아,0.5946,99,2006,overall
+Ethiopia,에티오피아,0.5852,86,2007,economic
+Ethiopia,에티오피아,0.7403,121,2007,education
+Ethiopia,에티오피아,0.9686,100,2007,health
+Ethiopia,에티오피아,0.1023,68,2007,political
+Ethiopia,에티오피아,0.5991,111,2007,overall
+Ethiopia,에티오피아,0.5654,96,2008,economic
+Ethiopia,에티오피아,0.7001,126,2008,education
+Ethiopia,에티오피아,0.9686,101,2008,health
+Ethiopia,에티오피아,0.1129,70,2008,political
+Ethiopia,에티오피아,0.5867,120,2008,overall
+Ethiopia,에티오피아,0.5975,91,2009,economic
+Ethiopia,에티오피아,0.7001,130,2009,education
+Ethiopia,에티오피아,0.9686,106,2009,health
+Ethiopia,에티오피아,0.1129,74,2009,political
+Ethiopia,에티오피아,0.5948,120,2009,overall
+Ethiopia,에티오피아,0.6316,74,2010,economic
+Ethiopia,에티오피아,0.7003,129,2010,education
+Ethiopia,에티오피아,0.9737,75,2010,health
+Ethiopia,에티오피아,0.1021,82,2010,political
+Ethiopia,에티오피아,0.6019,121,2010,overall
+Ethiopia,에티오피아,0.6373,71,2011,economic
+Ethiopia,에티오피아,0.7043,131,2011,education
+Ethiopia,에티오피아,0.9737,77,2011,health
+Ethiopia,에티오피아,0.139,64,2011,political
+Ethiopia,에티오피아,0.6136,116,2011,overall
+Ethiopia,에티오피아,0.6219,85,2012,economic
+Ethiopia,에티오피아,0.7386,130,2012,education
+Ethiopia,에티오피아,0.9737,72,2012,health
+Ethiopia,에티오피아,0.1457,62,2012,political
+Ethiopia,에티오피아,0.62,118,2012,overall
+Ethiopia,에티오피아,0.6148,93,2013,economic
+Ethiopia,에티오피아,0.7451,131,2013,education
+Ethiopia,에티오피아,0.9737,68,2013,health
+Ethiopia,에티오피아,0.1457,66,2013,political
+Ethiopia,에티오피아,0.6198,118,2013,overall
+Ethiopia,에티오피아,0.6177,103,2014,economic
+Ethiopia,에티오피아,0.7113,139,2014,education
+Ethiopia,에티오피아,0.9725,82,2014,health
+Ethiopia,에티오피아,0.1563,70,2014,political
+Ethiopia,에티오피아,0.6144,122,2014,overall
+Ethiopia,에티오피아,0.608,108,2015,economic
+Ethiopia,에티오피아,0.741,140,2015,education
+Ethiopia,에티오피아,0.978,59,2015,health
+Ethiopia,에티오피아,0.232,44,2015,political
+Ethiopia,에티오피아,0.64,123,2015,overall
+Ethiopia,에티오피아,0.599,106,2016,economic
+Ethiopia,에티오피아,0.84,132,2016,education
+Ethiopia,에티오피아,0.978,57,2016,health
+Ethiopia,에티오피아,0.231,45,2016,political
+Ethiopia,에티오피아,0.6621,108,2016,overall
+Fiji,피지,N/A,N/A,2006,overall
+Fiji,피지,N/A,N/A,2007,overall
+Fiji,피지,N/A,N/A,2008,overall
+Fiji,피지,0.5343,111,2009,economic
+Fiji,피지,0.991,72,2009,education
+Fiji,피지,0.9796,1,2009,health
+Fiji,피지,0.0608,115,2009,political
+Fiji,피지,0.6414,101,2009,overall
+Fiji,피지,0.4983,114,2010,economic
+Fiji,피지,0.9889,70,2010,education
+Fiji,피지,0.9796,1,2010,health
+Fiji,피지,0.0358,121,2010,political
+Fiji,피지,0.6256,108,2010,overall
+Fiji,피지,0.4972,116,2011,economic
+Fiji,피지,0.9893,70,2011,education
+Fiji,피지,0.9796,1,2011,health
+Fiji,피지,0.0358,123,2011,political
+Fiji,피지,0.6255,109,2011,overall
+Fiji,피지,0.4974,117,2012,economic
+Fiji,피지,0.9925,63,2012,education
+Fiji,피지,0.9796,1,2012,health
+Fiji,피지,0.0448,123,2012,political
+Fiji,피지,0.6285,113,2012,overall
+Fiji,피지,0.4975,120,2013,economic
+Fiji,피지,0.9925,63,2013,education
+Fiji,피지,0.9796,1,2013,health
+Fiji,피지,0.0448,125,2013,political
+Fiji,피지,0.6286,117,2013,overall
+Fiji,피지,0.5065,125,2014,economic
+Fiji,피지,0.9925,70,2014,education
+Fiji,피지,0.9796,1,2014,health
+Fiji,피지,0.0358,136,2014,political
+Fiji,피지,0.6286,117,2014,overall
+Fiji,피지,0.512,129,2015,economic
+Fiji,피지,0.992,71,2015,education
+Fiji,피지,0.98,1,2015,health
+Fiji,피지,0.097,110,2015,political
+Fiji,피지,0.645,120,2015,overall
+Fiji,피지,N/A,N/A,2016,overall
+Finland,핀란드,0.7341,8,2006,economic
+Finland,핀란드,0.9992,18,2006,education
+Finland,핀란드,0.9796,1,2006,health
+Finland,핀란드,0.4704,3,2006,political
+Finland,핀란드,0.7958,3,2006,overall
+Finland,핀란드,0.7225,22,2007,economic
+Finland,핀란드,0.9992,21,2007,education
+Finland,핀란드,0.9796,1,2007,health
+Finland,핀란드,0.5165,2,2007,political
+Finland,핀란드,0.8044,3,2007,overall
+Finland,핀란드,0.7408,19,2008,economic
+Finland,핀란드,1,1,2008,education
+Finland,핀란드,0.9796,1,2008,health
+Finland,핀란드,0.5577,1,2008,political
+Finland,핀란드,0.8195,2,2008,overall
+Finland,핀란드,0.7504,15,2009,economic
+Finland,핀란드,1,1,2009,education
+Finland,핀란드,0.9796,1,2009,health
+Finland,핀란드,0.5709,2,2009,political
+Finland,핀란드,0.8252,2,2009,overall
+Finland,핀란드,0.7566,16,2010,economic
+Finland,핀란드,0.9993,28,2010,education
+Finland,핀란드,0.9796,1,2010,health
+Finland,핀란드,0.5686,2,2010,political
+Finland,핀란드,0.826,3,2010,overall
+Finland,핀란드,0.7681,12,2011,economic
+Finland,핀란드,0.9995,26,2011,education
+Finland,핀란드,0.9796,1,2011,health
+Finland,핀란드,0.606,2,2011,political
+Finland,핀란드,0.8383,3,2011,overall
+Finland,핀란드,0.7847,14,2012,economic
+Finland,핀란드,1,1,2012,education
+Finland,핀란드,0.9796,1,2012,health
+Finland,핀란드,0.6162,2,2012,political
+Finland,핀란드,0.8451,2,2012,overall
+Finland,핀란드,0.7727,19,2013,economic
+Finland,핀란드,1,1,2013,education
+Finland,핀란드,0.9796,1,2013,health
+Finland,핀란드,0.6162,2,2013,political
+Finland,핀란드,0.8421,2,2013,overall
+Finland,핀란드,0.7859,21,2014,economic
+Finland,핀란드,1,1,2014,education
+Finland,핀란드,0.9789,52,2014,health
+Finland,핀란드,0.6162,2,2014,political
+Finland,핀란드,0.8453,2,2014,overall
+Finland,핀란드,0.815,8,2015,economic
+Finland,핀란드,1,1,2015,education
+Finland,핀란드,0.98,1,2015,health
+Finland,핀란드,0.607,2,2015,political
+Finland,핀란드,0.85,2,2015,overall
+Finland,핀란드,0.794,16,2016,economic
+Finland,핀란드,1,1,2016,education
+Finland,핀란드,0.98,1,2016,health
+Finland,핀란드,0.607,2,2016,political
+Finland,핀란드,0.845,2,2016,overall
+France,프랑스,0.5247,88,2006,economic
+France,프랑스,1,1,2006,education
+France,프랑스,0.9796,1,2006,health
+France,프랑스,0.104,60,2006,political
+France,프랑스,0.652,69,2006,overall
+France,프랑스,0.646,61,2007,economic
+France,프랑스,1,1,2007,education
+France,프랑스,0.9796,1,2007,health
+France,프랑스,0.104,67,2007,political
+France,프랑스,0.6824,49,2007,overall
+France,프랑스,0.6631,53,2008,economic
+France,프랑스,1,1,2008,education
+France,프랑스,0.9796,1,2008,health
+France,프랑스,0.2939,18,2008,political
+France,프랑스,0.7341,15,2008,overall
+France,프랑스,0.6591,61,2009,economic
+France,프랑스,1,1,2009,education
+France,프랑스,0.9796,1,2009,health
+France,프랑스,0.2939,16,2009,political
+France,프랑스,0.7331,18,2009,overall
+France,프랑스,0.661,60,2010,economic
+France,프랑스,1,1,2010,education
+France,프랑스,0.9796,1,2010,health
+France,프랑스,0.1695,47,2010,political
+France,프랑스,0.7025,46,2010,overall
+France,프랑스,0.6587,61,2011,economic
+France,프랑스,1,1,2011,education
+France,프랑스,0.9796,1,2011,health
+France,프랑스,0.1691,46,2011,political
+France,프랑스,0.7018,48,2011,overall
+France,프랑스,0.6687,62,2012,economic
+France,프랑스,1,1,2012,education
+France,프랑스,0.9796,1,2012,health
+France,프랑스,0.1452,63,2012,political
+France,프랑스,0.6984,57,2012,overall
+France,프랑스,0.669,67,2013,economic
+France,프랑스,1,1,2013,education
+France,프랑스,0.9796,1,2013,health
+France,프랑스,0.187,45,2013,political
+France,프랑스,0.7089,45,2013,overall
+France,프랑스,0.7036,57,2014,economic
+France,프랑스,1,1,2014,education
+France,프랑스,0.9796,1,2014,health
+France,프랑스,0.352,20,2014,political
+France,프랑스,0.7588,15,2014,overall
+France,프랑스,0.699,56,2015,economic
+France,프랑스,1,1,2015,education
+France,프랑스,0.98,1,2015,health
+France,프랑스,0.365,19,2015,political
+France,프랑스,0.761,16,2015,overall
+France,프랑스,0.676,64,2016,economic
+France,프랑스,1,1,2016,education
+France,프랑스,0.98,1,2016,health
+France,프랑스,0.365,19,2016,political
+France,프랑스,0.755,17,2016,overall
+Gambia,감비아,0.6876,25,2006,economic
+Gambia,감비아,0.8086,106,2006,education
+Gambia,감비아,0.9741,64,2006,health
+Gambia,감비아,0.1089,55,2006,political
+Gambia,감비아,0.6448,78,2006,overall
+Gambia,감비아,0.6866,37,2007,economic
+Gambia,감비아,0.8084,117,2007,education
+Gambia,감비아,0.9796,1,2007,health
+Gambia,감비아,0.0939,73,2007,political
+Gambia,감비아,0.6421,93,2007,overall
+Gambia,감비아,0.7063,32,2008,economic
+Gambia,감비아,0.8355,118,2008,education
+Gambia,감비아,0.9796,1,2008,health
+Gambia,감비아,0.1272,63,2008,political
+Gambia,감비아,0.6622,83,2008,overall
+Gambia,감비아,0.7412,23,2009,economic
+Gambia,감비아,0.8528,119,2009,education
+Gambia,감비아,0.9796,1,2009,health
+Gambia,감비아,0.1272,68,2009,political
+Gambia,감비아,0.6752,73,2009,overall
+Gambia,감비아,0.7588,14,2010,economic
+Gambia,감비아,0.8288,121,2010,education
+Gambia,감비아,0.9796,1,2010,health
+Gambia,감비아,0.1377,62,2010,political
+Gambia,감비아,0.6762,75,2010,overall
+Gambia,감비아,0.7561,19,2011,economic
+Gambia,감비아,0.832,122,2011,education
+Gambia,감비아,0.9796,1,2011,health
+Gambia,감비아,0.1375,66,2011,political
+Gambia,감비아,0.6763,77,2011,overall
+Gambia,감비아,0.7716,18,2012,economic
+Gambia,감비아,0.7634,127,2012,education
+Gambia,감비아,0.9796,1,2012,health
+Gambia,감비아,0.1375,70,2012,political
+Gambia,감비아,0.663,93,2012,overall
+Gambia,감비아,N/A,N/A,2013,overall
+Gambia,감비아,N/A,N/A,2014,overall
+Gambia,감비아,0.697,58,2015,economic
+Gambia,감비아,0.926,118,2015,education
+Gambia,감비아,0.973,85,2015,health
+Gambia,감비아,0.098,108,2015,political
+Gambia,감비아,0.674,96,2015,overall
+Gambia,감비아,0.685,60,2016,economic
+Gambia,감비아,0.913,127,2016,education
+Gambia,감비아,0.973,83,2016,health
+Gambia,감비아,0.098,106,2016,political
+Gambia,감비아,0.6672,103,2016,overall
+Georgia,조지아,0.6565,41,2006,economic
+Georgia,조지아,0.9967,28,2006,education
+Georgia,조지아,0.9227,115,2006,health
+Georgia,조지아,0.1042,59,2006,political
+Georgia,조지아,0.67,53,2006,overall
+Georgia,조지아,0.6304,69,2007,economic
+Georgia,조지아,0.9982,28,2007,education
+Georgia,조지아,0.9332,125,2007,health
+Georgia,조지아,0.1042,66,2007,political
+Georgia,조지아,0.6665,65,2007,overall
+Georgia,조지아,0.635,69,2008,economic
+Georgia,조지아,1,1,2008,education
+Georgia,조지아,0.9386,127,2008,health
+Georgia,조지아,0.0881,92,2008,political
+Georgia,조지아,0.6654,80,2008,overall
+Georgia,조지아,0.6753,54,2009,economic
+Georgia,조지아,0.9855,82,2009,education
+Georgia,조지아,0.9386,131,2009,health
+Georgia,조지아,0.0726,103,2009,political
+Georgia,조지아,0.668,81,2009,overall
+Georgia,조지아,0.6751,54,2010,economic
+Georgia,조지아,0.9813,87,2010,education
+Georgia,조지아,0.9441,129,2010,health
+Georgia,조지아,0.0388,119,2010,political
+Georgia,조지아,0.6598,88,2010,overall
+Georgia,조지아,0.6725,54,2011,economic
+Georgia,조지아,0.99,67,2011,education
+Georgia,조지아,0.948,128,2011,health
+Georgia,조지아,0.039,120,2011,political
+Georgia,조지아,0.6624,87,2011,overall
+Georgia,조지아,0.6766,57,2012,economic
+Georgia,조지아,0.979,89,2012,education
+Georgia,조지아,0.9497,129,2012,health
+Georgia,조지아,0.0711,109,2012,political
+Georgia,조지아,0.6691,85,2012,overall
+Georgia,조지아,0.6741,64,2013,economic
+Georgia,조지아,0.979,89,2013,education
+Georgia,조지아,0.9553,126,2013,health
+Georgia,조지아,0.0915,97,2013,political
+Georgia,조지아,0.675,86,2013,overall
+Georgia,조지아,0.6751,66,2014,economic
+Georgia,조지아,0.9887,80,2014,education
+Georgia,조지아,0.967,115,2014,health
+Georgia,조지아,0.1111,94,2014,political
+Georgia,조지아,0.6855,82,2014,overall
+Georgia,조지아,0.692,60,2015,economic
+Georgia,조지아,1,31,2015,education
+Georgia,조지아,0.967,120,2015,health
+Georgia,조지아,0.089,114,2015,political
+Georgia,조지아,0.687,81,2015,overall
+Georgia,조지아,0.679,61,2016,economic
+Georgia,조지아,0.989,78,2016,education
+Georgia,조지아,0.967,119,2016,health
+Georgia,조지아,0.089,114,2016,political
+Georgia,조지아,0.6809,89,2016,overall
+Germany,독일,0.6694,32,2006,economic
+Germany,독일,0.9954,31,2006,education
+Germany,독일,0.9791,36,2006,health
+Germany,독일,0.3657,6,2006,political
+Germany,독일,0.7524,5,2006,overall
+Germany,독일,0.6997,29,2007,economic
+Germany,독일,0.9954,35,2007,education
+Germany,독일,0.9783,56,2007,health
+Germany,독일,0.3738,6,2007,political
+Germany,독일,0.7618,7,2007,overall
+Germany,독일,0.6877,45,2008,economic
+Germany,독일,0.9954,49,2008,education
+Germany,독일,0.9783,57,2008,health
+Germany,독일,0.2962,16,2008,political
+Germany,독일,0.7394,11,2008,overall
+Germany,독일,0.6956,37,2009,economic
+Germany,독일,0.9953,49,2009,education
+Germany,독일,0.9783,60,2009,health
+Germany,독일,0.3105,13,2009,political
+Germany,독일,0.7449,12,2009,overall
+Germany,독일,0.7138,37,2010,economic
+Germany,독일,0.9945,51,2010,education
+Germany,독일,0.9784,47,2010,health
+Germany,독일,0.3251,15,2010,political
+Germany,독일,0.753,13,2010,overall
+Germany,독일,0.727,32,2011,economic
+Germany,독일,0.9942,50,2011,education
+Germany,독일,0.9784,49,2011,health
+Germany,독일,0.3364,15,2011,political
+Germany,독일,0.759,11,2011,overall
+Germany,독일,0.7399,31,2012,economic
+Germany,독일,0.9848,83,2012,education
+Germany,독일,0.978,52,2012,health
+Germany,독일,0.3488,15,2012,political
+Germany,독일,0.7629,13,2012,overall
+Germany,독일,0.712,46,2013,economic
+Germany,독일,0.9818,86,2013,education
+Germany,독일,0.978,49,2013,health
+Germany,독일,0.3611,15,2013,political
+Germany,독일,0.7583,14,2013,overall
+Germany,독일,0.7388,34,2014,economic
+Germany,독일,0.9995,34,2014,education
+Germany,독일,0.9739,67,2014,health
+Germany,독일,0.3998,11,2014,political
+Germany,독일,0.778,11,2014,overall
+Germany,독일,0.737,38,2015,economic
+Germany,독일,0.987,88,2015,education
+Germany,독일,0.979,56,2015,health
+Germany,독일,0.413,11,2015,political
+Germany,독일,0.779,11,2015,overall
+Germany,독일,0.691,57,2016,economic
+Germany,독일,0.966,100,2016,education
+Germany,독일,0.979,54,2016,health
+Germany,독일,0.428,10,2016,political
+Germany,독일,0.7656,13,2016,overall
+Ghana,가나,0.7535,5,2006,economic
+Ghana,가나,0.8682,94,2006,education
+Ghana,가나,0.9685,89,2006,health
+Ghana,가나,0.071,80,2006,political
+Ghana,가나,0.6653,57,2006,overall
+Ghana,가나,0.7806,3,2007,economic
+Ghana,가나,0.8711,106,2007,education
+Ghana,가나,0.9674,105,2007,health
+Ghana,가나,0.071,91,2007,political
+Ghana,가나,0.6725,61,2007,overall
+Ghana,가나,0.7445,14,2008,economic
+Ghana,가나,0.8749,110,2008,education
+Ghana,가나,0.9674,106,2008,health
+Ghana,가나,0.0847,94,2008,political
+Ghana,가나,0.6679,75,2008,overall
+Ghana,가나,0.7548,13,2009,economic
+Ghana,가나,0.886,112,2009,education
+Ghana,가나,0.9674,111,2009,health
+Ghana,가나,0.0733,101,2009,political
+Ghana,가나,0.6704,78,2009,overall
+Ghana,가나,0.7577,15,2010,economic
+Ghana,가나,0.8915,111,2010,education
+Ghana,가나,0.9674,103,2010,health
+Ghana,가나,0.0961,88,2010,political
+Ghana,가나,0.6782,70,2010,overall
+Ghana,가나,0.7581,17,2011,economic
+Ghana,가나,0.9027,111,2011,education
+Ghana,가나,0.9674,104,2011,health
+Ghana,가나,0.0962,91,2011,political
+Ghana,가나,0.6811,70,2011,overall
+Ghana,가나,0.7543,26,2012,economic
+Ghana,가나,0.9055,113,2012,education
+Ghana,가나,0.9674,105,2012,health
+Ghana,가나,0.0839,100,2012,political
+Ghana,가나,0.6778,71,2012,overall
+Ghana,가나,0.7662,24,2013,economic
+Ghana,가나,0.897,111,2013,education
+Ghana,가나,0.9674,104,2013,health
+Ghana,가나,0.0937,95,2013,political
+Ghana,가나,0.6811,76,2013,overall
+Ghana,가나,0.6772,64,2014,economic
+Ghana,가나,0.9104,117,2014,education
+Ghana,가나,0.9669,116,2014,health
+Ghana,가나,0.1097,97,2014,political
+Ghana,가나,0.6661,97,2014,overall
+Ghana,가나,0.808,13,2015,economic
+Ghana,가나,0.924,119,2015,education
+Ghana,가나,0.973,87,2015,health
+Ghana,가나,0.112,96,2015,political
+Ghana,가나,0.704,63,2015,overall
+Ghana,가나,0.805,10,2016,economic
+Ghana,가나,0.931,119,2016,education
+Ghana,가나,0.973,85,2016,health
+Ghana,가나,0.112,95,2016,political
+Ghana,가나,0.7053,59,2016,overall
+Greece,그리스,0.5855,70,2006,economic
+Greece,그리스,0.9918,46,2006,education
+Greece,그리스,0.9779,53,2006,health
+Greece,그리스,0.0609,87,2006,political
+Greece,그리스,0.654,68,2006,overall
+Greece,그리스,0.6302,70,2007,economic
+Greece,그리스,0.9894,57,2007,education
+Greece,그리스,0.9785,53,2007,health
+Greece,그리스,0.0609,98,2007,political
+Greece,그리스,0.6648,70,2007,overall
+Greece,그리스,0.6314,72,2008,economic
+Greece,그리스,0.9944,55,2008,education
+Greece,그리스,0.9785,54,2008,health
+Greece,그리스,0.0863,93,2008,political
+Greece,그리스,0.6727,73,2008,overall
+Greece,그리스,0.6067,86,2009,economic
+Greece,그리스,0.9934,60,2009,education
+Greece,그리스,0.9785,57,2009,health
+Greece,그리스,0.0863,94,2009,political
+Greece,그리스,0.6662,83,2009,overall
+Greece,그리스,0.6209,79,2010,economic
+Greece,그리스,0.9935,54,2010,education
+Greece,그리스,0.9712,84,2010,health
+Greece,그리스,0.1773,42,2010,political
+Greece,그리스,0.6908,58,2010,overall
+Greece,그리스,0.6242,78,2011,economic
+Greece,그리스,0.9938,53,2011,education
+Greece,그리스,0.9712,86,2011,health
+Greece,그리스,0.1772,42,2011,political
+Greece,그리스,0.6916,56,2011,overall
+Greece,그리스,0.6329,80,2012,economic
+Greece,그리스,0.994,55,2012,education
+Greece,그리스,0.9737,69,2012,health
+Greece,그리스,0.0858,99,2012,political
+Greece,그리스,0.6716,82,2012,overall
+Greece,그리스,0.647,79,2013,economic
+Greece,그리스,0.9953,46,2013,education
+Greece,그리스,0.9737,65,2013,health
+Greece,그리스,0.0969,92,2013,political
+Greece,그리스,0.6782,81,2013,overall
+Greece,그리스,0.6434,87,2014,economic
+Greece,그리스,0.9954,53,2014,education
+Greece,그리스,0.9785,55,2014,health
+Greece,그리스,0.0961,108,2014,political
+Greece,그리스,0.6784,88,2014,overall
+Greece,그리스,0.644,87,2015,economic
+Greece,그리스,0.996,56,2015,education
+Greece,그리스,0.979,56,2015,health
+Greece,그리스,0.12,91,2015,political
+Greece,그리스,0.685,86,2015,overall
+Greece,그리스,0.649,85,2016,economic
+Greece,그리스,0.987,85,2016,education
+Greece,그리스,0.979,54,2016,health
+Greece,그리스,0.104,101,2016,political
+Greece,그리스,0.6795,91,2016,overall
+Guatemala,과테말라,0.4425,104,2006,economic
+Guatemala,과테말라,0.8945,91,2006,education
+Guatemala,과테말라,0.9796,1,2006,health
+Guatemala,과테말라,0.1101,54,2006,political
+Guatemala,과테말라,0.6067,94,2006,overall
+Guatemala,과테말라,0.4715,112,2007,economic
+Guatemala,과테말라,0.8966,102,2007,education
+Guatemala,과테말라,0.9796,1,2007,health
+Guatemala,과테말라,0.1101,61,2007,political
+Guatemala,과테말라,0.6144,104,2007,overall
+Guatemala,과테말라,0.4746,114,2008,economic
+Guatemala,과테말라,0.9148,103,2008,education
+Guatemala,과테말라,0.9796,1,2008,health
+Guatemala,과테말라,0.0599,113,2008,political
+Guatemala,과테말라,0.6072,110,2008,overall
+Guatemala,과테말라,0.5061,115,2009,economic
+Guatemala,과테말라,0.9382,101,2009,education
+Guatemala,과테말라,0.9796,1,2009,health
+Guatemala,과테말라,0.0599,118,2009,political
+Guatemala,과테말라,0.6209,109,2009,overall
+Guatemala,과테말라,0.528,109,2010,economic
+Guatemala,과테말라,0.9453,101,2010,education
+Guatemala,과테말라,0.9796,1,2010,health
+Guatemala,과테말라,0.0423,116,2010,political
+Guatemala,과테말라,0.6238,109,2010,overall
+Guatemala,과테말라,0.5236,113,2011,economic
+Guatemala,과테말라,0.946,98,2011,education
+Guatemala,과테말라,0.9796,1,2011,health
+Guatemala,과테말라,0.0422,118,2011,political
+Guatemala,과테말라,0.6229,112,2011,overall
+Guatemala,과테말라,0.5259,114,2012,economic
+Guatemala,과테말라,0.9511,102,2012,education
+Guatemala,과테말라,0.9796,1,2012,health
+Guatemala,과테말라,0.0475,121,2012,political
+Guatemala,과테말라,0.626,116,2012,overall
+Guatemala,과테말라,0.5422,113,2013,economic
+Guatemala,과테말라,0.9522,102,2013,education
+Guatemala,과테말라,0.9796,1,2013,health
+Guatemala,과테말라,0.0475,123,2013,political
+Guatemala,과테말라,0.6304,114,2013,overall
+Guatemala,과테말라,0.6622,72,2014,economic
+Guatemala,과테말라,0.9492,108,2014,education
+Guatemala,과테말라,0.9796,1,2014,health
+Guatemala,과테말라,0.1374,78,2014,political
+Guatemala,과테말라,0.6821,86,2014,overall
+Guatemala,과테말라,0.627,98,2015,economic
+Guatemala,과테말라,0.953,108,2015,education
+Guatemala,과테말라,0.98,1,2015,health
+Guatemala,과테말라,0.109,99,2015,political
+Guatemala,과테말라,0.667,105,2015,overall
+Guatemala,과테말라,0.613,102,2016,economic
+Guatemala,과테말라,0.96,107,2016,education
+Guatemala,과테말라,0.98,1,2016,health
+Guatemala,과테말라,0.112,96,2016,political
+Guatemala,과테말라,0.6662,104,2016,overall
+Guinea,기니,N/A,N/A,2006,overall
+Guinea,기니,N/A,N/A,2007,overall
+Guinea,기니,N/A,N/A,2008,overall
+Guinea,기니,N/A,N/A,2009,overall
+Guinea,기니,N/A,N/A,2010,overall
+Guinea,기니,N/A,N/A,2011,overall
+Guinea,기니,N/A,N/A,2012,overall
+Guinea,기니,N/A,N/A,2013,overall
+Guinea,기니,0.6561,74,2014,economic
+Guinea,기니,0.6489,141,2014,education
+Guinea,기니,0.9674,107,2014,health
+Guinea,기니,0.1296,83,2014,political
+Guinea,기니,N/A,N/A,2014,overall
+Guinea,기니,0.666,76,2015,economic
+Guinea,기니,0.707,143,2015,education
+Guinea,기니,0.967,116,2015,health
+Guinea,기니,0.13,85,2015,political
+Guinea,기니,0.618,131,2015,overall
+Guinea,기니,0.745,29,2016,economic
+Guinea,기니,0.718,142,2016,education
+Guinea,기니,0.967,115,2016,health
+Guinea,기니,0.13,88,2016,political
+Guinea,기니,0.6399,121,2016,overall
+Guyana,가이아나,N/A,N/A,2006,overall
+Guyana,가이아나,N/A,N/A,2007,overall
+Guyana,가이아나,N/A,N/A,2008,overall
+Guyana,가이아나,0.6134,85,2009,economic
+Guyana,가이아나,0.9969,41,2009,education
+Guyana,가이아나,0.9796,1,2009,health
+Guyana,가이아나,0.2535,28,2009,political
+Guyana,가이아나,0.7108,34,2009,overall
+Guyana,가이아나,0.5915,93,2010,economic
+Guyana,가이아나,0.998,33,2010,education
+Guyana,가이아나,0.9789,43,2010,health
+Guyana,가이아나,0.2674,27,2010,political
+Guyana,가이아나,0.709,38,2010,overall
+Guyana,가이아나,0.5985,88,2011,economic
+Guyana,가이아나,0.9886,75,2011,education
+Guyana,가이아나,0.9789,45,2011,health
+Guyana,가이아나,0.2678,28,2011,political
+Guyana,가이아나,0.7084,38,2011,overall
+Guyana,가이아나,0.6029,94,2012,economic
+Guyana,가이아나,0.999,28,2012,education
+Guyana,가이아나,0.9789,47,2012,health
+Guyana,가이아나,0.2668,32,2012,political
+Guyana,가이아나,0.7119,42,2012,overall
+Guyana,가이아나,0.5885,102,2013,economic
+Guyana,가이아나,1,1,2013,education
+Guyana,가이아나,0.9789,45,2013,health
+Guyana,가이아나,0.2668,33,2013,political
+Guyana,가이아나,0.7085,47,2013,overall
+Guyana,가이아나,0.5652,117,2014,economic
+Guyana,가이아나,1,1,2014,education
+Guyana,가이아나,0.9796,1,2014,health
+Guyana,가이아나,0.2591,34,2014,political
+Guyana,가이아나,0.701,62,2014,overall
+Guyana,가이아나,0.569,124,2015,economic
+Guyana,가이아나,1,1,2015,education
+Guyana,가이아나,0.98,1,2015,health
+Guyana,가이아나,0.261,37,2015,political
+Guyana,가이아나,0.702,66,2015,overall
+Guyana,가이아나,N/A,N/A,2016,overall
+
+Honduras,온두라스,0.623,96,2016,economic
+Honduras,온두라스,1,1,2016,education
+Honduras,온두라스,0.976,59,2016,health
+Honduras,온두라스,0.16,75,2016,political
+Honduras,온두라스,0.6896,78,2016,overall
+
+Hungary,헝가리,0.672,97,2015,overall
+Hungary,헝가리,0.672,67,2016,economic
+Hungary,헝가리,0.992,67,2016,education
+Hungary,헝가리,0.979,40,2016,health
+Hungary,헝가리,0.035,138,2016,political
+Hungary,헝가리,0.6695,100,2016,overall
+
+Iceland,아이스랜드,0.806,9,2016,economic
+Iceland,아이스랜드,1,1,2016,education
+Iceland,아이스랜드,0.97,104,2016,health
+Iceland,아이스랜드,0.719,1,2016,political
+Iceland,아이스랜드,0.8737,1,2016,overall
+
+India,인도,0.408,136,2016,economic
+India,인도,0.95,113,2016,education
+India,인도,0.942,142,2016,health
+India,인도,0.433,9,2016,political
+India,인도,0.6832,86,2016,overall
+
+Indonesia,인도네시아,0.598,107,2016,economic
+Indonesia,인도네시아,0.987,87,2016,education
+Indonesia,인도네시아,0.976,58,2016,health
+Indonesia,인도네시아,0.168,72,2016,political
+Indonesia,인도네시아,0.6821,87,2016,overall
+
+Iran,이란,0.357,140,2016,economic
+Iran,이란,0.975,94,2016,education
+Iran,이란,0.971,98,2016,health
+Iran,이란,0.047,136,2016,political
+Iran,이란,0.5875,138,2016,overall
+
+Ireland,아일랜드,0.709,49,2016,economic
+Ireland,아일랜드,1,1,2016,education
+Ireland,아일랜드,0.979,54,2016,health
+Ireland,아일랜드,0.502,5,2016,political
+Ireland,아일랜드,0.7975,6,2016,overall
+
+Israel,이스라엘,0.678,62,2016,economic
+Israel,이스라엘,1,1,2016,education
+Israel,이스라엘,0.974,67,2016,health
+Israel,이스라엘,0.224,48,2016,political
+Israel,이스라엘,0.7192,49,2016,overall
+
+Italy,이탈리아,0.574,117,2016,economic
+Italy,이탈리아,0.995,56,2016,education
+Italy,이탈리아,0.974,72,2016,health
+Italy,이탈리아,0.331,25,2016,political
+Italy,이탈리아,0.7186,50,2016,overall
+
+Jamaica,자메이카,0.733,35,2016,economic
+Jamaica,자메이카,1,1,2016,education
+Jamaica,자메이카,0.98,1,2016,health
+Jamaica,자메이카,0.183,63,2016,political
+Jamaica,자메이카,0.7239,42,2016,overall
+
+Japan,일본,0.569,118,2016,economic
+Japan,일본,0.99,76,2016,education
+Japan,일본,0.979,40,2016,health
+Japan,일본,0.103,103,2016,political
+Japan,일본,0.6602,110,2016,overall
+
+Jordan,요르단,0.381,138,2016,economic
+Jordan,요르단,0.993,64,2016,education
+Jordan,요르단,0.966,131,2016,health
+Jordan,요르단,0.073,123,2016,political
+Jordan,요르단,0.6031,133,2016,overall
+
+Kazakhstan,카자흐스탄,0.745,31,2016,economic
+Kazakhstan,카자흐스탄,0.995,58,2016,education
+Kazakhstan,카자흐스탄,0.98,1,2016,health
+Kazakhstan,카자흐스탄,0.153,77,2016,political
+Kazakhstan,카자흐스탄,0.718,51,2016,overall
+
+Kenya,켄야,0.71,48,2016,economic
+Kenya,켄야,0.943,116,2016,education
+Kenya,켄야,0.973,83,2016,health
+Kenya,켄야,0.182,64,2016,political
+Kenya,켄야,0.7019,63,2016,overall
+
+South Korea,한국,0.537,123,2016,economic
+South Korea,한국,0.964,102,2016,education
+South Korea,한국,0.973,76,2016,health
+South Korea,한국,0.12,92,2016,political
+South Korea,한국,0.649,116,2016,overall
+
+Kuwait,쿠웨이트,0.52,125,2016,economic
+Kuwait,쿠웨이트,0.997,47,2016,education
+Kuwait,쿠웨이트,0.957,136,2016,health
+Kuwait,쿠웨이트,0.022,140,2016,political
+Kuwait,쿠웨이트,0.624,127,2016,overall
+
+Kyrgyzstan,키르기스스탄,0.651,83,2016,economic
+Kyrgyzstan,키르기스스탄,0.991,72,2016,education
+Kyrgyzstan,키르기스스탄,0.973,76,2016,health
+Kyrgyzstan,키르기스스탄,0.132,87,2016,political
+Kyrgyzstan,키르기스스탄,0.6867,81,2016,overall
+
+Laos,라오스,0.6993,60,2013,overall
+Laos,라오스,0.7044,58,2014,overall
+Laos,라오스,0.713,51,2015,overall
+Laos,라오스,0.7238,43,2016,overall
+
+Latvia,라트비아,0.785,18,2016,economic
+Latvia,라트비아,1,1,2016,education
+Latvia,라트비아,0.98,1,2016,health
+Latvia,라트비아,0.255,38,2016,political
+Latvia,라트비아,0.7547,18,2016,overall
+
+Lebanon,레바논,0.44,133,2016,economic
+Lebanon,레바논,0.959,108,2016,education
+Lebanon,레바논,0.97,102,2016,health
+Lebanon,레바논,0.021,143,2016,political
+Lebanon,레바논,0.5976,134,2016,overall
+
+Lesotho,레소토,0.672,66,2016,economic
+Lesotho,레소토,1,1,2016,education
+Lesotho,레소토,0.98,1,2016,health
+Lesotho,레소토,0.172,70,2016,political
+Lesotho,레소토,0.7059,57,2016,overall
+
+Liberia,라이베리아,0.612,103,2016,economic
+Liberia,라이베리아,0.797,137,2016,education
+Liberia,라이베리아,0.967,118,2016,health
+Liberia,라이베리아,0.23,46,2016,political
+Liberia,라이베리아,0.6518,113,2016,overall
+
+Lithuania,리투아니아,0.757,25,2016,economic
+Lithuania,리투아니아,1,1,2016,education
+Lithuania,리투아니아,0.979,40,2016,health
+Lithuania,리투아니아,0.239,43,2016,political
+Lithuania,리투아니아,0.7439,25,2016,overall
+
+Luxembourg,룩셈부르크,0.75,27,2016,economic
+Luxembourg,룩셈부르크,1,1,2016,education
+Luxembourg,룩셈부르크,0.974,69,2016,health
+Luxembourg,룩셈부르크,0.212,55,2016,political
+Luxembourg,룩셈부르크,0.7342,34,2016,overall
+
+Macedonia,마케도니아,0.658,79,2016,economic
+Macedonia,마케도니아,0.982,91,2016,education
+Macedonia,마케도니아,0.967,119,2016,health
+Macedonia,마케도니아,0.178,67,2016,political
+Macedonia,마케도니아,0.6962,73,2016,overall
+
+Madagascar,마다가스카르,0.739,32,2016,economic
+Madagascar,마다가스카르,0.964,101,2016,education
+Madagascar,마다가스카르,0.973,88,2016,health
+Madagascar,마다가스카르,0.142,81,2016,political
+Madagascar,마다가스카르,0.7043,60,2016,overall
+
+Malawi,말라위,0.799,12,2016,economic
+Malawi,말라위,0.915,125,2016,education
+Malawi,말라위,0.973,75,2016,health
+Malawi,말라위,0.113,94,2016,political
+Malawi,말라위,0.7,67,2016,overall
+
+Malaysia,말레이시아,0.658,80,2016,economic
+Malaysia,말레이시아,0.985,89,2016,education
+Malaysia,말레이시아,0.969,109,2016,health
+Malaysia,말레이시아,0.051,134,2016,political
+Malaysia,말레이시아,0.6658,105,2016,overall
+
+Maldives,몰디브,0.59,112,2016,economic
+Maldives,몰디브,0.988,81,2016,education
+Maldives,몰디브,0.966,129,2016,health
+Maldives,몰디브,0.055,133,2016,political
+Maldives,몰디브,0.6496,114,2016,overall
+
+Mali,말리,0.599,137,2015,overall
+Mali,말리,0.594,110,2016,economic
+Mali,말리,0.733,140,2016,education
+Mali,말리,0.949,140,2016,health
+Mali,말리,0.086,117,2016,political
+Mali,말리,0.5905,137,2016,overall
+
+Malta,몰타,0.595,108,2016,economic
+Malta,몰타,0.953,111,2016,education
+Malta,몰타,0.97,107,2016,health
+Malta,몰타,0.14,82,2016,political
+Malta,몰타,0.6643,107,2016,overall
+
+Mauritania,모리타니,0.469,128,2016,economic
+Mauritania,모리타니,0.858,131,2016,education
+Mauritania,모리타니,0.973,85,2016,health
+Mauritania,모리타니,0.195,59,2016,political
+Mauritania,모리타니,0.6238,128,2016,overall
+
+Mauritius,모리셔스,0.55,121,2016,economic
+Mauritius,모리셔스,0.991,71,2016,education
+Mauritius,모리셔스,0.98,1,2016,health
+Mauritius,모리셔스,0.087,116,2016,political
+Mauritius,모리셔스,0.652,112,2016,overall
+
+Mexico,멕시코,0.544,122,2016,economic
+Mexico,멕시코,0.996,51,2016,education
+Mexico,멕시코,0.98,1,2016,health
+Mexico,멕시코,0.281,34,2016,political
+Mexico,멕시코,0.7,66,2016,overall
+
+Moldova,몰도바,0.795,15,2016,economic
+Moldova,몰도바,0.996,52,2016,education
+Moldova,몰도바,0.979,40,2016,health
+Moldova,몰도바,0.196,58,2016,political
+Moldova,몰도바,0.7413,26,2016,overall
+
+Mongolia,몽골,0.766,23,2016,economic
+Mongolia,몽골,0.993,66,2016,education
+Mongolia,몽골,0.98,1,2016,health
+Mongolia,몽골,0.084,119,2016,political
+Mongolia,몽골,0.7054,58,2016,overall
+
+Montenegro,몬테네그로,0.647,88,2016,economic
+Montenegro,몬테네그로,0.989,79,2016,education
+Montenegro,몬테네그로,0.975,60,2016,health
+Montenegro,몬테네그로,0.114,93,2016,political
+Montenegro,몬테네그로,0.6813,88,2016,overall
+
+Morocco,모로코,0.38,139,2016,economic
+Morocco,모로코,0.925,122,2016,education
+Morocco,모로코,0.971,93,2016,health
+Morocco,모로코,0.11,98,2016,political
+Morocco,모로코,0.5966,136,2016,overall
+
+Mozambique,모잠비크,0.798,13,2016,economic
+Mozambique,모잠비크,0.871,129,2016,education
+Mozambique,모잠비크,0.968,113,2016,health
+Mozambique,모잠비크,0.361,21,2016,political
+Mozambique,모잠비크,0.7496,21,2016,overall
+
+Namibia,나미비아,0.781,20,2016,economic
+Namibia,나미비아,0.999,35,2016,education
+Namibia,나미비아,0.98,1,2016,health
+Namibia,나미비아,0.299,31,2016,political
+Namibia,나미비아,0.7646,14,2016,overall
+
+Nepal,네팔,0.578,115,2016,economic
+Nepal,네팔,0.918,123,2016,education
+Nepal,네팔,0.972,92,2016,health
+Nepal,네팔,0.175,68,2016,political
+Nepal,네팔,0.6608,109,2016,overall
+
+Netherlands,네덜란드,0.659,76,2016,economic
+Netherlands,네덜란드,0.994,60,2016,education
+Netherlands,네덜란드,0.97,103,2016,health
+Netherlands,네덜란드,0.401,14,2016,political
+Netherlands,네덜란드,0.7558,16,2016,overall
+
+New Zealand,뉴질랜드,0.765,24,2016,economic
+New Zealand,뉴질랜드,0.999,40,2016,education
+New Zealand,뉴질랜드,0.97,104,2016,health
+New Zealand,뉴질랜드,0.39,16,2016,political
+New Zealand,뉴질랜드,0.7807,9,2016,overall
+
+Nicaragua,니카라과,0.632,92,2016,economic
+Nicaragua,니카라과,1,1,2016,education
+Nicaragua,니카라과,0.98,1,2016,health
+Nicaragua,니카라과,0.506,4,2016,political
+Nicaragua,니카라과,0.7795,10,2016,overall
+
+Nigeria,나이지리아,0.7,52,2016,economic
+Nigeria,나이지리아,0.814,134,2016,education
+Nigeria,나이지리아,0.961,135,2016,health
+Nigeria,나이지리아,0.097,109,2016,political
+Nigeria,나이지리아,0.6429,117,2016,overall
+
+Norway,노르웨이,0.818,7,2016,economic
+Norway,노르웨이,1,28,2016,education
+Norway,노르웨이,0.974,68,2016,health
+Norway,노르웨이,0.576,3,2016,political
+Norway,노르웨이,0.842,3,2016,overall
+
+Oman,오만,0.483,126,2016,economic
+Oman,오만,0.973,97,2016,education
+Oman,오만,0.971,99,2016,health
+Oman,오만,0.021,142,2016,political
+Oman,오만,0.6122,132,2016,overall
+
+Pakistan,파키스탄,0.32,143,2016,economic
+Pakistan,파키스탄,0.811,135,2016,education
+Pakistan,파키스탄,0.967,124,2016,health
+Pakistan,파키스탄,0.127,90,2016,political
+Pakistan,파키스탄,0.5559,142,2016,overall
+
+Panama,파나마,0.696,55,2016,economic
+Panama,파나마,0.993,62,2016,education
+Panama,파나마,0.98,1,2016,health
+Panama,파나마,0.214,54,2016,political
+Panama,파나마,0.7207,47,2016,overall
+
+Paraguay,파라과이,0.656,82,2016,economic
+Paraguay,파라과이,0.995,59,2016,education
+Paraguay,파라과이,0.98,1,2016,health
+Paraguay,파라과이,0.075,122,2016,political
+Paraguay,파라과이,0.6764,95,2016,overall
+
+Peru,페루,0.594,111,2016,economic
+Peru,페루,0.989,80,2016,education
+Peru,페루,0.97,100,2016,health
+Peru,페루,0.194,60,2016,political
+Peru,페루,0.6868,80,2016,overall
+
+Philippines,필리핀,0.78,21,2016,economic
+Philippines,필리핀,1,1,2016,education
+Philippines,필리핀,0.98,1,2016,health
+Philippines,필리핀,0.386,17,2016,political
+Philippines,필리핀,0.7863,7,2016,overall
+
+Poland,폴란드,0.69,58,2016,economic
+Poland,폴란드,1,31,2016,education
+Poland,폴란드,0.979,40,2016,health
+Poland,폴란드,0.238,44,2016,political
+Poland,폴란드,0.7267,38,2016,overall
+
+Portugal,포르투갈,0.713,46,2016,economic
+Portugal,포르투갈,0.993,63,2016,education
+Portugal,포르투갈,0.973,76,2016,health
+Portugal,포르투갈,0.268,36,2016,political
+Portugal,포르투갈,0.7369,31,2016,overall
+
+Qatar,카타르,0.619,97,2016,economic
+Qatar,카타르,0.982,92,2016,education
+Qatar,카타르,0.957,136,2016,health
+Qatar,카타르,0.013,144,2016,political
+Qatar,카타르,0.6426,118,2016,overall
+
+Romania,루마니아,0.699,54,2016,economic
+Romania,루마니아,0.992,68,2016,education
+Romania,루마니아,0.979,40,2016,health
+Romania,루마니아,0.09,112,2016,political
+Romania,루마니아,0.6902,76,2016,overall
+
+Russia,러시아,0.722,41,2016,economic
+Russia,러시아,0.997,45,2016,education
+Russia,러시아,0.979,40,2016,health
+Russia,러시아,0.066,129,2016,political
+Russia,러시아,0.6909,75,2016,overall
+
+Rwanda,르완다,0.817,8,2016,economic
+Rwanda,르완다,0.958,110,2016,education
+Rwanda,르완다,0.972,89,2016,health
+Rwanda,르완다,0.452,8,2016,political
+Rwanda,르완다,0.7998,5,2016,overall
+
+Saudi Arabia,사우디아라비아,0.328,142,2016,economic
+Saudi Arabia,사우디아라비아,0.961,105,2016,education
+Saudi Arabia,사우디아라비아,0.966,128,2016,health
+Saudi Arabia,사우디아라비아,0.077,121,2016,political
+Saudi Arabia,사우디아라비아,0.5829,140,2016,overall
+
+Senegal,세네갈,0.628,94,2016,economic
+Senegal,세네갈,0.83,133,2016,education
+Senegal,세네갈,0.967,123,2016,health
+Senegal,세네갈,0.316,27,2016,political
+Senegal,세네갈,0.6851,82,2016,overall
+
+Serbia,세르비아,0.67,70,2016,economic
+Serbia,세르비아,0.996,49,2016,education
+Serbia,세르비아,0.973,76,2016,health
+Serbia,세르비아,0.242,42,2016,political
+Serbia,세르비아,0.72,48,2016,overall
+
+Singapore,싱가포르,0.793,17,2016,economic
+Singapore,싱가포르,0.975,95,2016,education
+Singapore,싱가포르,0.967,121,2016,health
+Singapore,싱가포르,0.111,97,2016,political
+Singapore,싱가포르,0.7116,55,2016,overall
+
+Slovakia,슬로바키아,0.6282,82,2012,economic
+Slovakia,슬로바키아,1,1,2012,education
+Slovakia,슬로바키아,0.9796,1,2012,health
+Slovakia,슬로바키아,0.122,80,2012,political
+
+Slovenia,슬로베니아,0.784,19,2016,economic
+Slovenia,슬로베니아,1,25,2016,education
+Slovenia,슬로베니아,0.973,76,2016,health
+Slovenia,슬로베니아,0.385,18,2016,political
+Slovenia,슬로베니아,0.7855,8,2016,overall
+
+South Africa,남아프리카,0.677,63,2016,economic
+South Africa,남아프리카,0.995,55,2016,education
+South Africa,남아프리카,0.98,1,2016,health
+South Africa,남아프리카,0.404,13,2016,political
+South Africa,남아프리카,0.7639,15,2016,overall
+
+Spain,스페인,0.668,72,2016,economic
+Spain,스페인,0.998,43,2016,education
+Spain,스페인,0.972,91,2016,health
+Spain,스페인,0.316,26,2016,political
+Spain,스페인,0.7384,29,2016,overall
+
+Sri Lanka,스리랑카,0.53,124,2016,economic
+Sri Lanka,스리랑카,0.988,82,2016,education
+Sri Lanka,스리랑카,0.98,1,2016,health
+Sri Lanka,스리랑카,0.196,57,2016,political
+Sri Lanka,스리랑카,0.6733,99,2016,overall
+
+Suriname,수리남,0.617,100,2016,economic
+Suriname,수리남,0.997,44,2016,education
+Suriname,수리남,0.98,1,2016,health
+Suriname,수리남,0.12,91,2016,political
+Suriname,수리남,0.6786,94,2016,overall
+
+Swaziland,스와질랜드,0.595,109,2016,economic
+Swaziland,스와질랜드,0.997,46,2016,education
+Swaziland,스와질랜드,0.961,132,2016,health
+Swaziland,스와질랜드,0.109,100,2016,political
+Swaziland,스와질랜드,0.6655,106,2016,overall
+
+Sweden,스웨덴,0.802,11,2016,economic
+Sweden,스웨덴,0.999,36,2016,education
+Sweden,스웨덴,0.974,69,2016,health
+Sweden,스웨덴,0.486,6,2016,political
+Sweden,스웨덴,0.8154,4,2016,overall
+
+Switzerland,스위스,0.745,30,2016,economic
+Switzerland,스위스,0.993,61,2016,education
+Switzerland,스위스,0.974,72,2016,health
+Switzerland,스위스,0.391,15,2016,political
+Switzerland,스위스,0.7759,11,2016,overall
+
+Syria,시리아,0.273,144,2016,economic
+Syria,시리아,0.963,103,2016,education
+Syria,시리아,0.97,101,2016,health
+Syria,시리아,0.063,130,2016,political
+Syria,시리아,0.5673,141,2016,overall
+
+Tajikistan,타지키스탄,0.711,47,2016,economic
+Tajikistan,타지키스탄,0.937,118,2016,education
+Tajikistan,타지키스탄,0.966,126,2016,health
+Tajikistan,타지키스탄,0.104,102,2016,political
+Tajikistan,타지키스탄,0.6793,92,2016,overall
+
+Tanzania,탄자니아,0.674,65,2016,economic
+Tanzania,탄자니아,0.914,126,2016,education
+Tanzania,탄자니아,0.979,53,2016,health
+Tanzania,탄자니아,0.296,33,2016,political
+Tanzania,탄자니아,0.7157,53,2016,overall
+
+Thailand,태국,0.77,22,2016,economic
+Thailand,태국,0.99,74,2016,education
+Thailand,태국,0.98,1,2016,health
+Thailand,태국,0.057,131,2016,political
+Thailand,태국,0.6991,71,2016,overall
+
+Timor-Leste,동티모르,0.406,137,2016,economic
+Timor-Leste,동티모르,0.971,96,2016,health
+Timor-Leste,동티모르,0.229,47,2016,political
+Timor-Leste,동티모르,0.6367,124,2016,overall
+Timor-Leste,동티모르,0.941,117,2016,education
+
+Trinidad and Tobago,트리니다드 토바고,0.702,51,2016,economic
+Trinidad and Tobago,트리니다드 토바고,0.992,69,2016,education
+Trinidad and Tobago,트리니다드 토바고,0.98,1,2016,health
+Trinidad and Tobago,트리니다드 토바고,0.218,50,2016,political
+Trinidad and Tobago,트리니다드 토바고,0.7229,44,2016,overall
+
+Tunisia,튀니지,0.444,131,2016,economic
+Tunisia,튀니지,0.96,106,2016,education
+Tunisia,튀니지,0.969,110,2016,health
+Tunisia,튀니지,0.17,71,2016,political
+Tunisia,튀니지,0.6359,125,2016,overall
+
+Turkey,터키,0.464,129,2016,economic
+Turkey,터키,0.958,109,2016,education
+Turkey,터키,0.98,1,2016,health
+Turkey,터키,0.09,113,2016,political
+Turkey,터키,0.623,129,2016,overall
+
+Uganda,우간다,0.647,87,2016,economic
+Uganda,우간다,0.928,120,2016,education
+Uganda,우간다,0.98,1,2016,health
+Uganda,우간다,0.26,37,2016,political
+Uganda,우간다,0.7037,61,2016,overall
+
+Ukraine,우쿠라이나,0.722,40,2016,economic
+Ukraine,우쿠라이나,1,26,2016,education
+Ukraine,우쿠라이나,0.979,40,2016,health
+Ukraine,우쿠라이나,0.098,107,2016,political
+Ukraine,우쿠라이나,0.6998,69,2016,overall
+
+United Arab Emirates,아랍에미레이트,0.456,130,2016,economic
+United Arab Emirates,아랍에미레이트,1,32,2016,education
+United Arab Emirates,아랍에미레이트,0.961,132,2016,health
+United Arab Emirates,아랍에미레이트,0.139,83,2016,political
+United Arab Emirates,아랍에미레이트,0.639,123,2016,overall
+
+United Kingdom,영국,0.7,53,2016,economic
+United Kingdom,영국,0.999,34,2016,education
+United Kingdom,영국,0.974,64,2016,health
+United Kingdom,영국,0.335,24,2016,political
+United Kingdom,영국,0.7521,20,2016,overall
+
+United States,미국,0.752,26,2016,economic
+United States,미국,1,1,2016,education
+United States,미국,0.975,62,2016,health
+United States,미국,0.162,73,2016,political
+United States,미국,0.722,45,2016,overall
+
+Uruguay,우르과이,0.643,90,2016,economic
+Uruguay,우르과이,0.999,39,2016,education
+Uruguay,우르과이,0.98,1,2016,health
+Uruguay,우르과이,0.101,104,2016,political
+Uruguay,우르과이,0.6805,90,2016,overall
+
+Venezuela,베네수엘라,0.669,71,2016,economic
+Venezuela,베네수엘라,0.999,33,2016,education
+Venezuela,베네수엘라,0.98,1,2016,health
+Venezuela,베네수엘라,0.127,89,2016,political
+Venezuela,베네수엘라,0.6937,74,2016,overall
+
+Vietnam,베트남,0.736,33,2016,economic
+Vietnam,베트남,0.978,93,2016,education
+Vietnam,베트남,0.95,138,2016,health
+Vietnam,베트남,0.138,84,2016,political
+Vietnam,베트남,0.7004,65,2016,overall
+
+Yemen,예맨,0.352,141,2016,economic
+Yemen,예맨,0.72,141,2016,education
+Yemen,예맨,0.967,122,2016,health
+Yemen,예맨,0.026,139,2016,political
+Yemen,예맨,0.5162,143,2016,overall
+
+Zambia,잠비아,N/A,N/A,2016,overall
+Zimbabwe,짐바브웨,0.714,45,2016,economic
+Zimbabwe,짐바브웨,0.973,96,2016,education
+Zimbabwe,짐바브웨,0.98,1,2016,health
+Zimbabwe,짐바브웨,0.175,69,2016,political
+Zimbabwe,짐바브웨,0.7103,56,2016,overall

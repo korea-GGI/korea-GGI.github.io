@@ -1,0 +1,453 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Spoqa Han Sans', 'Sans-serif';
+    margin: 0;
+    padding: 0;
+    word-break: keep-all;
+    box-sizing: border-box;
+    /*    border: 1px solid rgba(0, 0, 0, 0.1);*/
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+a:active {
+    text-decoration: none;
+    color: black;
+}
+
+a img {
+    border: 0;
+}
+
+/*//공동*/
+
+body {
+    background-color: #ff9240;
+}
+
+.wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+#indication {
+    position: relative;
+    top: 0;
+    cursor: url(images/pointer.png) 0 5, auto;
+}
+
+.rulerChart .tick text {
+    font-size: 1.3rem;
+    fill: #f6ecdd;
+}
+
+#selectedCountry {
+    position: relative;
+    padding-right: 1rem;
+    margin-top: 3rem;
+}
+
+.smxS text {
+    font-size: 1.3rem !important;
+    fill: #f6ecdd;
+}
+
+.Korearect {
+    fill: #f6ecdd !important;
+    opacity: 0.85;
+}
+
+.South-Koreatext {
+    fill: black;
+    font-weight: bold !important;
+}
+
+.tips .tick text {
+
+    fill: #f6ecdd;
+}
+
+/*
+.Koreatick text {
+    opacity: 1 !important;
+   
+}
+*/
+
+.KoreamarginRect {
+    fill: #f6ecdd !important;
+}
+
+rect.KoreaColor {
+    fill: #f6ecdd !important;
+
+}
+
+.KoreasmText {
+    visibility: hidden;
+}
+
+.South-KoreapoliCircle {
+    fill: #f88021;
+}
+
+.South-KoreapoliTip {
+    fill: #f88021;
+    font-weight: bold;
+    z-index: 8900 !important;
+}
+
+.South-KoreapoliTip,
+.IcelandpoliTip,
+.SwedenpoliTip,
+.RewandapoliTip,
+.FinlandpoliTip,
+.NorwaypoliTip {
+    opacity: 1 !important;
+}
+
+.mainMarkerTip {
+    z-index: 8000 !important;
+    font-size: 1.7rem;
+}
+
+/*//공동*/
+
+body {
+    background-color: #ff9240;
+}
+
+.wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+
+@media screen and (min-width: 760px) {
+    .top {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 400 !important;
+
+    }
+    .title {
+        position: relative;
+        left: 2rem;
+        top: 2.5rem;
+        width: 50rem;
+        font-weight: 900;
+        font-size: 2.5rem;
+        line-height: 3.2rem;
+    }
+    /*
+        .title .white {
+            color: #f7ecdd;
+        }
+*/
+    .title a {
+        font-weight: 900;
+    }
+
+    .title a:hover {
+        color: #f7ecdd;
+    }
+
+    /*head------------------------------------------*/
+    header {
+        position: fixed;
+        top: 10rem;
+        left: 2rem;
+        right: 0;
+        z-index: 700 !important;
+
+    }
+
+    .rulerWrap {
+        position: absolute;
+        top: 11rem;
+        left: 2rem;
+        height: 2rem;
+        z-index: 500 !important;
+    }
+
+    .headerbackground {
+        background-color: #ff9240;
+        position: absolute;
+        left: 0;
+        right: 0;
+        height: 23px;
+    }
+
+    .wordPadding {
+        position: relative;
+        left: -2px;
+    }
+
+    .menuIcon {
+        height: 4rem;
+        width: 4rem;
+        line-height: 4.5rem;
+        position: fixed;
+        right: 2.5rem;
+        top: 2.3rem;
+        z-index: 7000 !important;
+        text-align: center;
+        cursor: url(images/download.png) 20 24, auto;
+    }
+
+    .menuIcon img {
+        opacity: 0.98;
+    }
+
+    .menuIcon li {
+        width: 20px;
+        height: 3px;
+        margin-bottom: 3px;
+        background-color: black;
+        list-style-type: none;
+    }
+
+    .menuBox {
+        display: none;
+    }
+
+    .menu {
+        position: fixed;
+        top: 5rem;
+        right: 1rem;
+        padding-right: 0;
+        width: 40rem;
+        box-shadow: 2px 2px 2px solid grey;
+        background-color: black;
+
+    }
+
+    /**/
+    .menu li {
+        height: 4rem;
+        line-height: 4rem;
+        padding-left: 2rem;
+        width: 100%;
+        color: #ff9240;
+        background-color: #000;
+        font-weight: 400;
+        font-family: 'Noto Sans KR' !important;
+        border: 1px solid #ff9240;
+        font-size: 1.7rem;
+        margin: 0 !important;
+        padding-right: 0.7rem;
+        margin-bottom: 2px;
+        list-style-type: none;
+        position: relative;
+    }
+
+    .menu li:nth-child(1):hover {
+        border: 2px solid #000;
+    }
+
+    .menu li:hover {
+        text-decoration: underline;
+        color: #000;
+        background-color: #ff9240;
+        font-weight: 600;
+        border: none;
+
+    }
+
+    .menu a {
+        cursor: url(images/download.png) 20 24, auto;
+    }
+
+    .menu a:link {
+        text-decoration: none;
+        color: #f7ecdd !important;
+    }
+
+    .menu a:visited {
+        text-decoration: none;
+        color: #f7ecdd !important;
+    }
+
+    .menu a:hover {
+        text-decoration: none;
+        color: #f7ecdd !important;
+    }
+
+    .menu a:active {
+        text-decoration: none;
+        color: #f7ecdd !important;
+    }
+
+    .first {
+        font-weight: 800 !important;
+    }
+
+    /*middle-------------------------------------------*/
+    .context {
+        position: absolute;
+        left: 2rem;
+        right: 0;
+        top: 12rem;
+        margin-bottom: 1rem;
+    }
+
+    .context div {
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+
+    .intooltip {
+        width: 34rem;
+        font-size: 1.3rem;
+        line-height: 2.5rem;
+        border: 1px solid #444;
+        background-color: black;
+        color: #ff9240;
+        padding: 1rem;
+        padding-top: 0.5rem;
+    }
+
+    .pTooltip {
+        position: relative;
+    }
+
+    #tooltipWef.hidden {
+        display: none;
+    }
+
+    #tooltipWef {
+        position: absolute;
+        top: -500px;
+        left: 120px !important;
+    }
+
+    #tooltipReport {
+        position: absolute;
+        top: -500px;
+        left: 420px !important;
+    }
+
+    #tooltipReport.hidden {
+        display: none;
+    }
+
+    .paragraphDiv {
+        width: 100%;
+        position: relative;
+        top: -2rem;
+        z-index: 600 !important;
+        margin-bottom: 0 !important;
+        background-image: -webkit-linear-gradient(top, transparent 0, #ff9240 10%);
+    }
+
+    p {
+        width: 80%;
+        font-size: 2rem;
+        font-weight: bold;
+        line-height: 3.6rem;
+        padding-top: 2rem;
+        margin-bottom: 2rem;
+
+    }
+
+    .bottom {
+        width: 100%;
+        margin-top: 1rem;
+        margin-bottom: 4rem;
+    }
+
+    .bottom p {
+        font-size: 1.3rem;
+        padding-bottom: 0;
+        padding: 0;
+        margin: 0 !important;
+    }
+
+    .bottom ul {
+        font-size: 1.3rem;
+        list-style-type: none;
+        margin-top: 0;
+
+    }
+
+    .bottom li {
+        float: left;
+        padding-right: 2em;
+    }
+    .fourteenUl {
+
+        font-size: 1.7rem;
+        font-weight: bold;
+        list-style-type: none;
+        margin-bottom: 0rem;
+        padding-left: 1.5rem;
+        width: 38rem;
+
+    }
+    .fourteenUl li {
+        height: 3.2rem;
+        line-height: 3.2rem;
+        padding-left: 1.5rem;
+        background-color: rgba(247, 236, 221, 0.9);
+        margin-bottom: 0.7rem;
+
+
+    }
+
+}
+
+/*point_css----------------------------------------------------*/
+
+.pointBold {
+    font-family: 'Noto Sans KR';
+    font-size: 900 !important;
+}
+
+.pointLink {
+    font-family: 'Noto Sans KR';
+    background-color: rgba(0, 0, 0, 0.88);
+    color: #ff9240;
+    font-weight: 400;
+    /*    font-weight: 800;*/
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.pointLink a {
+    color: #ff9240;
+}
+
+.pointLink a {
+    color: #f6ecdd;
+    opacity: 0.98;
+}
+
+.koreaPoint {
+    font-family: 'Noto Sans KR';
+    color: #f6ecdd;
+    font-weight: 700;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
