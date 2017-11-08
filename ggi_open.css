@@ -41,7 +41,7 @@ a img {
 
 #worldChart {
     margin-top: -1rem;
-    cursor: url(images/download.png) 0 -24, auto;
+    cursor: url(images/download.png) 20 24, auto;
     margin-bottom: 0 !important;
 }
 
@@ -202,6 +202,7 @@ body {
         top: 25px;
         z-index: 8000 !important;
         background-color: black;
+        cursor: url(images/download.png) 20 24, auto;
     }
 
     .menuIcon li {
@@ -228,6 +229,7 @@ body {
         padding-bottom: 0rem;
         background-color: #f88022;
         box-shadow: 2px 2px 2px solid grey;
+        cursor: url(images/download.png) 20 24, auto;
     }
 
     .menu li {
@@ -236,10 +238,11 @@ body {
         height: 3.7rem;
         line-height: 3.7rem;
         list-style-type: none;
+        cursor: url(images/download.png) 20 24, auto;
     }
 
     .menu a {
-        cursor: url(images/download.png) 0 -24, auto;
+        cursor: url(images/download.png) 20 24, auto;
     }
 
     .menu a:link {
@@ -447,6 +450,7 @@ body {
         top: 2.3rem;
         z-index: 7000 !important;
         text-align: center;
+        cursor: url(images/download.png) 20 24, auto;
     }
     .menuIcon img {
         opacity: 0.98;
@@ -471,6 +475,7 @@ body {
         width: 40rem;
         box-shadow: 2px 2px 2px solid grey;
         background-color: black;
+
     }
 
     /**/
@@ -490,6 +495,8 @@ body {
         margin-bottom: 2px;
         list-style-type: none;
         position: relative;
+        cursor: url(images/download.png) 20 24, auto;
+
     }
     .menu li:nth-child(1):hover {
         border: 2px solid #000;
@@ -500,10 +507,11 @@ body {
         background-color: #ff9240;
         font-weight: 600;
         border: none;
+        cursor: url(images/download.png) 20 24, auto;
     }
 
     .menu a {
-        cursor: url(images/download.png) 0 -24, auto;
+        cursor: url(images/download.png) 20 24, auto;
     }
 
     .menu a:link {
