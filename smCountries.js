@@ -6,7 +6,7 @@ var SMCMARGIN = {
 };
 var smWidth = window.innerWidth * 0.95 - SMCMARGIN.LEFT - SMCMARGIN.RIGHT - 15,
     smHeight = window.innerHeight * 1.8 - SMCMARGIN.TOP,
-    targetYear = 2016;
+    targetYear = 2017;
 
 var smDataSet = [];
 var topAverage = [];
