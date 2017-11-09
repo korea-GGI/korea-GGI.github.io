@@ -6,10 +6,10 @@ var MARGIN = {
 
 var fourteenWidth = window.innerWidth * 0.95 - MARGIN.LEFT -
     MARGIN.RIGHT - 15,
-    fourteenHeight = window.innerHeight * 0.8 - MARGIN.TOP;
+    fourteenHeight = window.innerHeight * 0.7 - MARGIN.TOP;
 var fourteenSvg = d3.select('#indiChart')
-    .attr('width', fourteenWidth + MARGIN.LEFT + MARGIN.RIGHT + 130)
-    .attr('height', fourteenHeight + MARGIN.TOP + 80);
+    .attr('width', fourteenWidth + MARGIN.LEFT + MARGIN.RIGHT + 150)
+    .attr('height', fourteenHeight + MARGIN.TOP + 150);
 
 var fourteenG = fourteenSvg.select('.koreaFourteen')
     .attr('transform', 'translate(' + MARGIN.LEFT + ',' + MARGIN.TOP + ')');
@@ -55,16 +55,16 @@ var tops = function () {
     var fourteenYscale = d3.scaleBand()
         .domain(partName)
         .rangeRound([0, fourteenHeight])
-        .padding(0.18);
+        .paddingInner(0.15)
+        .paddingOuter(0.26);
 
     //    fourteen margin
     fourteenG.selectAll('g.subindex').data(d3.range(4))
         .style('transform', function (d, i) {
-            return 'translate( 0,' + (i * 30) + 'px)';
+            return 'translate( 0,' + (i * 20) + 'px)';
         });
     //top Marker
     var markerSel = fourteenG.selectAll('.topRect').data(topScore)
-        //        .classed('dataRect', true)
         .attr('fill', '#000')
         .attr('y', function (d) {
             return fourteenYscale(d.part);
@@ -73,19 +73,32 @@ var tops = function () {
         .attr('width', 0)
         .attr('height', fourteenYscale.bandwidth())
         .transition()
+        .delay(500)
         .duration(1500)
         .attr('width', function (d) {
             return fourteenXscale(d.icelandScore);
         });
+    //    //man Marker
+    //    var manSel = fourteenG.selectAll('.manRect').data(topScore)
+    //        .attr('fill', '#000')
+    //        .attr('opacity', 0.05)
+    //        .attr('x', 0)
+    //        .attr('y', function (d) {
+    //            return fourteenYscale(d.part);
+    //        })
+    //        .attr('width', function (d) {
+    //            return fourteenXscale(1);
+    //        })
+    //        .attr('height', fourteenYscale.bandwidth());
     //top Tooltip
     fourteenG
         .selectAll('.topTooltip').data(topScore)
         .text(function (d) {
-            return "아이스랜드 " + d.icelandScore.toFixed(2);
+            return "1위 국가 " + d.icelandScore.toFixed(2);
         })
         .attr('fill', '#000')
         .attr('y', function (d) {
-            return fourteenYscale(d.part) + 2;
+            return fourteenYscale(d.part) + 4;
         })
         .style('opacity', 0)
         .style('alignment-baseline', 'text-before-edge')
@@ -114,18 +127,16 @@ var fourteenRedraw = function () {
     var fourteenXscale = d3.scaleLinear()
         .domain([0, 1.1])
         .rangeRound([0, fourteenWidth * 1.1]);
-
     var fourteenYscale = d3.scaleBand()
         .domain(partName)
         .rangeRound([0, fourteenHeight])
-        .padding(0.18);
-
+        .paddingInner(0.15)
+        .paddingOuter(0.26);
     //    fourteen margin
     fourteenG.selectAll('g.subindex').data(d3.range(4))
         .style('transform', function (d, i) {
-            return 'translate( 0,' + (i * 50) + 'px)';
+            return 'translate( 0,' + (i * 30) + 'px)';
         });
-
     //fourteen Marker
     var markerSel = fourteenG.selectAll('.dataRect').data(dataSet)
         .classed('dataRect', true)
@@ -147,11 +158,11 @@ var fourteenRedraw = function () {
     fourteenG
         .selectAll('.ftooltip').data(dataSet)
         .text(function (d) {
-            return '한국 ' + d.part + ' ' + d.score;
+            return '한국 ' + d.part + ' ' + d.score.toFixed(2);
         })
         .attr('fill', '#000')
         .attr('y', function (d) {
-            return fourteenYscale(d.part) + 2;
+            return fourteenYscale(d.part) + 4;
         })
         .style('opacity', 0)
         .style('alignment-baseline', 'text-before-edge')
@@ -172,11 +183,11 @@ var fourteenRedraw = function () {
     fourteenG
         .selectAll('.fixedtooltip').data(dataSet)
         .text(function (d) {
-            return '한국 ' + d.part + ' ' + d.score;
+            return '한국 ' + d.part + ' ' + d.score.toFixed(2);
         })
         .attr('fill', '#f6ecdd')
         .attr('y', function (d) {
-            return fourteenYscale(d.part) + 2;
+            return fourteenYscale(d.part) + 4;
         })
         .style('opacity', 0)
         .style('alignment-baseline', 'text-before-edge')

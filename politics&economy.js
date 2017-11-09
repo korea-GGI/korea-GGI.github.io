@@ -143,7 +143,7 @@ var poliRedraw = function () {
             return ecoXscale(d.economicScore);
         })
         .attr('y', function (d, i) {
-            return poliYscale(d.politicalScore) - 13;
+            return poliYscale(d.politicalScore) - 18;
         })
         .style('font-size', '1.3rem')
         .style('opacity', 0);
@@ -159,7 +159,7 @@ var poliRedraw = function () {
         })
         .attr('r', celSize)
         .on('mouseover', function (d, i) {
-            d3.select(this).transition().duration(300).attr('r', celSize * 1.9);
+            d3.select(this).transition().duration(300).attr('r', celSize * 1.7);
             d3.select(this.parentNode.parentNode.querySelector("." + d.country.replace(' ', '-') + "poliTip")).transition().duration(300).style('opacity', 1);
         })
         .on('mouseout', function (d, i) {
@@ -179,13 +179,13 @@ var poliRedraw = function () {
         })
 
         .transition()
-        .duration(1800)
+        .duration(1500)
         //        .delay(function (d, i) {
         //            return i * 50;
         //        })
         .attr('cx', function (d, i) {
             return ecoXscale(d.economicScore);
         })
-        .expOut;
+        .quadOut;
 
 };

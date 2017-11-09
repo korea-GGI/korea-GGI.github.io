@@ -84,7 +84,7 @@ var selectedCountryRedraw = function () {
         .domain(d3.range(GRID.H))
         .range([0, smHeight + SMCMARGIN.TOP + SMCMARGIN.BOTTOM])
         .round(true)
-        .paddingInner(0.2)
+        .paddingInner(0.65)
         .paddingOuter(0);
 
     var cellSel = d3.select('#selectedCountryChart')
@@ -110,7 +110,7 @@ var selectedCountryRedraw = function () {
                 .rangeRound([0, hBand.bandwidth()]);
             var smXaxis = d3.axisBottom()
                 .scale(smXscale)
-                .tickValues([0.649])
+                .tickValues([0.65])
                 .tickFormat(function (d) {
                     return d;
                 })
@@ -145,7 +145,7 @@ var selectedCountryRedraw = function () {
                 .attr('x', function (d) {
                     return smXscale(smDataSet[d]['values'][0].score);
                 })
-                .attr('y', 61)
+                .attr('y', 63)
                 .style('text-anchor', 'start')
                 .style('font-size', '1.3rem')
                 .style('font-weight', '400')
@@ -153,7 +153,7 @@ var selectedCountryRedraw = function () {
                 .style('fill', 'black')
                 .style('opacity', '1')
                 .text(function (d) {
-                    return smDataSet[d]['values'][0].score;
+                    return smDataSet[d]['values'][0].score.toFixed(2);
                 });
             //womanCell
             d3.select(this).append('rect')
@@ -164,7 +164,7 @@ var selectedCountryRedraw = function () {
                 .attr('x', 0)
                 .attr('y', 0)
                 .attr('opacity', 0.9)
-                .attr('height', 30)
+                .attr('height', hBand.bandwidth())
                 .attr('width', 0)
                 .transition()
                 .delay(500)
@@ -181,7 +181,7 @@ var selectedCountryRedraw = function () {
                 .attr('opacity', 0.1)
                 .attr('x', 0)
                 .attr('y', 0)
-                .attr('height', 30)
+                .attr('height', hBand.bandwidth())
                 .on('mouseover', function (d, i) {
                     d3.select(this.parentNode.querySelector('.smtooltip'))
                         .style('opacity', 1);
@@ -194,16 +194,16 @@ var selectedCountryRedraw = function () {
                     return smXscale(1);
                 });
             //koreaMark
-            var koreaMark = smXscale(0.649);
+            var koreaMark = smXscale(0.65);
             d3.select(this).append('path')
                 .transition()
                 .delay(2500)
-                .attr('d', 'M' + (koreaMark - 1.5) + ' 0 L ' + (koreaMark - 1.5) + ' ' + 30 + ' ')
+                .attr('d', 'M' + (koreaMark - 1.5) + ' 0 L ' + (koreaMark - 1.5) + ' ' + hBand.bandwidth() + ' ')
                 .style('stroke', '#f6ecdd').style('stroke-width', 2);
-            // Title
+            // countryTitle
             d3.select(this).append('text')
                 .attr('x', 0)
-                .attr('y', 60)
+                .attr('y', 63)
                 .style('text-anchor', 'start')
                 //                .style('alignment-baseline', 'text-before-edge')
                 .style('font-size', '1.3rem')

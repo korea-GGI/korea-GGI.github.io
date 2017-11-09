@@ -40,7 +40,6 @@ a img {
 }
 
 #worldChart {
-    margin-top: -1rem;
     cursor: url(images/download.png) 20 24, auto;
     margin-bottom: 0 !important;
 }
@@ -423,7 +422,7 @@ body {
 
     .rulerWrap {
         position: fixed;
-        top: 11rem;
+        top: 10rem;
         left: 2rem;
         height: 2rem;
         z-index: 500 !important;
@@ -541,7 +540,7 @@ body {
         position: absolute;
         left: 2rem;
         right: 0;
-        top: 8rem;
+        top: 6rem;
         margin-bottom: 1rem;
     }
 
@@ -587,7 +586,7 @@ body {
     .paragraphDiv {
         width: 100%;
         position: relative;
-        top: -3rem;
+        top: -4rem;
         z-index: 600 !important;
         margin-bottom: 0 !important;
         background-image: -webkit-linear-gradient(top, transparent 0, #ff9240 10%);

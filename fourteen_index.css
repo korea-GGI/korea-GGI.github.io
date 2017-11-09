@@ -154,7 +154,7 @@ body {
     .title {
         position: relative;
         left: 2rem;
-        top: 2.5rem;
+        top: 2.3rem;
         width: 50rem;
         font-weight: 900;
         font-size: 2.5rem;
@@ -185,7 +185,7 @@ body {
 
     .rulerWrap {
         position: absolute;
-        top: 11rem;
+        top: 10rem;
         left: 2rem;
         height: 2rem;
         z-index: 500 !important;
@@ -308,7 +308,7 @@ body {
         position: absolute;
         left: 2rem;
         right: 0;
-        top: 12rem;
+        top: 10.2rem;
         margin-bottom: 1rem;
     }
 
@@ -409,7 +409,7 @@ body {
         height: 3.2rem;
         line-height: 3.2rem;
         padding-left: 1.5rem;
-        background-color: rgba(247, 236, 221, 0.9);
+        background-color: rgba(247, 236, 221, 0.98);
         margin-bottom: 0.7rem;
 
 

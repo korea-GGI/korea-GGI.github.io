@@ -1,5 +1,4 @@
 * {
-    font-family: 'Roboto', sans-serif;
     font-family: 'Spoqa Han Sans', 'Sans-serif';
     margin: 0;
     padding: 0;
@@ -32,83 +31,6 @@ a img {
     border: 0;
 }
 
-/*/script*/
-
-.rulerChart .tick text {
-    font-size: 1.3rem;
-    fill: #f6ecdd;
-}
-
-#selectedCountry {
-    position: relative;
-    padding-right: 1rem;
-    margin-top: 3rem;
-}
-
-.smxS text {
-    font-size: 1.3rem !important;
-    fill: #f6ecdd;
-}
-
-.Korearect {
-    fill: #f6ecdd !important;
-    opacity: 0.85;
-}
-
-.South-Koreatext {
-    fill: black;
-    font-weight: bold !important;
-}
-
-.tips .tick text {
-
-    fill: #f6ecdd;
-}
-
-/*
-.Koreatick text {
-    opacity: 1 !important;
-   
-}
-*/
-
-.KoreamarginRect {
-    fill: #f6ecdd !important;
-}
-
-rect.KoreaColor {
-    fill: #f6ecdd !important;
-
-}
-
-.KoreasmText {
-    visibility: hidden;
-}
-
-.South-KoreapoliCircle {
-    fill: #f88021;
-}
-
-.South-KoreapoliTip {
-    fill: #f88021;
-    font-weight: bold;
-    z-index: 8900 !important;
-}
-
-.South-KoreapoliTip,
-.IcelandpoliTip,
-.SwedenpoliTip,
-.RewandapoliTip,
-.FinlandpoliTip,
-.NorwaypoliTip {
-    opacity: 1 !important;
-}
-
-.mainMarkerTip {
-    z-index: 8000 !important;
-    font-size: 1.7rem;
-}
-
 /*//공동*/
 
 body {
@@ -122,6 +44,89 @@ body {
     right: 0;
     bottom: 0;
 }
+
+#mainChart {
+    height: 60px;
+    margin-top: 3px;
+}
+
+.rulerChart .tick text {
+    font-size: 1.3rem;
+    fill: #f6ecdd;
+}
+
+.Korearect {
+    fill: #f88021 !important;
+    opacity: 0.1 !important;
+}
+
+.South-Koreatext {
+    fill: black;
+    font-weight: bold !important;
+}
+
+.KoreamarginRect {
+    fill: #f88021 !important;
+}
+
+rect.KoreaColor {
+    fill: #f88021 !important;
+
+}
+
+.KoreasmText {
+    visibility: hidden;
+}
+
+.South-KoreapoliCircle {
+    fill: #f7ecdd;
+    opacity: 1 !important;
+}
+
+.South-KoreapoliTip {
+    fill: #f7ecdd;
+    font-weight: bold;
+    font-size: 1.7rem !important;
+    z-index: 8800 !important;
+}
+
+.South-KoreapoliTip,
+.IcelandpoliTip,
+.RewandapoliTip,
+.FinlandpoliTip,
+.NorwaypoliTip {
+    opacity: 1 !important;
+}
+
+.FinlandpoliTip {
+    alignment-baseline: text-before-edge;
+}
+
+.NorwaypoliTip {
+    alignment-baseline: text-after-edge;
+}
+
+.mainMarkerTip {
+    z-index: 8000 !important;
+    font-size: 1.7rem;
+}
+
+.context div {
+    margin-bottom: 2rem;
+}
+
+body {
+    background-color: #ff9240;
+}
+
+.wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
 
 @media screen and (min-width: 760px) {
     .top {
@@ -156,7 +161,7 @@ body {
 
     /*head------------------------------------------*/
     header {
-        position: fixed;
+        position: absolute;
         top: 10rem;
         left: 2rem;
         right: 0;
@@ -165,7 +170,7 @@ body {
     }
 
     .rulerWrap {
-        position: fixed;
+        position: absolute;
         top: 10rem;
         left: 2rem;
         height: 2rem;
@@ -195,6 +200,7 @@ body {
         z-index: 7000 !important;
         text-align: center;
         cursor: url(images/download.png) 20 24, auto;
+
     }
 
     .menuIcon img {
@@ -241,7 +247,6 @@ body {
         margin-bottom: 2px;
         list-style-type: none;
         position: relative;
-        cursor: url(images/download.png) 20 24, auto;
     }
 
     .menu li:nth-child(1):hover {
@@ -254,7 +259,6 @@ body {
         background-color: #ff9240;
         font-weight: 600;
         border: none;
-        cursor: url(images/download.png) 20 24, auto;
 
     }
 
@@ -291,7 +295,7 @@ body {
         position: absolute;
         left: 2rem;
         right: 0;
-        top: 10rem;
+        top: 8.8rem;
         margin-bottom: 1rem;
     }
 
@@ -310,11 +314,11 @@ body {
     }
 
     p {
-        width: 70%;
+        width: 80%;
         font-size: 2rem;
         font-weight: bold;
         line-height: 3.6rem;
-        padding-top: 4rem;
+        padding-top: 1rem;
         margin-bottom: 2rem;
 
     }
@@ -347,6 +351,30 @@ body {
 }
 
 /*point_css----------------------------------------------------*/
+
+#spot {
+    width: 10px;
+    height: 10px;
+    background: black;
+    position: relative;
+    left: 450vw;
+}
+
+#scroll {
+    position: relative;
+    top: -3.5rem;
+    left: 49rem;
+    font-size: 1.7rem;
+    border: none;
+    padding: 0.1rem;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    background-color: #f7ecdd;
+    border-radius: 4px;
+    font-weight: 600;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    cursor: url(images/download.png) 20 24, auto;
+}
 
 .pointBold {
     font-family: 'Noto Sans KR';

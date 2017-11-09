@@ -2,6 +2,7 @@
 <html>
 
 <head>
+
     <meta charset='utf-8'>
     <title>2017 성 격차지수</title>
     <meta name="viewport" content="initial-scale=1, width=device-width">
@@ -28,19 +29,20 @@
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
     <style>
-        @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
         @import url('//fonts.googleapis.com/css?family=Roboto');
         @import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);
+        @import url('//fonts.googleapis.com/earlyaccess/notosanskr.css');
 
     </style>
 
-    <link rel='stylesheet ' href='smCountries.css'>
+    <link rel='stylesheet ' href='unpaidWork.css'>
 </head>
 
 <body>
     <div class="wrap">
         <div class="top">
-            <div class="title"> <a href="//korea-ggi.github.io">2017 성 격차지수</a><br><a href="//korea-ggi.github.io/smCountries">한국과 다른나라의 성 격차지수를 비교해볼까요?</a></div>
+            <div class="title"> <a href="//korea-ggi.github.io">2017 성 격차지수</a><br><a href="//korea-ggi.github.io/unpaid_work">남성대비 여성 무급노동(가사, 보육, 간병) 지표</a> <button id="scroll">한국으로 점프!</button></div>
+
         </div>
         <div class="rulerWrap">
             <svg id="mainChart"></svg>
@@ -96,30 +98,23 @@
             </script>
         </header>
         <div class="context">
+            <span id="spot"></span>
+            <svg id="unpiadWorkChart"></svg>
+            <script>
+                $('#scroll').click(function() {
+                    $('html,body').animate({
+                        scrollLeft: $('#spot').css('left')
+                    }, 1800, function() {
+                        $('html, body').animate({
+                            scrollLeft: 0
+                        }, 1800);
 
-            <div class="section" id="selectedCountry">
-                <svg id="selectedCountryChart"></svg>
-            </div>
-            <div class="bottom">
-                <p>이 사이트는 세계 경제 포럼(World Economic Forum)의 2017 성 격차지수 데이터와 OECD 데이터를 기반으로 제작 되었습니다.</p>
-                <ul>
-                    <a href="//reports.weforum.org/global-gender-gap-report-2017/">
-                        <li>2017 성 격차 보고서</li>
-                    </a>
-                    <a href="//www3.weforum.org/docs/WEF_GGGR_2017.pdf">
-                        <li>2017 성 격차 보고서 PDF</li>
-                    </a>
-                    <a href="//stats.oecd.org/index.aspx?queryid=54757">
-                        <li>OECD 무급노동 데이터</li>
-                    </a>
-                    <a href="//stats.oecd.org/index.aspx?queryid=54751">
-                        <li>OECD 임금격차 데이터</li>
-                    </a>
-                </ul>
-            </div>
+                    }).delay(3800);
+                });
 
+            </script>
         </div>
+        <script src='unpaidWork.js'></script>
+
     </div>
-    <script src='ggi_main.js'></script>
-    <script src='smCountries.js'></script>
 </body>
