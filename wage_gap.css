@@ -141,7 +141,7 @@ body {
         position: relative;
         left: 2rem;
         top: 2.3rem;
-        width: 55rem;
+        width: 50rem;
         font-weight: 900;
         font-size: 2.5rem;
         line-height: 3.2rem;
@@ -171,7 +171,7 @@ body {
 
     .rulerWrap {
         position: absolute;
-        top: 10rem;
+        top: 9.8rem;
         left: 2rem;
         height: 2rem;
         z-index: 500 !important;
@@ -295,7 +295,7 @@ body {
         position: absolute;
         left: 2rem;
         right: 0;
-        top: 8.8rem;
+        top: 8.4rem;
         margin-bottom: 1rem;
     }
 
@@ -363,7 +363,7 @@ body {
 #scroll {
     position: relative;
     top: -3.8rem;
-    left: 56rem;
+    left: 49rem;
     font-size: 1.5rem;
     line-height: 2.3rem;
     border: none;

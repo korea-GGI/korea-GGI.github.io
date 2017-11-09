@@ -179,7 +179,7 @@ var poliRedraw = function () {
         })
 
         .transition()
-        .duration(1500)
+        .duration(2000)
         //        .delay(function (d, i) {
         //            return i * 50;
         //        })

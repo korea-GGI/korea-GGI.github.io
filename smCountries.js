@@ -84,7 +84,7 @@ var selectedCountryRedraw = function () {
         .domain(d3.range(GRID.H))
         .range([0, smHeight + SMCMARGIN.TOP + SMCMARGIN.BOTTOM])
         .round(true)
-        .paddingInner(0.65)
+        .paddingInner(0.2)
         .paddingOuter(0);
 
     var cellSel = d3.select('#selectedCountryChart')
@@ -145,7 +145,7 @@ var selectedCountryRedraw = function () {
                 .attr('x', function (d) {
                     return smXscale(smDataSet[d]['values'][0].score);
                 })
-                .attr('y', 63)
+                .attr('y', 61)
                 .style('text-anchor', 'start')
                 .style('font-size', '1.3rem')
                 .style('font-weight', '400')
@@ -153,7 +153,7 @@ var selectedCountryRedraw = function () {
                 .style('fill', 'black')
                 .style('opacity', '1')
                 .text(function (d) {
-                    return smDataSet[d]['values'][0].score.toFixed(2);
+                    return smDataSet[d]['values'][0].score.toFixed(3);
                 });
             //womanCell
             d3.select(this).append('rect')
@@ -164,7 +164,7 @@ var selectedCountryRedraw = function () {
                 .attr('x', 0)
                 .attr('y', 0)
                 .attr('opacity', 0.9)
-                .attr('height', hBand.bandwidth())
+                .attr('height', 36)
                 .attr('width', 0)
                 .transition()
                 .delay(500)
@@ -181,7 +181,7 @@ var selectedCountryRedraw = function () {
                 .attr('opacity', 0.1)
                 .attr('x', 0)
                 .attr('y', 0)
-                .attr('height', hBand.bandwidth())
+                .attr('height', 36)
                 .on('mouseover', function (d, i) {
                     d3.select(this.parentNode.querySelector('.smtooltip'))
                         .style('opacity', 1);
@@ -198,12 +198,12 @@ var selectedCountryRedraw = function () {
             d3.select(this).append('path')
                 .transition()
                 .delay(2500)
-                .attr('d', 'M' + (koreaMark - 1.5) + ' 0 L ' + (koreaMark - 1.5) + ' ' + hBand.bandwidth() + ' ')
+                .attr('d', 'M' + (koreaMark - 1.5) + ' 0 L ' + (koreaMark - 1.5) + ' ' + 36 + ' ')
                 .style('stroke', '#f6ecdd').style('stroke-width', 2);
-            // countryTitle
+            // Title
             d3.select(this).append('text')
                 .attr('x', 0)
-                .attr('y', 63)
+                .attr('y', 60)
                 .style('text-anchor', 'start')
                 //                .style('alignment-baseline', 'text-before-edge')
                 .style('font-size', '1.3rem')

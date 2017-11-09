@@ -90,7 +90,7 @@ var draw = function () {
         .tickSize(3)
         .tickPadding(19);
     var svg = d3.select('#mainChart')
-        .attr('width', unPaidRulerWidth * 7)
+        .attr('width', unPaidRulerWidth * 6.8)
         .attr('height', 40);
     var mainChart = svg
         .append('g')
@@ -143,8 +143,8 @@ var unpaidWorkdraw = function () {
         })
         .tickPadding(0);
     var unPaidWorkSvg = d3.select('#unpiadWorkChart')
-        .attr('width', (unPaidWorkWidth * maxRatio) + 50)
-        .attr('height', unPaidWorkHeight - 40)
+        .attr('width', (unPaidWorkWidth * maxRatio) + 10)
+        .attr('height', unPaidWorkHeight)
         .attr('transform', 'translate( ' + UNPMARGIN.LEFT + ',' + UNPMARGIN.TOP + ')');
 
     var unpaid = unPaidWorkSvg
@@ -163,7 +163,7 @@ var unpaidWorkdraw = function () {
         .attr('height', unpaidYscale.bandwidth())
         .style('fill', '#111')
         .transition()
-        .duration(4000)
+        .duration(5000)
         .attr('width', function (d, i) {
             return unpaidXscale(d.ratio);
         });
@@ -178,7 +178,7 @@ var unpaidWorkdraw = function () {
             return unpaidXscale(d.ratio) - 2;
         })
         .attr('y', function (d, i) {
-            return unpaidYscale(d.rank);
+            return unpaidYscale(d.rank) + unpaidYscale.bandwidth();
         })
         .style('text-anchor', 'end')
         .style('alignment-baseline', 'text-after-edge')

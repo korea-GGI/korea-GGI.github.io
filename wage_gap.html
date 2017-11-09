@@ -2,6 +2,7 @@
 <html>
 
 <head>
+
     <meta charset='utf-8'>
     <title>2017 성 격차지수</title>
     <meta name="viewport" content="initial-scale=1, width=device-width">
@@ -30,44 +31,18 @@
     <style>
         @import url('//fonts.googleapis.com/css?family=Roboto');
         @import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);
-        text {
-            font-size: 16px;
-        }
-
-        .node circle {
-            fill: #000;
-        }
-
-        .node circle:hover {
-            fill: #000;
-            cursor: pointer;
-        }
-
-        .node {
-            font: 11px sans-serif;
-            fill: gray;
-        }
-
-        .link {
-            fill: none;
-            stroke: #ccc;
-            stroke-width: 1px;
-        }
-
-        .rectLabel {
-            fill: white;
-            opacity: 1;
-        }
+        @import url('//fonts.googleapis.com/earlyaccess/notosanskr.css');
 
     </style>
 
-    <link rel='stylesheet ' href='ggi_open.css'>
+    <link rel='stylesheet ' href='wage_gap.css'>
 </head>
 
 <body>
     <div class="wrap">
         <div class="top">
-            <div class="title"> <a href="//korea-ggi.github.io">2017 성 격차지수</a><br> 한국 성 격차지수 118위</div>
+            <div class="title"> <a href="//korea-ggi.github.io">2017 성 격차지수</a><br><a href="//korea-ggi.github.io/wage_gap">OECD 남성대비 여성 임금 지표</a></div>
+
         </div>
         <div class="rulerWrap">
             <svg id="mainChart"></svg>
@@ -124,48 +99,8 @@
             </script>
         </header>
         <div class="context">
-            <div class="section" id="world"><a href="//korea-ggi.github.io/smCountries"><svg id="worldChart"></svg></a></div>
-            <div class="paragraphDiv">
-                <p>성 격차지수는 <span class="pointBold weftip">세계경제포럼</span>에서 발표한 <span class="pointBold reportTip">성격차지수보고서</span>에서 사용된 핵심 지표로 이를 통해 각나라의 <span class="pointLink"><a href="//korea-ggi.github.io/how_Index_make">자원의 분배와 기회의 접근성에 대한 여성과 남성의 차이</a></span>를 측정할 수 있습니다. 0에 가까울수록 분배가 남성에게 치우쳐 이루어지고 1에 가까울수록 여성과 남성에게 동일하게 분배가 이루어지는 것을 나타냅니다.<span class="koreaPoint">한국</span>은 2017년
-                    <span class="koreaPoint">0.650</span>점으로 144개국 중 <span class="koreaPoint">118위</span>를 기록했습니다. <br><br><span class="koreaPoint">한국</span>은 교육의 성별 차이는 적지만, 여성의 <span class="pointLink"><a href="//korea-ggi.github.io/smCountries">경제적 장벽이 큰 국가 그룹</a></span>에 포함됩니다. <span class="koreaPoint">한국</span>의 여성들은 남자의 5배가 넘는 <span class="pointLink"><a href="//korea-ggi.github.io/unpaid_work">무급 노동(가사 보육 간병등)</a></span>을 하고 있고 이는 <span class="pointLink"><a href="//korea-ggi.github.io/wage_gap">남녀임금격차</a></span>와 함께 OECD 1, 2위를 기록하고 있습니다.</p>
-                <div class="pTooltip">
-                    <div id="tooltipWef" class='wef intooltip hidden'>
-                        세계경제포럼(World Economic Forum, WEF)은 저명한 기업인, 경제학자, 저널리스트, 정치인 등이 모여 세계 경제에 대해 토론하고 연구하는 국제민간회의이다. '세계경제올림픽'으로 불릴 만큼 권위와 영향력이 있는 유엔 비정부자문기구로 성장하면서 세계무역기구(WTO)나 서방선진 7개국(G7)회담 등에 막강한 영향력을 행사하고 있다.</div>
-                    <div id="tooltipReport" class="report intooltip hidden">성 격차지수 보고서는 2005년 부터 매해 11월 발표되며 하버드 대학의 리카르도 하우스만 교수, UC 버클리의 로라 D. 타이슨 교수, 세계경제포럼의 사디아 자히디 디렉터가 고정 저자로 참여하고 있다.</div>
-                </div>
-                <script>
-                    d3.select('.weftip')
-                        .on('mouseover', function(d) {
-                            d3.select('#tooltipWef')
-                                .classed('hidden', false);
-                        }).on('mouseout', function(d) {
-                            d3.select('#tooltipWef')
-                                .classed('hidden', true);
-                        });
-                    $('.weftip').mousemove(function(event) {
-                        var mousePositionX = event.pageX;
-                        var mousePositionY = event.pageY;
-                        $('#tooltipWef').css('left', mousePositionX * 0.6);
-                        $('#tooltipWef').css('right', mousePositionY);
-                    });
-
-                    d3.select('.reportTip')
-                        .on('mouseover', function(d) {
-                            d3.select('#tooltipReport')
-                                .classed('hidden', false);
-                        }).on('mouseout', function(d) {
-                            d3.select('#tooltipReport')
-                                .classed('hidden', true);
-                        });
-                    $('.reportTip').mousemove(function(event) {
-                        var mousePositionX = event.pageX;
-                        var mousePositionY = event.pageY;
-                        $('#tooltipReport').css('left', mousePositionX * 0.6);
-                        $('#tooltipReport').css('right', mousePositionY);
-                    });
-
-                </script>
-            </div>
+            <span id="spot"></span>
+            <svg id="wageGapChart"></svg>
             <div class="bottom">
                 <p>이 사이트는 세계 경제 포럼(World Economic Forum)의 2017 성 격차지수 데이터와 OECD 데이터를 기반으로 제작 되었습니다.</p>
                 <ul>
@@ -184,12 +119,8 @@
                 </ul>
             </div>
         </div>
-        <!--script-->
-        <script src='world_bar.js'></script>
         <script src='ggi_main.js'></script>
+        <script src='wage_gap.js'></script>
 
     </div>
 </body>
-
-
-</html>
