@@ -356,7 +356,7 @@ body {
     height: 10px;
     background: black;
     position: relative;
-    left: 425vw;
+    left: 465vw;
 }
 
 #scroll {
@@ -370,28 +370,24 @@ body {
     padding-bottom: 0.2rem;
     padding-right: 0.5rem;
     padding-left: 0.5rem;
-    /*    background-color: #f7ecdd;*/
     background-color: rgba(0, 0, 0, 0.8);
     color: #f7ecdd;
     border-radius: 4px;
-    /*    font-weight: 600;*/
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
     cursor: url(images/download.png) 20 24, auto;
 }
 
 .pointBold {
-
     font-size: 900 !important;
 }
 
 .pointLink {
-
     background-color: rgba(0, 0, 0, 0.88);
-    color: #ff9240;
+    color: #f6ecdd;
     font-weight: 400;
-    /*    font-weight: 800;*/
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+
 }
 
 .pointLink a {
@@ -406,7 +402,5 @@ body {
 .koreaPoint {
     color: #f6ecdd;
     font-weight: 700;
-    padding-left: 10px;
-    padding-right: 10px;
 
 }

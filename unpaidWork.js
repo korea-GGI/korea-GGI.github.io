@@ -13,7 +13,7 @@ var ratioData = [];
 var dataSet = [];
 var sortRank = [];
 var topAverage = [];
-d3.csv('data/unpaid_worktrans.csv', function (err, rows) {
+d3.csv('data/oecd_unpaid_work.csv', function (err, rows) {
     worldData(rows);
 });
 
@@ -79,8 +79,8 @@ var worldData = function (rows) {
 var draw = function () {
     var unPaidRulerWidth = window.innerWidth * 0.95 - 15;
     var rulerxScale = d3.scaleLinear()
-        .domain([0, 6.8])
-        .range([0, unPaidRulerWidth * 6.8]);
+        .domain([0, 5.2])
+        .range([0, unPaidRulerWidth * 5.2]);
     var xAxis = d3.axisBottom()
         .scale(rulerxScale)
         .tickFormat(function (d) {
@@ -90,7 +90,7 @@ var draw = function () {
         .tickSize(3)
         .tickPadding(19);
     var svg = d3.select('#mainChart')
-        .attr('width', unPaidRulerWidth * 6.8)
+        .attr('width', unPaidRulerWidth * 5.2)
         .attr('height', 40);
     var mainChart = svg
         .append('g')
