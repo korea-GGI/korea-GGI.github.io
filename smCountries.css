@@ -104,6 +104,8 @@ body {
 @media screen and (max-width: 499px) {
     #selectedCountryChart text {
         font-size: 1rem !important;
+        position: relative;
+        top: -1rem !important;
     }
     .top {
         position: absolute;
@@ -122,7 +124,7 @@ body {
         top: 1rem;
         width: 50rem;
         font-weight: 900;
-        font-size: 1.5rem;
+        font-size: 2rem;
         line-height: 2.4rem;
     }
     .title a {
@@ -844,37 +846,35 @@ body {
         float: left;
         padding-right: 2em;
     }
+    /*point_css----------------------------------------------------*/
+    .pointBold {
+        font-size: 900 !important;
+    }
 
-}
+    .pointLink {
+        background-color: rgba(0, 0, 0, 0.88);
+        color: #ff9240;
+        font-weight: 400;
+        /*    font-weight: 800;*/
+        padding-left: 10px;
+        padding-right: 10px;
+    }
 
-/*point_css----------------------------------------------------*/
+    .pointLink a {
+        color: #ff9240;
+    }
 
-.pointBold {
-    font-size: 900 !important;
-}
+    .pointLink a {
+        color: #f6ecdd;
+        opacity: 0.98;
+    }
 
-.pointLink {
-    background-color: rgba(0, 0, 0, 0.88);
-    color: #ff9240;
-    font-weight: 400;
-    /*    font-weight: 800;*/
-    padding-left: 10px;
-    padding-right: 10px;
-}
+    .koreaPoint {
+        color: #f6ecdd;
+        font-weight: 700;
+        padding-left: 10px;
+        padding-right: 10px;
 
-.pointLink a {
-    color: #ff9240;
-}
-
-.pointLink a {
-    color: #f6ecdd;
-    opacity: 0.98;
-}
-
-.koreaPoint {
-    color: #f6ecdd;
-    font-weight: 700;
-    padding-left: 10px;
-    padding-right: 10px;
+    }
 
 }
