@@ -16,7 +16,7 @@ China,중국,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,234
 Slovenia,슬로베니아,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,466.3
 Ireland,아일랜드,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,129.2
 Denmark,덴마크,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,194.6
-OECD - Average,OECD평균,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,215.3
+OECD - Average,OECD 평균,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,215.3
 France,프랑스,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,376
 Estonia,에스토니아,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,264.1
 China,중국,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,390
@@ -47,7 +47,7 @@ Poland,폴란드,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day
 Mexico,멕시코,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,233.2
 Portugal,Portugal,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,328.2
 Australia,오스트레일리아,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,171.6
-OECD - Average,OECD평균,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,466.1
+OECD - Average,OECD 평균,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,466.1
 France,프랑스,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,405
 Estonia,에스토니아,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,494.1
 Poland,폴란드,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,303.2
@@ -78,73 +78,73 @@ Finland,핀란드,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per da
 Mexico,멕시코,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,467.6
 Australia,오스트레일리아,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,311
 Turkey,터키,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,500.3
-OECD - Average,OECD - Average,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,487
+OECD - Average,OECD 평균,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,487
 Slovenia,Slovenia,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,286.2
-United States,United States,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,322.4
-Italy,Italy,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,315.2
-United Kingdom,United Kingdom,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,454.4
-Spain,Spain,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,245.8
-Turkey,Turkey,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,116.4
-Austria,Austria,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,268.9
-Poland,Poland,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,157.1
-Slovenia,Slovenia,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,299.8
-United Kingdom,United Kingdom,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,257.8
-Ireland,Ireland,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,296.1
-Germany,Germany,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,180.9
-United Kingdom,United Kingdom,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,297.2
-Italy,Italy,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,349.3
-Italy,Italy,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,453.1
-Austria,Austria,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,364.8
-Netherlands,Netherlands,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,132.9
-Poland,Poland,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,492.7
-Australia,Australia,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,304.1
-Mexico,Mexico,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,112.6
-Spain,Spain,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,503.9
-Norway,Norway,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,211.4
-South Africa,South Africa,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,444.6
-Finland,Finland,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,249
-Austria,Austria,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,135.3
-India,India,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,351.9
-Japan,Japan,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,533.3
-United Kingdom,United Kingdom,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,196.6
-France,France,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,232.5
-Japan,Japan,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,206.4
-Ireland,Ireland,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,343.9
-Korea,Korea,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,500.6
-Mexico,Mexico,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,606.5
-India,India,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,390.6
-Spain,Spain,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,487.8
-Sweden,Sweden,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,206.5
-South Africa,South Africa,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,102.9
-Netherlands,Netherlands,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,205.5
-Ireland,Ireland,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,197.1
-Ireland,Ireland,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,473.1
-Netherlands,Netherlands,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,486.8
-Sweden,Sweden,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,268.7
-Spain,Spain,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,153.9
-Portugal,Portugal,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,231.3
-South Africa,South Africa,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,195
-Japan,Japan,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,471.5
-Belgium,Belgium,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,150.8
-South Africa,South Africa,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,397.1
-Japan,Japan,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,61.9
-South Africa,South Africa,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,249.6
-India,India,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,51.8
-Portugal,Portugal,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,468.6
-France,France,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,233.4
-Belgium,Belgium,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,434
-Netherlands,Netherlands,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,459.7
-Ireland,Ireland,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,493.2
-Korea,Korea,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,45
-India,India,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,184.7
-India,India,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,442.3
-Norway,Norway,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,291.8
-New Zealand,New Zealand,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,205
-India,India,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,536.6
-Austria,Austria,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,517.7
+United States,미국,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,322.4
+Italy,이탈리아,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,315.2
+United Kingdom,영국,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,454.4
+Spain,스페인,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,245.8
+Turkey,터키,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,116.4
+Austria,오스트리아,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,268.9
+Poland,폴란드,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,157.1
+Slovenia,슬로베니아,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,299.8
+United Kingdom,영국,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,257.8
+Ireland,아일랜드,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,296.1
+Germany,독일,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,180.9
+United Kingdom,영국,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,297.2
+Italy,이탈리아,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,349.3
+Italy,이탈리아,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,453.1
+Austria,오스트레일리아,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,364.8
+Netherlands,네덜란드,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,132.9
+Poland,폴란드,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,492.7
+Australia,오스트레일리아,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,304.1
+Mexico,멕시코,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,112.6
+Spain,스페인,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,503.9
+Norway,노르웨이,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,211.4
+South Africa,남아프리카 공화국,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,444.6
+Finland,핀란드,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,249
+Austria,오스트리아,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,135.3
+India,인도,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,351.9
+Japan,일본,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,533.3
+United Kingdom,영국,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,196.6
+France,프랑스,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,232.5
+Japan,일본,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,206.4
+Ireland,아일랜드,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,343.9
+Korea,한국,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,500.6
+Mexico,멕시코,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,606.5
+India,인도,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,390.6
+Spain,스페인,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,487.8
+Sweden,스웨덴,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,206.5
+South Africa,남아프리카 공화국,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,102.9
+Netherlands,네덜란드,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,205.5
+Ireland,아일랜드,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,197.1
+Ireland,아일랜드,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,473.1
+Netherlands,네덜란드,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,486.8
+Sweden,스웨덴,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,268.7
+Spain,스페인,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,153.9
+Portugal,포르투갈,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,231.3
+South Africa,남아프리카 공화국,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,195
+Japan,일본,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,471.5
+Belgium,벨기에,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,150.8
+South Africa,남아프리카 공화국,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,397.1
+Japan,일본,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,61.9
+South Africa,남아프리카 공화국,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,249.6
+India,인도,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,51.8
+Portugal,포르투갈,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,468.6
+France,프랑스,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,233.4
+Belgium,벨기에,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,434
+Netherlands,네덜란드,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,459.7
+Ireland,아일랜드,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,493.2
+Korea,한국,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,45
+India,인도,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,184.7
+India,인도,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,442.3
+Norway,노르웨이,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,291.8
+New Zealand,뉴질랜드,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,205
+India,인도,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,536.6
+Austria,오스트리아,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,517.7
 China,중국,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,91
-OECD - Average,OECD평균,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,271.7
-South Africa,남아프리카,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,294.2
+OECD - Average,OECD 평균,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,271.7
+South Africa,남아프리카 공화국,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,294.2
 Japan,일본,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,505.6
 Belgium,벨기에,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,189
 Finland,핀란드,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,210
@@ -154,13 +154,13 @@ Germany,독일,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,44
 New Zealand,뉴질랜드,"Time spent in unpaid work, by sex",Women,TOTAL,Minutes per day,264
 United Kingdom,영국,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,437.9
 Korea,한국,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,273.3
-OECD - Average,OECD평균,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,328.5
+OECD - Average,OECD 평균,"Time spent in paid work, by sex",Men,TOTAL,Minutes per day,328.5
 Korea,한국,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,466.9
 Germany,독일,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,163.8
 New Zealand,뉴질랜드,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,479
 China,중국,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,291
 China,중국,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,481
-OECD - Average,OECD평균,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,137.6
+OECD - Average,OECD 평균,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,137.6
 Denmark,덴마크,"Time spent in unpaid work, by sex",Men,TOTAL,Minutes per day,186.1
 China,중국,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,525
 Finland,핀란드,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,408
@@ -178,4 +178,4 @@ United States,미국,"Time spent in total work, by sex",Men,TOTAL,Minutes per da
 Estonia,에스토니아,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,244.9
 Denmark,덴마크,"Time spent in total work, by sex",Women,TOTAL,Minutes per day,437.4
 Italy,이탈리아,"Time spent in paid work, by sex",Women,TOTAL,Minutes per day,197.5
-Canada,Canada,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,501
+Canada,캐나다,"Time spent in total work, by sex",Men,TOTAL,Minutes per day,501
