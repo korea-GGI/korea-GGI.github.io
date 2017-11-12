@@ -105,7 +105,7 @@ body {
     #selectedCountryChart text {
         font-size: 1rem !important;
         position: relative;
-        top: -1rem !important;
+        top: -1rem;
     }
     .top {
         position: absolute;
