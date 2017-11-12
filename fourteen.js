@@ -91,19 +91,18 @@ var tops = function () {
         })
         .style('opacity', 0)
         .style('alignment-baseline', 'text-before-edge')
-        //        .style('font-weight', 600)
         .style('font-size', '1.2rem')
         .style('text-anchor', function (d) {
-            return d.score > 0.6 ? "end" : "start";
+            return d.score > 0.78 ? "end" : "start";
         })
         .attr('x', function (d) {
-            return d.score > 0.6 ? fourteenXscale(d.icelandScore) - 7 : fourteenXscale(d.icelandScore) + 7;
+            return d.score > 0.78 ? fourteenXscale(d.icelandScore) - 7 : fourteenXscale(d.icelandScore) + 7;
         })
         .transition()
         .delay(4000)
         .duration(1500)
         .style('opacity', function (d) {
-            return d.score > 0.6 ? "0" : "1";
+            return d.score > 0.78 ? "0" : "1";
         });
 
 };
@@ -158,10 +157,10 @@ var fourteenRedraw = function () {
         .style('font-weight', 600)
         .style('font-size', '1.2rem')
         .style('text-anchor', function (d) {
-            return d.score > 0.6 ? "end" : "start";
+            return d.score > 0.78 ? "end" : "start";
         })
         .attr('x', function (d) {
-            return d.score > 0.6 ? fourteenXscale(d.score) - 7 : fourteenXscale(d.score) + 7;
+            return d.score > 0.78 ? fourteenXscale(d.score) - 7 : fourteenXscale(d.score) + 7;
         })
         .transition()
         .delay(500)
@@ -183,16 +182,16 @@ var fourteenRedraw = function () {
         .style('font-weight', 600)
         .style('font-size', '1.2rem')
         .style('text-anchor', function (d) {
-            return d.score > 0.6 ? "end" : "start";
+            return d.score > 0.78 ? "end" : "start";
         })
         .attr('x', function (d) {
-            return d.score > 0.6 ? fourteenXscale(d.score) - 7 : fourteenXscale(d.score) + 7;
+            return d.score > 0.78 ? fourteenXscale(d.score) - 7 : fourteenXscale(d.score) + 7;
         })
         .transition()
         .delay(1500)
         .duration(2000)
         .style('opacity', function (d) {
-            return d.score > 0.6 ? "0" : "1";
+            return d.score > 0.78 ? "0" : "1";
         })
         .expOut;
     //forhover Marker

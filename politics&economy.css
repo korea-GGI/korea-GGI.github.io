@@ -71,14 +71,17 @@ body {
 
 .poliaxis .domain {
     stroke-width: 2 !important;
-    stroke: rgba(0, 0, 0, 0.5);
+    stroke: #f7ecdd;
+    opacity: 0.6;
     font-weight: 300 !important;
 }
 
-.smxS text {
-    font-size: 1rem !important;
-    fill: #f88021;
+.poliaxis .tick text {
+    fill: #f7ecdd !important;
+    font-weight: 400;
 }
+
+
 
 .Korearect {
     fill: #f88021 !important;
@@ -171,6 +174,7 @@ body {
         font-size: 2.5rem;
         line-height: 3.2rem;
     }
+
     .title a {
         font-weight: 900;
     }
@@ -259,6 +263,7 @@ body {
         color: #ff9240;
         background-color: #000;
         font-weight: 400;
+        font-family: 'Noto Sans KR' !important;
         border: 1px solid #ff9240;
         font-size: 1.7rem;
         margin: 0 !important;
@@ -407,12 +412,12 @@ body {
 /*point_css----------------------------------------------------*/
 
 .pointBold {
-
+    font-family: 'Noto Sans KR';
     font-size: 900 !important;
 }
 
 .pointLink {
-
+    font-family: 'Noto Sans KR';
     background-color: rgba(0, 0, 0, 0.88);
     color: #ff9240;
     font-weight: 400;
@@ -431,6 +436,7 @@ body {
 }
 
 .koreaPoint {
+    font-family: 'Noto Sans KR';
     color: #f6ecdd;
     font-weight: 700;
     padding-left: 10px;

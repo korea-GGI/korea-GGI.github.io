@@ -92,16 +92,15 @@ var poliRedraw = function () {
         .style('font-size', '1.3rem')
         .style('font-weight', '300')
         .style('text-anchor', 'start')
+        .style('fill', '#f6ecdd')
         .call(ecoXaxis)
         .append('text')
         .text('경제 성 격차지수')
         .attr('class', 'axisName')
-        .attr('stroke', '#000')
         .style('text-anchor', 'end')
         .style('font-size', '2rem')
         .style('font-weight', '600')
-        .style('stroke-width', '1.5')
-        .style('fill', 'rgba(0, 0, 0, 0.4)')
+        .style('fill', '#000')
         .attr('dx', length)
         .attr('dy', -10);
 
@@ -111,14 +110,14 @@ var poliRedraw = function () {
         .style('stroke-width', '1')
         .style('font-size', '1.3rem')
         .style('font-weight', '300')
+        .style('fill', '#f6ecdd')
         .style('alignment-baseline', 'text-after-edge')
         .call(poliYaxis)
         .append('text')
         .text('정치 성 격차지수')
         .attr('class', 'axisName')
-        .attr('stroke', '#000')
-        .style('stroke-width', '1.5')
-        .style('fill', 'rgba(0, 0, 0, 0.4)')
+
+        .style('fill', '#000')
         .style('font-size', '2rem')
         .style('font-weight', '600')
         .attr('dx', 50)
@@ -180,9 +179,6 @@ var poliRedraw = function () {
 
         .transition()
         .duration(2000)
-        //        .delay(function (d, i) {
-        //            return i * 50;
-        //        })
         .attr('cx', function (d, i) {
             return ecoXscale(d.economicScore);
         })
