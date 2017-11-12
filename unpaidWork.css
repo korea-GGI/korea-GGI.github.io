@@ -239,7 +239,6 @@ body {
         color: #ff9240;
         background-color: #000;
         font-weight: 400;
-        font-family: 'Noto Sans KR' !important;
         border: 1px solid #ff9240;
         font-size: 1.7rem;
         margin: 0 !important;
@@ -381,12 +380,12 @@ body {
 }
 
 .pointBold {
-    font-family: 'Noto Sans KR';
+
     font-size: 900 !important;
 }
 
 .pointLink {
-    font-family: 'Noto Sans KR';
+
     background-color: rgba(0, 0, 0, 0.88);
     color: #ff9240;
     font-weight: 400;
@@ -405,7 +404,6 @@ body {
 }
 
 .koreaPoint {
-    font-family: 'Noto Sans KR';
     color: #f6ecdd;
     font-weight: 700;
     padding-left: 10px;

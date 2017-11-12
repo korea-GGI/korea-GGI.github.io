@@ -58,7 +58,7 @@ var tops = function () {
         .paddingInner(0.15)
         .paddingOuter(0.26);
 
-    //    fourteen margin
+    //top margin
     fourteenG.selectAll('g.subindex').data(d3.range(4))
         .style('transform', function (d, i) {
             return 'translate( 0,' + (i * 20) + 'px)';
@@ -69,27 +69,16 @@ var tops = function () {
         .attr('y', function (d) {
             return fourteenYscale(d.part);
         })
-        .attr('x', 0)
-        .attr('width', 0)
-        .attr('height', fourteenYscale.bandwidth())
-        .transition()
-        .delay(500)
-        .duration(1500)
-        .attr('width', function (d) {
+        .attr('x', function (d) {
             return fourteenXscale(d.icelandScore);
-        });
-    //    //man Marker
-    //    var manSel = fourteenG.selectAll('.manRect').data(topScore)
-    //        .attr('fill', '#000')
-    //        .attr('opacity', 0.05)
-    //        .attr('x', 0)
-    //        .attr('y', function (d) {
-    //            return fourteenYscale(d.part);
-    //        })
-    //        .attr('width', function (d) {
-    //            return fourteenXscale(1);
-    //        })
-    //        .attr('height', fourteenYscale.bandwidth());
+        })
+        .attr('width', 4)
+        .attr('height', fourteenYscale.bandwidth())
+        .style('opacity', '0')
+        .transition()
+        .delay(3500)
+        .duration(1000)
+        .style('opacity', '1');
     //top Tooltip
     fourteenG
         .selectAll('.topTooltip').data(topScore)
@@ -102,7 +91,7 @@ var tops = function () {
         })
         .style('opacity', 0)
         .style('alignment-baseline', 'text-before-edge')
-        .style('font-weight', 600)
+        //        .style('font-weight', 600)
         .style('font-size', '1.2rem')
         .style('text-anchor', function (d) {
             return d.score > 0.6 ? "end" : "start";
@@ -111,8 +100,8 @@ var tops = function () {
             return d.score > 0.6 ? fourteenXscale(d.icelandScore) - 7 : fourteenXscale(d.icelandScore) + 7;
         })
         .transition()
-        .delay(1500)
-        .duration(1000)
+        .delay(4000)
+        .duration(1500)
         .style('opacity', function (d) {
             return d.score > 0.6 ? "0" : "1";
         });
@@ -147,8 +136,8 @@ var fourteenRedraw = function () {
         .attr('width', 0)
         .attr('height', fourteenYscale.bandwidth())
         .attr('x', 0)
+        .style('opacity', '0.9')
         .transition()
-        .delay(2500)
         .duration(2500)
         .attr('width', function (d) {
             return fourteenXscale(d.score);
@@ -175,7 +164,7 @@ var fourteenRedraw = function () {
             return d.score > 0.6 ? fourteenXscale(d.score) - 7 : fourteenXscale(d.score) + 7;
         })
         .transition()
-        .delay(2000)
+        .delay(500)
         .duration(2000)
         .style('opacity', 0)
         .expOut;
@@ -185,7 +174,7 @@ var fourteenRedraw = function () {
         .text(function (d) {
             return '한국 ' + d.part + ' ' + d.score.toFixed(2);
         })
-        .attr('fill', '#f6ecdd')
+        .attr('fill', '#000')
         .attr('y', function (d) {
             return fourteenYscale(d.part) + 4;
         })
@@ -200,7 +189,7 @@ var fourteenRedraw = function () {
             return d.score > 0.6 ? fourteenXscale(d.score) - 7 : fourteenXscale(d.score) + 7;
         })
         .transition()
-        .delay(4000)
+        .delay(1500)
         .duration(2000)
         .style('opacity', function (d) {
             return d.score > 0.6 ? "0" : "1";

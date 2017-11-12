@@ -1,6 +1,6 @@
 * {
-    font-family: 'Roboto', sans-serif;
-    font-family: 'Spoqa Han Sans', 'Sans-serif';
+    font-family: 'Spoqa Han Sans',
+    'Sans-serif';
     margin: 0;
     padding: 0;
     word-break: keep-all;
@@ -32,7 +32,7 @@ a img {
     border: 0;
 }
 
-/*/script*/
+/*script*/
 
 .rulerChart .tick text {
     font-size: 1.3rem;
@@ -43,11 +43,6 @@ a img {
     position: relative;
     padding-right: 1rem;
     margin-top: 3rem;
-}
-
-.smxS text {
-    font-size: 1.3rem !important;
-    fill: #f6ecdd;
 }
 
 .Korearect {
@@ -61,16 +56,8 @@ a img {
 }
 
 .tips .tick text {
-
     fill: #f6ecdd;
 }
-
-/*
-.Koreatick text {
-    opacity: 1 !important;
-   
-}
-*/
 
 .KoreamarginRect {
     fill: #f6ecdd !important;
@@ -78,7 +65,6 @@ a img {
 
 rect.KoreaColor {
     fill: #f6ecdd !important;
-
 }
 
 .KoreasmText {
@@ -109,7 +95,7 @@ rect.KoreaColor {
     font-size: 1.7rem;
 }
 
-/*//공동*/
+/*공동*/
 
 body {
     background-color: #ff9240;
@@ -233,7 +219,6 @@ body {
         color: #ff9240;
         background-color: #000;
         font-weight: 400;
-        font-family: 'Noto Sans KR' !important;
         border: 1px solid #ff9240;
         font-size: 1.7rem;
         margin: 0 !important;
@@ -349,12 +334,10 @@ body {
 /*point_css----------------------------------------------------*/
 
 .pointBold {
-    font-family: 'Noto Sans KR';
     font-size: 900 !important;
 }
 
 .pointLink {
-    font-family: 'Noto Sans KR';
     background-color: rgba(0, 0, 0, 0.88);
     color: #ff9240;
     font-weight: 400;
@@ -373,7 +356,6 @@ body {
 }
 
 .koreaPoint {
-    font-family: 'Noto Sans KR';
     color: #f6ecdd;
     font-weight: 700;
     padding-left: 10px;

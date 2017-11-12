@@ -16,15 +16,17 @@ d3.csv('data/gender_wage_gap.csv', function (err, rows) {
 
 var worldData = function (rows) {
     rows.forEach(function (row) {
-        row['Country'] = row['Country'];
-        row['Value'] = row['Value'];
+        row['country'] = row['country'];
+        row['value'] = row['value'];
     });
+    console.log(rows);
     var datas = rows.filter(function (d) {
         return d.TIME == targetYear;
     }).map(function (d) {
         return {
-            country: d.Country,
-            value: (100 - d.Value) / 100,
+            countryname: d.countryname,
+            country: d.country,
+            value: (100 - d.value) / 100,
 
         }
     });
@@ -78,16 +80,17 @@ var draw = function () {
         .attr('height', wageGapYscale.bandwidth())
         .style('fill', '#111')
         .transition()
-        .duration(5000)
+        .duration(3000)
         .attr('width', function (d, i) {
             return wageGapXscale(d.value);
-        });
+        })
+        .expOut;
     //append text
     var textSel = wageGap.selectAll('text').data(dataSet);
     var textEnter = textSel.enter();
     textEnter.append('text')
         .text(function (d) {
-            return d.country + ' ' + d.value.toFixed(2);
+            return d.countryname + ' ' + d.value.toFixed(2);
         })
         .attr('x', function (d, i) {
             return wageGapXscale(d.value) - 2;
