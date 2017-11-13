@@ -64,10 +64,6 @@ body {
     cursor: url(images/pointer.png) 0 5, auto;
 }
 
-#poliecoChart {
-    position: relative;
-    left: -80px;
-}
 
 .poliaxis .domain {
     stroke-width: 2 !important;
@@ -155,7 +151,11 @@ body {
     bottom: 0;
 }
 
-@media screen and (max-width: 499px) {
+@media screen and (max-width: 500px) {
+    #poliecoChart {
+        padding-left: -80px !important;
+    }
+
     .axisName {
         font-size: 1.3rem !important;
     }
@@ -303,7 +303,7 @@ body {
         position: absolute;
         left: 1.5rem;
         right: 0;
-        top: 5rem;
+        top: 7rem;
         margin-bottom: 1rem;
     }
 
@@ -359,7 +359,6 @@ body {
         font-weight: 400;
         line-height: 2.2rem;
         margin-bottom: 2rem;
-
     }
 
     .bottom {
@@ -409,12 +408,15 @@ body {
     .koreaPoint {
         color: #f6ecdd;
         font-weight: 700;
-
     }
 
 }
 
 @media screen and (min-width: 501px) and (max-width: 768px) {
+    #poliecoChart {
+        position: relative;
+        left: -80px;
+    }
     .top {
         position: absolute;
         top: 0;
@@ -680,6 +682,11 @@ body {
 }
 
 @media screen and (min-width: 760px) {
+
+    #poliecoChart {
+        position: relative;
+        left: -80px;
+    }
     .top {
         position: absolute;
         top: 0;
@@ -774,10 +781,7 @@ body {
         width: 40rem;
         box-shadow: 2px 2px 2px solid grey;
         background-color: black;
-
     }
-
-    /**/
     .menu li {
         height: 4rem;
         line-height: 4rem;
@@ -911,6 +915,7 @@ body {
     }
 
     .bottom p {
+        width: 100%;
         font-size: 1.3rem;
         padding-bottom: 0;
         padding: 0;
@@ -921,45 +926,38 @@ body {
         font-size: 1.3rem;
         list-style-type: none;
         margin-top: 0;
-
     }
 
     .bottom li {
         float: left;
         padding-right: 2em;
     }
+    .pointBold {
+        font-size: 900 !important;
+    }
+    .pointLink {
+        background-color: rgba(0, 0, 0, 0.88);
+        color: #ff9240;
+        font-weight: 400;
+        /*    font-weight: 800;*/
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .pointLink a {
+        color: #ff9240;
+    }
+    .pointLink a {
+        color: #f6ecdd;
+        opacity: 0.98;
+    }
+
+    .koreaPoint {
+        color: #f6ecdd;
+        font-weight: 700;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
 
 }
 
 /*point_css----------------------------------------------------*/
-
-.pointBold {
-    font-size: 900 !important;
-}
-
-.pointLink {
-    background-color: rgba(0, 0, 0, 0.88);
-    color: #ff9240;
-    font-weight: 400;
-    /*    font-weight: 800;*/
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-.pointLink a {
-    color: #ff9240;
-}
-
-.pointLink a {
-    color: #f6ecdd;
-    opacity: 0.98;
-}
-
-.koreaPoint {
-
-    color: #f6ecdd;
-    font-weight: 700;
-    padding-left: 10px;
-    padding-right: 10px;
-
-}

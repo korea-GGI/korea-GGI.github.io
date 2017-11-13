@@ -6,7 +6,7 @@ var POLIMARGIN = {
     TOP: 30,
 };
 var length = window.innerWidth * 0.95 - POLIMARGIN.LEFT - 15,
-    Hlength = window.innerWidth * 0.4 - POLIMARGIN.LEFT - 15,
+    Hlength = window.innerWidth * 0.35 - POLIMARGIN.LEFT - 15,
     celSize = window.innerWidth * 0.006,
     targetYear = 2017;
 // datas---------------------------------------
@@ -98,7 +98,7 @@ var poliRedraw = function () {
         .text('경제 성 격차지수')
         .attr('class', 'axisName')
         .style('text-anchor', 'end')
-        .style('font-size', '2rem')
+        .style('font-size', '1.7rem')
         .style('font-weight', '600')
         .style('fill', '#000')
         .attr('dx', length)
@@ -116,9 +116,8 @@ var poliRedraw = function () {
         .append('text')
         .text('정치 성 격차지수')
         .attr('class', 'axisName')
-
         .style('fill', '#000')
-        .style('font-size', '2rem')
+        .style('font-size', '1.7rem')
         .style('font-weight', '600')
         .attr('dx', 50)
         .attr('dy', 10)
