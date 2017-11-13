@@ -33,31 +33,15 @@ a img {
 
 /*//공동*/
 
-body {
-    background-color: #ff9240;
-}
-
-.wrap {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-}
-
 #mainChart {
     height: 60px;
-    opacity: 0.1;
+    opacity: 1;
+    display: none;
 }
 
 .rulerChart .tick text {
     font-size: 1.3rem;
     fill: #f6ecdd;
-}
-
-#poliecoChart {
-    margin-left: 0;
-
 }
 
 #poliecoChart {
@@ -79,66 +63,6 @@ body {
 
 
 
-.Korearect {
-    fill: #f88021 !important;
-    opacity: 0.1 !important;
-}
-
-.South-Koreatext {
-    fill: black;
-    font-weight: bold !important;
-}
-
-.KoreamarginRect {
-    fill: #f88021 !important;
-}
-
-rect.KoreaColor {
-    fill: #f88021 !important;
-
-}
-
-.KoreasmText {
-    visibility: hidden;
-}
-
-.South-KoreapoliCircle {
-    fill: #f7ecdd;
-    opacity: 1 !important;
-}
-
-.South-KoreapoliTip {
-    fill: #f7ecdd;
-    font-weight: bold;
-    font-size: 1.7rem !important;
-    z-index: 8800 !important;
-}
-
-.South-KoreapoliTip,
-.IcelandpoliTip,
-.RewandapoliTip,
-.FinlandpoliTip,
-.NorwaypoliTip {
-    opacity: 1 !important;
-}
-
-.FinlandpoliTip {
-    alignment-baseline: text-before-edge;
-}
-
-.NorwaypoliTip {
-    alignment-baseline: text-after-edge;
-}
-
-.mainMarkerTip {
-    z-index: 8000 !important;
-    font-size: 1.7rem;
-}
-
-.context div {
-    margin-bottom: 2rem;
-}
-
 body {
     background-color: #ff9240;
 }
@@ -153,9 +77,36 @@ body {
 
 @media screen and (max-width: 500px) {
     #poliecoChart {
-        padding-left: -80px !important;
+        position: relative;
+        left: -80px;
     }
 
+    .South-KoreapoliCircle {
+        fill: #f7ecdd;
+        opacity: 1 !important;
+    }
+
+    .koreaTip {
+        fill: #f7ecdd;
+        font-weight: bold;
+        text-anchor: middle;
+        font-size: 1.4rem !important;
+    }
+
+    .South-KoreapoliTip,
+    .IcelandpoliTip,
+        {
+        opacity: 1 !important;
+        font-size: 1rem !important;
+    }
+
+    .FinlandpoliTip {
+        alignment-baseline: text-before-edge;
+    }
+
+    .NorwaypoliTip {
+        alignment-baseline: text-after-edge;
+    }
     .axisName {
         font-size: 1.3rem !important;
     }
@@ -174,9 +125,8 @@ body {
         position: relative;
         left: 1rem;
         top: 1rem;
-        width: 50rem;
         font-weight: 900;
-        font-size: 2rem;
+        font-size: 1.7rem;
         line-height: 2.4rem;
     }
     .title a {
@@ -211,11 +161,10 @@ body {
         height: 2.2rem;
         width: 5rem;
         position: absolute;
-        top: -1.3rem;
-        left: -0.5rem;
+        top: -6.1rem;
+        right: 0.5rem;
         line-height: 3.4rem;
         z-index: 7000 !important;
-        background-color: #ff9240;
         text-align: center;
         cursor: url(images/download.png) 20 24, auto;
     }
@@ -237,7 +186,7 @@ body {
 
     .menu {
         position: absolute;
-        top: 2rem;
+        top: 4rem;
         left: -1rem;
         right: 0;
         padding-right: 0;
@@ -249,8 +198,8 @@ body {
     .menu li {
         list-style-type: none;
         width: 100%;
-        background-color: #ff9240;
-        color: #000;
+        color: #ff9240;
+        background-color: #000;
         font-size: 1.5rem;
         margin: 0 !important;
         padding: 0.5rem;
@@ -265,8 +214,8 @@ body {
     }
     .menu li:hover {
         text-decoration: underline;
-        background-color: #000;
-        color: #ff9240;
+        color: #000;
+        background-color: #ff9240;
         font-weight: 600;
         border: none;
         cursor: url(images/download.png) 20 24, auto;
@@ -303,7 +252,7 @@ body {
         position: absolute;
         left: 1.5rem;
         right: 0;
-        top: 7rem;
+        top: 9rem;
         margin-bottom: 1rem;
     }
 
@@ -322,29 +271,6 @@ body {
         padding-top: 0.5rem;
     }
 
-    .pTooltip {
-        position: relative;
-    }
-
-    #tooltipWef.hidden {
-        display: none;
-    }
-
-    #tooltipWef {
-        position: absolute;
-        top: -730px;
-        left: 120px !important;
-    }
-
-    #tooltipReport {
-        position: absolute;
-        top: -700px;
-        left: 0 !important;
-    }
-
-    #tooltipReport.hidden {
-        display: none;
-    }
     .paragraphDiv {
         width: 100%;
         position: relative;
@@ -410,12 +336,53 @@ body {
         font-weight: 700;
     }
 
+
+
 }
 
 @media screen and (min-width: 501px) and (max-width: 768px) {
     #poliecoChart {
         position: relative;
         left: -80px;
+    }
+    .South-Koreatext {
+        fill: black;
+        font-weight: bold !important;
+    }
+
+    .South-KoreapoliCircle {
+        fill: #f7ecdd;
+        opacity: 1 !important;
+    }
+
+    .koreaTip {
+        fill: #f7ecdd;
+        font-weight: bold;
+        text-anchor: middle;
+        alignment-baseline: text-after-edge;
+        font-size: 1.7rem !important;
+    }
+
+    .South-KoreapoliTip {
+        display: none;
+    }
+
+    .IcelandpoliTip,
+    .RewandapoliTip,
+    .FinlandpoliTip,
+    .NorwaypoliTip {
+        opacity: 1 !important;
+    }
+
+    .FinlandpoliTip {
+        alignment-baseline: text-before-edge;
+    }
+
+    .NorwaypoliTip {
+        alignment-baseline: text-after-edge;
+    }
+    .pCircle {
+        opacity: 0.4 !important;
     }
     .top {
         position: absolute;
@@ -431,8 +398,8 @@ body {
         top: 2.3rem;
         width: 50rem;
         font-weight: 900;
-        font-size: 2.5rem;
-        line-height: 3rem;
+        font-size: 2rem;
+        line-height: 2.5rem;
     }
 
     .title a {
@@ -477,7 +444,7 @@ body {
         line-height: 4.5rem;
         position: fixed;
         right: 2rem;
-        top: 2.3rem;
+        top: 2rem;
         z-index: 7000 !important;
         text-align: center;
         cursor: url(images/download.png) 20 24, auto;
@@ -499,12 +466,12 @@ body {
 
     .menu {
         position: fixed;
-        top: 10rem;
+        top: 9rem;
         right: 0;
         left: 0;
         padding-right: 0;
         box-shadow: 2px 2px 2px solid grey;
-        border: 2px solid #000;
+        border: 1px solid #000;
         background-color: black;
     }
 
@@ -513,11 +480,11 @@ body {
         line-height: 5rem;
         padding-left: 2rem;
         width: 100%;
-        background-color: #ff9240;
-        color: #000;
+        color: #ff9240;
+        background-color: #000;
         font-weight: 600;
         border: 1px solid #000;
-        font-size: 2rem;
+        font-size: 1.7rem;
         margin: 0 !important;
         padding-right: 0.7rem;
         margin-bottom: 2px;
@@ -531,8 +498,8 @@ body {
     }
     .menu li:hover {
         text-decoration: underline;
-        background-color: #000;
-        color: #ff9240;
+        color: #000;
+        background-color: #ff9240;
         font-weight: 600;
         border: none;
         cursor: url(images/download.png) 20 24, auto;
@@ -577,40 +544,6 @@ body {
         margin-bottom: 1rem;
     }
 
-    .intooltip {
-        width: 34rem;
-        font-size: 1.3rem;
-        line-height: 2.5rem;
-        border: 1px solid #444;
-        background-color: black;
-        color: #ff9240;
-        padding: 1rem;
-        padding-top: 0.5rem;
-    }
-
-    .pTooltip {
-        position: relative;
-    }
-
-    #tooltipWef.hidden {
-        display: none;
-    }
-
-    #tooltipWef {
-        position: absolute;
-        top: -785px;
-        left: 120px !important;
-    }
-
-    #tooltipReport {
-        position: absolute;
-        top: -725px;
-        left: 0 !important;
-    }
-
-    #tooltipReport.hidden {
-        display: none;
-    }
     .paragraphDiv {
         width: 100%;
         position: relative;
@@ -621,20 +554,19 @@ body {
     }
     p {
         width: 90%;
-        font-size: 2rem;
+        font-size: 1.7rem;
         font-weight: bold;
-        line-height: 3.6rem;
+        line-height: 3rem;
         margin-bottom: 2rem;
 
     }
-
     .bottom {
         width: 100%;
         margin-top: 1rem;
         margin-bottom: 4rem;
     }
     .bottom p {
-        font-size: 1.3rem;
+        font-size: 1rem;
         line-height: 1.8rem;
         padding-bottom: 0;
         padding: 0;
@@ -642,7 +574,7 @@ body {
     }
 
     .bottom ul {
-        font-size: 1.3rem;
+        font-size: 1rem;
         list-style-type: none;
         margin-top: 0;
 
@@ -652,41 +584,51 @@ body {
         float: left;
         padding-right: 2em;
     }
-    .pointBold {
-        font-size: 900 !important;
-    }
-
-    .pointLink {
-        background-color: rgba(0, 0, 0, 0.88);
-        color: #ff9240;
-        font-weight: 400;
-        /*    font-weight: 800;*/
-        padding-left: 8px;
-        padding-right: 8px;
-    }
-
-    .pointLink a {
-        color: #ff9240;
-    }
-
-    .pointLink a {
-        color: #f6ecdd;
-        opacity: 0.98;
-    }
-
-    .koreaPoint {
-        color: #f6ecdd;
-        font-weight: 700;
-
-    }
 }
 
-@media screen and (min-width: 760px) {
+@media screen and (min-width: 768px) {
 
     #poliecoChart {
         position: relative;
         left: -80px;
     }
+    .South-Koreatext {
+        fill: black;
+        font-weight: bold !important;
+    }
+
+    .South-KoreapoliCircle {
+        fill: #f7ecdd;
+        opacity: 1 !important;
+    }
+
+    .koreaTip {
+        fill: #f7ecdd;
+        font-weight: bold;
+        text-anchor: middle;
+        alignment-baseline: text-after-edge;
+        font-size: 1.7rem !important;
+    }
+
+    .South-KoreapoliTip {
+        display: none;
+    }
+
+    .IcelandpoliTip,
+    .RewandapoliTip,
+    .FinlandpoliTip,
+    .NorwaypoliTip {
+        opacity: 1 !important;
+    }
+
+    .FinlandpoliTip {
+        alignment-baseline: text-before-edge;
+    }
+
+    .NorwaypoliTip {
+        alignment-baseline: text-after-edge;
+    }
+
     .top {
         position: absolute;
         top: 0;
@@ -701,8 +643,8 @@ body {
         top: 2.3rem;
         width: 50rem;
         font-weight: 900;
-        font-size: 2.5rem;
-        line-height: 3.2rem;
+        font-size: 2.3rem;
+        line-height: 2.8rem;
     }
 
     .title a {
@@ -750,7 +692,7 @@ body {
         line-height: 4.5rem;
         position: fixed;
         right: 2.5rem;
-        top: 2.3rem;
+        top: 2rem;
         z-index: 7000 !important;
         text-align: center;
         cursor: url(images/download.png) 20 24, auto;
@@ -845,48 +787,13 @@ body {
         position: absolute;
         left: 2rem;
         right: 0;
-        top: 9rem;
+        top: 7rem;
         margin-bottom: 1rem;
     }
 
     .context div {
         margin-top: 2rem;
         margin-bottom: 1rem;
-    }
-
-    .intooltip {
-        width: 34rem;
-        font-size: 1.3rem;
-        line-height: 2.5rem;
-        border: 1px solid #444;
-        background-color: black;
-        color: #ff9240;
-        padding: 1rem;
-        padding-top: 0.5rem;
-    }
-
-    .pTooltip {
-        position: relative;
-    }
-
-    #tooltipWef.hidden {
-        display: none;
-    }
-
-    #tooltipWef {
-        position: absolute;
-        top: -500px;
-        left: 120px !important;
-    }
-
-    #tooltipReport {
-        position: absolute;
-        top: -500px;
-        left: 420px !important;
-    }
-
-    #tooltipReport.hidden {
-        display: none;
     }
 
     .paragraphDiv {
@@ -900,7 +807,7 @@ body {
 
     p {
         width: 80%;
-        font-size: 2rem;
+        font-size: 1.7rem;
         font-weight: bold;
         line-height: 3.6rem;
         padding-top: 1rem;
@@ -917,7 +824,7 @@ body {
     .bottom p {
         width: 100%;
         font-size: 1.3rem;
-        padding-bottom: 0;
+        /*        font-weight: 400;*/
         padding: 0;
         margin: 0 !important;
     }
@@ -930,33 +837,9 @@ body {
 
     .bottom li {
         float: left;
-        padding-right: 2em;
-    }
-    .pointBold {
-        font-size: 900 !important;
-    }
-    .pointLink {
-        background-color: rgba(0, 0, 0, 0.88);
-        color: #ff9240;
-        font-weight: 400;
-        /*    font-weight: 800;*/
-        padding-left: 10px;
-        padding-right: 10px;
-    }
-    .pointLink a {
-        color: #ff9240;
-    }
-    .pointLink a {
-        color: #f6ecdd;
-        opacity: 0.98;
+        padding-right: 2rem;
     }
 
-    .koreaPoint {
-        color: #f6ecdd;
-        font-weight: 700;
-        padding-left: 10px;
-        padding-right: 10px;
-    }
 
 }
 

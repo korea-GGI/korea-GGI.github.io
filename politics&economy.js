@@ -6,7 +6,7 @@ var POLIMARGIN = {
     TOP: 30,
 };
 var length = window.innerWidth * 0.95 - POLIMARGIN.LEFT - 15,
-    Hlength = window.innerWidth * 0.35 - POLIMARGIN.LEFT - 15,
+    Hlength = window.innerWidth * 0.38 - POLIMARGIN.LEFT - 15,
     celSize = window.innerWidth * 0.006,
     targetYear = 2017;
 // datas---------------------------------------
@@ -18,37 +18,35 @@ d3.csv('data/ggi_2017.csv', function (err, rows) {
 var poliData = function (rows) {
     rows.forEach(function (row) {
         row['country'] = row['country'];
+        row['countrynames'] = row['countrynames'];
         row['score'] = +row['score'];
         row['year'] = +row['year'];
         row['type'] = row['type'];
         row['rank'] = +row['rank'];
 
     });
-
-    rows = rows.filter(function (row) {
-        return (
-            row['year'] === targetYear &&
-            !Number.isNaN(row['score'])
-        );
+    rows.filter(function (d) {
+        return d['year'] === targetYear;
     });
-    var political = rows.filter(function (row) {
-        return row['type'] === "political"
-    });
-    var economic =
-        rows.filter(function (row) {
-            return row['type'] === "economic"
+    var nestedData = d3.nest(rows)
+        .key(function (d) {
+            return d['country'];
+        })
+        .entries(rows)
+        .map(function (d) {
+            var newData = {
+                country: d['key'],
+                countryname: d['values'][0]['countrynames'],
+                year: d['values'][0]['year']
+            };
+            for (var i = 0; i < d['values'].length; i++) {
+                var type = d['values'][i]['type'];
+                var score = d['values'][i]['score'];
+                newData[type] = score;
+            }
+            return newData;
         });
-
-    var filterData = political.map(function (d, i) {
-        return {
-            country: d.country,
-            countrynames: d.countrynames,
-            year: d.year,
-            economicScore: economic[i].score,
-            politicalScore: political[i].score
-        };
-    });
-    dataSetEcoPoli = filterData;
+    dataSet = nestedData;
     poliRedraw();
 }
 
@@ -75,7 +73,6 @@ var poliYaxis = d3.axisRight()
     .tickPadding(10);
 
 var poliRedraw = function () {
-    var dataSet = dataSetEcoPoli;
     var poliSvg = d3.select('#poliecoChart')
         .attr('width', length + POLIMARGIN.LEFT + 10)
         .attr('height', Hlength + 100)
@@ -120,7 +117,7 @@ var poliRedraw = function () {
         .style('font-size', '1.7rem')
         .style('font-weight', '600')
         .attr('dx', 50)
-        .attr('dy', 10)
+        .attr('dy', 5)
         .style('alignment-baseline', 'middle');
 
     //tooltip
@@ -131,17 +128,17 @@ var poliRedraw = function () {
         .append('text')
         .attr('fill', 'black')
         .text(function (d) {
-            return d.countrynames;
+            return d.countryname;
         })
         .attr('class', function (d) {
             return d.country.replace(' ', '-') + "poliTip";
         })
         .attr('text-anchor', 'middle')
         .attr('x', function (d, i) {
-            return ecoXscale(d.economicScore);
+            return ecoXscale(d.economic);
         })
         .attr('y', function (d, i) {
-            return poliYscale(d.politicalScore) - 18;
+            return poliYscale(d.political) - 18;
         })
         .style('font-size', '1.3rem')
         .style('opacity', 0);
@@ -153,9 +150,12 @@ var poliRedraw = function () {
         .append('circle')
         .attr('fill', '#000')
         .attr('class', function (d) {
-            return d.country.replace(' ', '-') + "poliCircle";
+            return d.country.replace(' ', '-') + "poliCircle pCircle";
         })
         .attr('r', celSize)
+        .attr('cy', function (d, i) {
+            return poliYscale(0);
+        })
         .on('mouseover', function (d, i) {
             d3.select(this).transition().duration(300).attr('r', celSize * 1.7);
             d3.select(this.parentNode.parentNode.querySelector("." + d.country.replace(' ', '-') + "poliTip")).transition().duration(300).style('opacity', 1);
@@ -164,23 +164,27 @@ var poliRedraw = function () {
             d3.select(this).transition().duration(200).attr('r', celSize);
             d3.select(this.parentNode.parentNode.querySelector("." + d.country.replace(' ', '-') + "poliTip")).transition().duration(200).style('opacity', 0);
         })
-        .attr('cy', function (d, i) {
-            return poliYscale(0);
-        })
         .transition()
         .duration(2000)
         .attr('cy', function (d, i) {
-            return poliYscale(d.politicalScore);
+            return poliYscale(d.political);
         })
         .attr('cx', function (d, i) {
             return ecoXscale(0);
         })
-
         .transition()
         .duration(2000)
         .attr('cx', function (d, i) {
-            return ecoXscale(d.economicScore);
+            return ecoXscale(d.economic);
         })
         .quadOut;
-
+    poliChart.append('text')
+        .text('한국')
+        .attr('class', 'koreaTip')
+        .attr('x', function (d, i) {
+            return ecoXscale(0.532596107098159) + 3;
+        })
+        .attr('y', function (d, i) {
+            return poliYscale(0.134408682120772) - 5;
+        });
 };
