@@ -289,7 +289,7 @@ body {
     }
     .bottom p {
         font-weight: 400;
-        font-size: 1.1rem;
+        font-size: 0.8rem;
         line-height: 1.8rem;
         padding-bottom: 0;
         padding: 0;
@@ -297,7 +297,7 @@ body {
     }
 
     .bottom ul {
-        font-size: 1.1rem;
+        font-size: 0.8rem;
         list-style-type: none;
         margin-top: 0;
     }
@@ -323,6 +323,31 @@ body {
         padding-left: 1.1rem;
         background-color: rgba(247, 236, 221, 0.9);
         margin-bottom: 0.7rem;
+    }
+    #spot {
+        width: 10px;
+        height: 10px;
+        background: black;
+        position: relative;
+        left: 465vw;
+    }
+
+    #scroll {
+        position: relative;
+        top: 0rem;
+        left: 15rem;
+        font-size: 1rem;
+        line-height: 1.5rem;
+        border: none;
+        padding: 0.1rem;
+        padding-bottom: 0.2rem;
+        padding-right: 0.5rem;
+        padding-left: 0.5rem;
+        background-color: rgba(0, 0, 0, 0.8);
+        color: #f7ecdd;
+        border-radius: 4px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+        cursor: url(images/download.png) 20 24, auto;
     }
 
 
@@ -547,6 +572,31 @@ body {
         background-color: rgba(247, 236, 221, 0.9);
         margin-bottom: 0.7rem;
     }
+    #spot {
+        width: 10px;
+        height: 10px;
+        background: black;
+        position: relative;
+        left: 465vw;
+    }
+
+    #scroll {
+        position: relative;
+        top: -3.2rem;
+        left: 51.5rem;
+        font-size: 1.5rem;
+        line-height: 2.3rem;
+        border: none;
+        padding: 0.1rem;
+        padding-bottom: 0.2rem;
+        padding-right: 0.5rem;
+        padding-left: 0.5rem;
+        background-color: rgba(0, 0, 0, 0.8);
+        color: #f7ecdd;
+        border-radius: 4px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+        cursor: url(images/download.png) 20 24, auto;
+    }
 
 }
 
@@ -756,35 +806,33 @@ body {
         padding-right: 2em;
     }
 
+    #spot {
+        width: 10px;
+        height: 10px;
+        background: black;
+        position: relative;
+        left: 465vw;
+    }
+
+    #scroll {
+        position: relative;
+        top: -3.2rem;
+        left: 51.5rem;
+        font-size: 1.5rem;
+        line-height: 2.3rem;
+        border: none;
+        padding: 0.1rem;
+        padding-bottom: 0.2rem;
+        padding-right: 0.5rem;
+        padding-left: 0.5rem;
+        background-color: rgba(0, 0, 0, 0.8);
+        color: #f7ecdd;
+        border-radius: 4px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+        cursor: url(images/download.png) 20 24, auto;
+    }
+
+
 }
 
 /*point_css----------------------------------------------------*/
-
-#spot {
-    width: 10px;
-    height: 10px;
-    background: black;
-    position: relative;
-    left: 465vw;
-}
-
-#scroll {
-    position: relative;
-    top: -3.2rem;
-    left: 51.5rem;
-    font-size: 1.5rem;
-    line-height: 2.3rem;
-    border: none;
-    padding: 0.1rem;
-    padding-bottom: 0.2rem;
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
-    background-color: rgba(0, 0, 0, 0.8);
-    color: #f7ecdd;
-    border-radius: 4px;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-    cursor: url(images/download.png) 20 24, auto;
-}
-
-
-}
