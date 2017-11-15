@@ -136,7 +136,7 @@ var countriesRedraw = function () {
         .attr('class', function (d) {
             return d.country.replace(' ', '-') + 'text';
         })
-        .attr('fill', '#f7ecdd')
+        .attr('fill', '#fbebca')
         .attr('x', function (d) {
             return countriesXscale(d.score) - 4;
         })

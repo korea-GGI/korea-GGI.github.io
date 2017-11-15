@@ -130,7 +130,7 @@ body {
         font-weight: 900;
     }
     .title a:hover {
-        color: #f7ecdd;
+        color: #fbebca;
     }
     /*head------------------------------------------*/
     header {
@@ -226,22 +226,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
     .first {
         font-weight: 800 !important;
@@ -337,7 +337,7 @@ body {
         padding-right: 0.5rem;
         padding-left: 0.5rem;
         background-color: rgba(0, 0, 0, 0.8);
-        color: #f7ecdd;
+        color: #fbebca;
         border-radius: 4px;
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
         cursor: url(images/download.png) 20 24, auto;
@@ -370,7 +370,7 @@ body {
         font-weight: 900;
     }
     .title a:hover {
-        color: #f7ecdd;
+        color: #fbebca;
     }
     /*head------------------------------------------*/
     header {
@@ -475,22 +475,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
     .first {
         font-weight: 800 !important;
@@ -585,7 +585,7 @@ body {
         padding-right: 0.5rem;
         padding-left: 0.5rem;
         background-color: rgba(0, 0, 0, 0.8);
-        color: #f7ecdd;
+        color: #fbebca;
         border-radius: 4px;
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
         cursor: url(images/download.png) 20 24, auto;
@@ -616,7 +616,7 @@ body {
     }
 
     .title a:hover {
-        color: #f7ecdd;
+        color: #fbebca;
     }
 
     /*head------------------------------------------*/
@@ -718,22 +718,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .first {
@@ -819,7 +819,7 @@ body {
         padding-right: 0.5rem;
         padding-left: 0.5rem;
         background-color: rgba(0, 0, 0, 0.8);
-        color: #f7ecdd;
+        color: #fbebca;
         border-radius: 4px;
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
         cursor: url(images/download.png) 20 24, auto;

@@ -52,13 +52,13 @@ a img {
 .poliaxis .domain,
 .ecoaxis .domain {
     stroke-width: 2 !important;
-    stroke: #f7ecdd;
+    stroke: #fbebca;
     opacity: 0.6;
     font-weight: 300 !important;
 }
 
 .tick text {
-    fill: #f7ecdd !important;
+    fill: #fbebca !important;
     font-weight: 400;
     transform: translate( 0, -100)!important;
 }
@@ -87,7 +87,7 @@ body {
         stroke: rgba(0, 0, 0, 0.8);
     }
     .South-KoreapoliCircle {
-        fill: #f7ecdd;
+        fill: #fbebca;
         opacity: 1 !important;
     }
 
@@ -144,7 +144,7 @@ body {
         font-weight: 900;
     }
     .title a:hover {
-        color: #f7ecdd;
+        color: #fbebca;
     }
     /*head------------------------------------------*/
     header {
@@ -229,28 +229,29 @@ body {
         background-color: #ff7a2a;
         font-weight: 600;
         border: none;
-        cursor: url(images/download.png) 20 24, auto;
+        cursor: url(images/download.png) 20 24,
+        auto;
     }
     .menu a {
         cursor: url(images/download.png) 20 24, auto;
     }
     .menu a:link {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
     .menu a:visited {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
     .first {
         font-weight: 800 !important;
@@ -359,12 +360,12 @@ body {
     }
 
     .South-KoreapoliCircle {
-        fill: #f7ecdd;
+        fill: #fbebca;
         opacity: 1 !important;
     }
 
     .koreaTip {
-        fill: #f7ecdd;
+        fill: #fbebca;
         font-weight: bold;
         text-anchor: middle;
         alignment-baseline: text-after-edge;
@@ -401,7 +402,7 @@ body {
         font-weight: 900;
     }
     .title a:hover {
-        color: #f7ecdd;
+        color: #fbebca;
     }
     /*head------------------------------------------*/
     header {
@@ -506,22 +507,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
     .first {
         font-weight: 800 !important;
@@ -593,12 +594,12 @@ body {
     }
 
     .South-KoreapoliCircle {
-        fill: #f7ecdd;
+        fill: #fbebca;
         opacity: 1 !important;
     }
 
     .koreaTip {
-        fill: #f7ecdd;
+        fill: #fbebca;
         font-weight: bold;
         text-anchor: middle;
         alignment-baseline: text-after-edge;
@@ -647,7 +648,7 @@ body {
     }
 
     .title a:hover {
-        color: #f7ecdd;
+        color: #fbebca;
     }
 
     /*head------------------------------------------*/
@@ -755,22 +756,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #f7ecdd !important;
+        color: #fbebca !important;
     }
 
     .first {
