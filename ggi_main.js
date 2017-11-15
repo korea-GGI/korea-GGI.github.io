@@ -28,26 +28,26 @@ var innerChart = svg
     .attr('transform', 'translate( ' + RULERMARGIN.LEFT + ', ' + RULERMARGIN.TOP + ')');
 var draw = function () {
     //korea rect 0.649
-    //    innerChart.append('rect')
-    //        .attr('x', 0)
-    //        .attr('y', -30)
-    //        .attr('height', 43)
-    //        .attr('width', 0)
-    //        .style('fill', '#f6ecdd')
-    //        .transition()
-    //        .delay(500)
-    //        .duration(4000)
-    //        .attr('width', xScale(0.649));
-    //    innerChart.append('rect')
-    //        .attr('x', xScale(0.649) - 2)
-    //        .attr('y', -30)
-    //        .attr('height', 43)
-    //        .attr('width', 2)
-    //        .style('fill', '#f6ecdd')
-    //        .style('opacity', 0)
-    //        .transition()
-    //        .duration(400)
-    //        .style('opacity', 1);
+//    innerChart.append('rect')
+//        .attr('x', 0)
+//        .attr('y', -30)
+//        .attr('height', 43)
+//        .attr('width', 0)
+//        .style('fill', '#f6ecdd')
+//        .transition()
+//        .delay(500)
+//        .duration(4000)
+//        .attr('width', xScale(0.649));
+//    innerChart.append('rect')
+//        .attr('x', xScale(0.649) - 2)
+//        .attr('y', -30)
+//        .attr('height', 43)
+//        .attr('width', 2)
+//        .style('fill', '#f6ecdd')
+//        .style('opacity', 0)
+//        .transition()
+//        .duration(400)
+//        .style('opacity', 1);
 
     innerChart.append('g')
         .attr('class', 'x axis')

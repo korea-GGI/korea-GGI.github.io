@@ -5,7 +5,7 @@ var UNPMARGIN = {
 };
 
 var wageGapWorkWidth = window.innerWidth * 0.95 - UNPMARGIN.LEFT - UNPMARGIN.RIGHT - 15,
-    wageGapWorkHeight = window.innerHeight - UNPMARGIN.TOP - 20,
+    wageGapWorkHeight = 36 * 34 - UNPMARGIN.TOP - 20,
     targetYear = 2014;
 
 var countriesName = [];
@@ -98,12 +98,15 @@ var draw = function () {
             return wageGapXscale(d.value) - 2;
         })
         .attr('y', function (d, i) {
-            return wageGapYscale(i) + wageGapYscale.bandwidth() + 2;
+            console.log(i);
+            return wageGapYscale(i) + wageGapYscale.bandwidth();
         })
         .style('text-anchor', 'end')
         .style('alignment-baseline', 'text-after-edge')
-        .style('font-size', '1rem')
-        .style('font-weight', '400')
+        .style('font-size', '1.3rem')
+        .style('font-weight', function (d) {
+            return d['country'] === 'Korea' ? '400' : '300';
+        })
         .style('fill', '')
         .style('fill', function (d) {
             return d['country'] === 'Korea' ? '#000' : '#f6ecdd';

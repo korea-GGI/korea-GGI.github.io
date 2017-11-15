@@ -5,7 +5,7 @@ var UNPMARGIN = {
 };
 
 var unPaidWorkWidth = window.innerWidth * 0.95 - UNPMARGIN.LEFT - UNPMARGIN.RIGHT - 15,
-    unPaidWorkHeight = window.innerHeight - UNPMARGIN.TOP - 20,
+    unPaidWorkHeight = window.innerHeight * 0.9 - UNPMARGIN.TOP - 20,
     targetYear = 2016;
 
 var countriesName = [];
@@ -161,7 +161,9 @@ var unpaidWorkdraw = function () {
         })
         .attr('width', 0)
         .attr('height', unpaidYscale.bandwidth())
-        .style('fill', '#111')
+        .style('fill', function (d) {
+            return d['country'] === 'Korea' ? '#f6ecdd' : '#000';
+        })
         .transition()
         .duration(5000)
         .attr('width', function (d, i) {
@@ -178,11 +180,13 @@ var unpaidWorkdraw = function () {
             return unpaidXscale(d.ratio) - 2;
         })
         .attr('y', function (d, i) {
-            return unpaidYscale(d.rank) + unpaidYscale.bandwidth();
+            return unpaidYscale(d.rank) + unpaidYscale.bandwidth() + 4;
         })
         .style('text-anchor', 'end')
         .style('alignment-baseline', 'text-after-edge')
         .style('font-size', '1.2rem')
-        .style('font-weight', '300')
-        .style('fill', '#f6ecdd');
+        .style('font-weight', '400')
+        .style('fill', function (d) {
+            return d['country'] === 'Korea' ? '#000' : '#f6ecdd';
+        });
 };

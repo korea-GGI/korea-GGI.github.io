@@ -34,7 +34,7 @@ a img {
 /*//공동*/
 
 body {
-    background-color: #ff9240;
+    background-color: #ff7a2a;
 }
 
 .wrap {
@@ -89,11 +89,11 @@ rect.KoreaColor {
 }
 
 .South-KoreapoliCircle {
-    fill: #f88021;
+    fill: #ff7a2a;
 }
 
 .KoreaTip {
-    fill: #f88021;
+    fill: #ff7a2a;
     font-weight: bold;
     z-index: 8900 !important;
 }
@@ -107,7 +107,7 @@ rect.KoreaColor {
 /*//공동*/
 
 body {
-    background-color: #ff9240;
+    background-color: #ff7a2a;
 }
 
 .wrap {
@@ -175,7 +175,7 @@ body {
         left: 1rem;
     }
     .headerbackground {
-        background-color: #ff9240;
+        background-color: #ff7a2a;
         position: absolute;
         left: 0;
         right: 0;
@@ -226,7 +226,7 @@ body {
     .menu li {
         list-style-type: none;
         width: 100%;
-        color: #ff9240;
+        color: #ff7a2a;
         background-color: #000;
         font-size: 1.5rem;
         margin: 0 !important;
@@ -243,7 +243,7 @@ body {
     .menu li:hover {
         text-decoration: underline;
         color: #000;
-        background-color: #ff9240;
+        background-color: #ff7a2a;
         font-weight: 600;
         border: none;
         cursor: url(images/download.png) 20 24, auto;
@@ -294,7 +294,7 @@ body {
         top: -2rem;
         z-index: 600 !important;
         margin-bottom: 0 !important;
-        background-color: #ff9240;
+        background-color: #ff7a2a;
     }
     p {
         width: 90%;
@@ -311,7 +311,7 @@ body {
     }
     .bottom p {
         font-weight: 400;
-        font-size: 1.1rem;
+        font-size: 0.9rem;
         line-height: 1.8rem;
         padding-bottom: 0;
         padding: 0;
@@ -319,7 +319,7 @@ body {
     }
 
     .bottom ul {
-        font-size: 1.1rem;
+        font-size: 0.9rem;
         list-style-type: none;
         margin-top: 0;
     }
@@ -423,7 +423,7 @@ body {
     }
 
     .headerbackground {
-        background-color: #ff9240;
+        background-color: #ff7a2a;
         position: absolute;
         left: 0;
         right: 0;
@@ -476,7 +476,7 @@ body {
         line-height: 5rem;
         padding-left: 2rem;
         width: 100%;
-        color: #ff9240;
+        color: #ff7a2a;
         background-color: #000;
         font-weight: 600;
         border: 1px solid #000;
@@ -495,7 +495,7 @@ body {
     .menu li:hover {
         text-decoration: underline;
         color: #000;
-        background-color: #ff9240;
+        background-color: #ff7a2a;
         font-weight: 600;
         border: none;
         cursor: url(images/download.png) 20 24, auto;
@@ -546,7 +546,7 @@ body {
         top: 0;
         z-index: 600 !important;
         margin-bottom: 0 !important;
-        background-color: #ff9240;
+        background-color: #ff7a2a;
     }
     p {
         width: 90%;
@@ -648,7 +648,7 @@ body {
     }
 
     .headerbackground {
-        background-color: #ff9240;
+        background-color: #ff7a2a;
         position: absolute;
         left: 0;
         right: 0;
@@ -705,10 +705,10 @@ body {
         line-height: 4rem;
         padding-left: 2rem;
         width: 100%;
-        color: #ff9240;
+        color: #ff7a2a;
         background-color: #000;
         font-weight: 400;
-        border: 1px solid #ff9240;
+        border: 1px solid #ff7a2a;
         font-size: 1.7rem;
         margin: 0 !important;
         padding-right: 0.7rem;
@@ -724,7 +724,7 @@ body {
     .menu li:hover {
         text-decoration: underline;
         color: #000;
-        background-color: #ff9240;
+        background-color: #ff7a2a;
         font-weight: 600;
         border: none;
 
@@ -778,7 +778,7 @@ body {
         top: -2rem;
         z-index: 600 !important;
         margin-bottom: 0 !important;
-        background-image: -webkit-linear-gradient(top, transparent 0, #ff9240 10%);
+        background-image: -webkit-linear-gradient(top, transparent 0, #ff7a2a 10%);
     }
 
     p {
