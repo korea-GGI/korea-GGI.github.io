@@ -5,38 +5,31 @@ var POLIMARGIN = {
     RIGHT: 0,
     TOP: 30,
 };
-var length = window.innerWidth * 0.95 - POLIMARGIN.LEFT - 15,
-    Hlength = window.innerWidth * 0.35 - POLIMARGIN.LEFT - 15,
+var Hlength = window.innerWidth * 0.35 - POLIMARGIN.LEFT - 15,
     celSize = window.innerWidth * 0.008,
     targetYear = 2017;
 // datas---------------------------------------
-
-d3.csv('data/ggi_2017.csv', function (err, rows) {
-    poliData(rows);
-});
-
-var poliData = function (rows) {
-    rows.forEach(function (row) {
-        row['country'] = row['country'];
-        row['countrynames'] = row['countrynames'];
-        row['score'] = +row['score'];
-        row['year'] = +row['year'];
-        row['type'] = row['type'];
-        row['rank'] = +row['rank'];
-
-    });
-    rows.filter(function (d) {
+function cleanseData(data) {
+    var cleanData = data.map(function (d) {
+        return {
+            country: d['country'],
+            type: d['type'],
+            score: +d['score'],
+            rank: +d['rank'],
+            year: +d['year'],
+            countryname: +d['countrynames'],
+        };
+    }).filter(function (d) {
         return d['year'] === targetYear;
     });
-    var nestedData = d3.nest(rows)
+    var nestedData = d3.nest()
         .key(function (d) {
             return d['country'];
         })
-        .entries(rows)
+        .entries(cleanData)
         .map(function (d) {
             var newData = {
                 country: d['key'],
-                countryname: d['values'][0]['countrynames'],
                 year: d['values'][0]['year']
             };
             for (var i = 0; i < d['values'].length; i++) {
@@ -46,63 +39,57 @@ var poliData = function (rows) {
             }
             return newData;
         });
-    dataSet = nestedData;
-    poliRedraw();
+    return nestedData;
 }
 
+function render(data, Wlength) {
+    d3.select('#curYear').text(Wlength);
 
-//poli_drawing --------------------------------------
+    var ecoXscale = d3.scaleLinear()
+        .domain([0, 1])
+        .range([0, Wlength]);
 
-var ecoXscale = d3.scaleLinear()
-    .domain([0, 1])
-    .range([0, length]);
+    var poliYscale = d3.scaleLinear()
+        .domain([1, 0])
+        .range([0, Hlength]);
 
-var poliYscale = d3.scaleLinear()
-    .domain([1, 0])
-    .range([0, Hlength]);
+    var ecoXaxis = d3.axisBottom()
+        .scale(ecoXscale)
+        .tickSize(0)
+        .tickPadding(15);
 
-var ecoXaxis = d3.axisBottom()
-    .scale(ecoXscale)
-    .tickSize(0)
-    .tickPadding(15);
+    var poliYaxis = d3.axisRight()
+        .scale(poliYscale)
+        .tickSize(0)
+        .tickValues([0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0])
+        .tickPadding(10);
 
-var poliYaxis = d3.axisRight()
-    .scale(poliYscale)
-    .tickSize(0)
-    .tickValues([0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0])
-    .tickPadding(10);
-
-var poliRedraw = function () {
     var poliSvg = d3.select('#poliecoChart')
-        .attr('width', length + POLIMARGIN.LEFT + 10)
+        .attr('width', Wlength + POLIMARGIN.LEFT + 10)
         .attr('height', Hlength + 100)
         .attr('transform', 'translate( ' + POLIMARGIN.LEFT + ',' + POLIMARGIN.TOP + ')');
 
     var poliChart = poliSvg
         .append('g')
-        .attr('class', 'poliG')
         .attr('transform', 'translate( ' + POLIMARGIN.LEFT + ',' + POLIMARGIN.TOP + ')');
     //axis
     poliChart.append('g')
-        .attr('class', 'ecoaxis')
+        .attr('class', 'poliaxis')
+        .attr('transform', 'translate( 0 , ' + Hlength + ' )')
         .style('stroke-width', '1')
         .style('font-size', '1.3rem')
         .style('font-weight', '300')
         .style('text-anchor', 'start')
         .style('fill', '#f6ecdd')
-        .attr('transform', 'translate( 0 , ' + Hlength + ' )')
-        .call(ecoXaxis);
-
-    poliChart
+        .call(ecoXaxis)
         .append('text')
-        .attr('transform', 'translate( 0 , ' + Hlength + ' )')
         .text('경제 성 격차지수')
         .attr('class', 'axisName')
         .style('text-anchor', 'end')
         .style('font-size', '1.7rem')
         .style('font-weight', '600')
         .style('fill', '#000')
-        .attr('dx', length)
+        .attr('dx', Wlength)
         .attr('dy', -10);
 
     poliChart.append('g')
@@ -114,11 +101,6 @@ var poliRedraw = function () {
         .style('fill', '#f6ecdd')
         .style('alignment-baseline', 'text-after-edge')
         .call(poliYaxis)
-        .selectAll('text')
-        .attr('class', function (d, i) {
-            return "a" + i;
-        });
-    poliChart
         .append('text')
         .text('정치 성 격차지수')
         .attr('class', 'axisName poliaxisName')
@@ -175,20 +157,14 @@ var poliRedraw = function () {
             d3.select(this.parentNode.parentNode.querySelector("." + d.country.replace(' ', '-') + "poliTip")).transition().duration(200).style('opacity', 0);
         })
         .transition()
-        .delay(function (d, i) {
-            return i * 20;
-        })
-        .duration(1000)
-        .attr('cx', function (d, i) {
-            return ecoXscale(0);
-        })
+        .duration(2000)
         .attr('cy', function (d, i) {
             return poliYscale(d.political);
         })
-        .transition()
-        .delay(function (d, i) {
-            return 3000 - (i * 20);
+        .attr('cx', function (d, i) {
+            return ecoXscale(0);
         })
+        .transition()
         .duration(2000)
         .attr('cx', function (d, i) {
             return ecoXscale(d.economic);
@@ -203,5 +179,13 @@ var poliRedraw = function () {
         .attr('y', function (d, i) {
             return poliYscale(0.134408682120772) - 5;
         });
+}
 
-};
+d3.csv('data/ggi_2017.csv', function (err, data) {
+    d3.select('#width').on('change', function () {
+        var Wlength = window.innerWidth * (this.value) - POLIMARGIN.LEFT - 15;
+        render(cleanseData(data), Wlength);
+    });
+
+    render(cleanseData(data), 0.95);
+});

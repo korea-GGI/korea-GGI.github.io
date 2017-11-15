@@ -5,7 +5,7 @@ var CONMARGIN = {
 };
 
 var countriesWidth = window.innerWidth * 0.95 - CONMARGIN.LEFT - CONMARGIN.RIGHT - 15,
-    countriesHeight = 40 * 144 - CONMARGIN.TOP,
+    countriesHeight = 35 * 144 - CONMARGIN.TOP,
     targetYear = 2017;
 
 var dataSet = [];

@@ -208,9 +208,7 @@ d3.select('#a')
     .transition()
     .delay(200)
     .style('background-color', null)
-    .style('color', '#ff9140')
-    .transition()
-    .delay(200);
+    .style('color', '#ff9140');
 d3.select('#a')
     .on('click', function (d, i) {
         updatePie(data[0]);
@@ -225,7 +223,6 @@ d3.select('#b')
 d3.select('#c')
     .on('click', function (d, i) {
         updatePie(data[2]);
-
     });
 d3.select('#d')
     .on('click', function (d, i) {

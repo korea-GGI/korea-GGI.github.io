@@ -49,16 +49,18 @@ a img {
 }
 
 
-.poliaxis .domain {
+.poliaxis .domain,
+.ecoaxis .domain {
     stroke-width: 2 !important;
     stroke: #f7ecdd;
     opacity: 0.6;
     font-weight: 300 !important;
 }
 
-.poliaxis .tick text {
+.tick text {
     fill: #f7ecdd !important;
     font-weight: 400;
+    transform: translate( 0, -100)!important;
 }
 
 
@@ -80,14 +82,16 @@ body {
         position: relative;
         left: -80px;
     }
-
+    .pCircle {
+        stroke-width: 1px;
+        stroke: rgba(0, 0, 0, 0.8);
+    }
     .South-KoreapoliCircle {
         fill: #f7ecdd;
         opacity: 1 !important;
     }
 
     .koreaTip {
-        fill: #f7ecdd;
         font-weight: bold;
         text-anchor: middle;
         font-size: 1.4rem !important;
@@ -110,6 +114,13 @@ body {
     .axisName {
         font-size: 1.3rem !important;
     }
+    .tick text {
+        font-size: 1rem;
+    }
+    .axisName {
+        fill: #f6ecdd !important;
+        font-size: 1rem;
+    }
     .top {
         position: absolute;
         top: 0;
@@ -127,7 +138,7 @@ body {
         top: 1rem;
         font-weight: 900;
         font-size: 1.7rem;
-        line-height: 2.4rem;
+        line-height: 2.2rem;
     }
     .title a {
         font-weight: 900;
@@ -161,7 +172,7 @@ body {
         height: 2.2rem;
         width: 5rem;
         position: absolute;
-        top: -6.1rem;
+        top: -6.4rem;
         right: 0.5rem;
         line-height: 3.4rem;
         z-index: 7000 !important;
@@ -170,7 +181,7 @@ body {
     }
     .menuIcon img {
         opacity: 0.98;
-        width: 60px;
+        width: 50px;
     }
     .menuIcon li {
         width: 20px;
@@ -340,7 +351,7 @@ body {
 
 }
 
-@media screen and (min-width: 501px) and (max-width: 768px) {
+@media screen and (min-width: 501px) and (max-width: 767px) {
     #poliecoChart {
         position: relative;
         left: -80px;
@@ -367,23 +378,10 @@ body {
         display: none;
     }
 
-    .IcelandpoliTip,
-    .RewandapoliTip,
-    .FinlandpoliTip,
-    .NorwaypoliTip {
-        opacity: 1 !important;
-    }
-
-    .FinlandpoliTip {
-        alignment-baseline: text-before-edge;
-    }
-
-    .NorwaypoliTip {
-        alignment-baseline: text-after-edge;
-    }
     .pCircle {
         opacity: 0.4 !important;
     }
+
     .top {
         position: absolute;
         top: 0;
@@ -536,7 +534,7 @@ body {
         position: absolute;
         left: 1.5rem;
         right: 0;
-        top: 7.8rem;
+        top: 10rem;
         margin-bottom: 1rem;
     }
 
@@ -787,7 +785,7 @@ body {
         position: absolute;
         left: 2rem;
         right: 0;
-        top: 7rem;
+        top: 8rem;
         margin-bottom: 1rem;
     }
 
@@ -818,7 +816,7 @@ body {
     .bottom {
         width: 100%;
         margin-top: 1rem;
-        margin-bottom: 4rem;
+        margin-bottom: 2rem;
     }
 
     .bottom p {
@@ -842,5 +840,3 @@ body {
 
 
 }
-
-/*point_css----------------------------------------------------*/

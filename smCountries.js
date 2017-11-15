@@ -114,7 +114,7 @@ var selectedCountryRedraw = function () {
                 .tickFormat(function (d) {
                     return d;
                 })
-                .tickPadding(25);
+                .tickPadding(16);
             var smYaxis = d3.axisLeft()
                 .scale(smYscale)
                 .tickSize(0)
@@ -145,7 +145,7 @@ var selectedCountryRedraw = function () {
                 .attr('x', function (d) {
                     return smXscale(smDataSet[d]['values'][0].score);
                 })
-                .attr('y', 61)
+                .attr('y', 52)
                 .style('text-anchor', 'start')
                 .style('font-size', '1.3rem')
                 .style('font-weight', '400')
@@ -164,7 +164,7 @@ var selectedCountryRedraw = function () {
                 .attr('x', 0)
                 .attr('y', 0)
                 .attr('opacity', 0.9)
-                .attr('height', 36)
+                .attr('height', 32)
                 .attr('width', 0)
                 .transition()
                 .delay(500)
@@ -181,7 +181,7 @@ var selectedCountryRedraw = function () {
                 .attr('opacity', 0.1)
                 .attr('x', 0)
                 .attr('y', 0)
-                .attr('height', 36)
+                .attr('height', 32)
                 .on('mouseover', function (d, i) {
                     d3.select(this.parentNode.querySelector('.smtooltip'))
                         .style('opacity', 1);
@@ -198,18 +198,16 @@ var selectedCountryRedraw = function () {
             d3.select(this).append('path')
                 .transition()
                 .delay(2500)
-                .attr('d', 'M' + (koreaMark - 1.5) + ' 0 L ' + (koreaMark - 1.5) + ' ' + 36 + ' ')
+                .attr('d', 'M' + (koreaMark - 1.5) + ' 0 L ' + (koreaMark - 1.5) + ' ' + 32 + ' ')
                 .style('stroke', '#f6ecdd').style('stroke-width', 2);
             // Title
             d3.select(this).append('text')
                 .attr('x', 0)
-                .attr('y', 60)
+                .attr('y', 54)
                 .style('text-anchor', 'start')
-                //                .style('alignment-baseline', 'text-before-edge')
                 .style('font-size', '1.3rem')
                 .style('font-weight', '600')
                 .style('text-transform', 'uppercase')
-                //                .style('fill', '#f6ecdd')
                 .style('fill', '#000')
                 .style('opacity', '1')
                 .text(function (d) {

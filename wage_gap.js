@@ -78,13 +78,15 @@ var draw = function () {
         })
         .attr('width', 0)
         .attr('height', wageGapYscale.bandwidth())
-        .style('fill', '#111')
+        .style('fill', function (d) {
+            return d['country'] === 'Korea' ? '#f6ecdd' : '#111';
+        })
         .transition()
         .duration(3000)
         .attr('width', function (d, i) {
             return wageGapXscale(d.value);
         })
-        .expOut;
+        .polyIn;
     //append text
     var textSel = wageGap.selectAll('text').data(dataSet);
     var textEnter = textSel.enter();
@@ -96,11 +98,14 @@ var draw = function () {
             return wageGapXscale(d.value) - 2;
         })
         .attr('y', function (d, i) {
-            return wageGapYscale(i) + wageGapYscale.bandwidth();
+            return wageGapYscale(i) + wageGapYscale.bandwidth() + 2;
         })
         .style('text-anchor', 'end')
         .style('alignment-baseline', 'text-after-edge')
-        .style('font-size', '1.2rem')
-        .style('font-weight', '300')
-        .style('fill', '#f6ecdd');
+        .style('font-size', '1rem')
+        .style('font-weight', '400')
+        .style('fill', '')
+        .style('fill', function (d) {
+            return d['country'] === 'Korea' ? '#000' : '#f6ecdd';
+        });
 };

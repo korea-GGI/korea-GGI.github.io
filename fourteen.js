@@ -50,7 +50,7 @@ var tops = function () {
 
     var fourteenXscale = d3.scaleLinear()
         .domain([0, 1.1])
-        .rangeRound([0, fourteenWidth * 1.1]);
+        .range([0, fourteenWidth * 1.1]);
 
     var fourteenYscale = d3.scaleBand()
         .domain(partName)
@@ -72,7 +72,7 @@ var tops = function () {
         .attr('x', function (d) {
             return fourteenXscale(d.icelandScore);
         })
-        .attr('width', 4)
+        .attr('width', 3)
         .attr('height', fourteenYscale.bandwidth())
         .style('opacity', '0')
         .transition()
@@ -185,7 +185,7 @@ var fourteenRedraw = function () {
             return d.score > 0.7 ? "end" : "start";
         })
         .attr('x', function (d) {
-            return d.score > 0.7 ? fourteenXscale(d.score) - 7 : fourteenXscale(d.score) + 7;
+            return d.score > 0.7 ? fourteenXscale(d.score) -7 : fourteenXscale(d.score) + 7;
         })
         .transition()
         .delay(1500)
