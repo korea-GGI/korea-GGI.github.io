@@ -739,9 +739,9 @@ body {
         margin-bottom: 3rem;
         width: 70%;
         margin-left: 15%;
-        font-size: 2rem;
+        font-size: 1.7rem;
+        line-height: 3.2rem;
         font-weight: bold;
-        line-height: 3.6rem;
         height: 12rem;
     }
     .buttons {
@@ -764,7 +764,7 @@ body {
         font-size: 1.3rem;
         outline: none;
         border: none;
-        border-radius: 5px;
+        border-radius: 3px;
         margin: 0 !important;
         margin-right: 0.2rem !important;
         cursor: url(images/download.png) 20 24, auto;
