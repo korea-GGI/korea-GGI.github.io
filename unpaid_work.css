@@ -757,7 +757,7 @@ body {
     .paragraphDiv {
         width: 100%;
         position: relative;
-        top: -2rem;
+        top: 0;
         z-index: 600 !important;
         margin-bottom: 0 !important;
         background-image: -webkit-linear-gradient(top, transparent 0, #ff7a2a 10%);
