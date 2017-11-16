@@ -48,12 +48,6 @@ body {
 /*part-----------------------------------------*/
 
 @media screen and (max-width: 500px) {
-    #selectedCountryChart text {
-        font-size: 1rem !important;
-    }
-    #selectedCountryChart .tick text {
-        transform: translate(0, 4px);
-    }
     #mainChart text {
         font-size: 1rem !important;
         font-weight: bold;
