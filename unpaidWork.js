@@ -73,8 +73,9 @@ var worldData = function (rows) {
         }
     });
     dataSet = ratioData;
-    unpaidWorkdraw();
+
     draw();
+    unpaidWorkdraw();
 }
 var draw = function () {
     var unPaidRulerWidth = window.innerWidth * 0.95 - 15;
