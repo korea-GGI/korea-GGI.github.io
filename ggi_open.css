@@ -105,7 +105,6 @@ body {
         left: 0;
         right: 0;
         z-index: 400 !important;
-
     }
     .wrap {
         width: 100%;
@@ -199,15 +198,14 @@ body {
     .menu li {
         list-style-type: none;
         width: 100%;
-        background-color: #ff7a2a;
-        color: #000;
+        color: #ff7a2a;
+        background-color: #000;
         font-size: 1.5rem;
         margin: 0 !important;
         padding: 0.5rem;
         padding-left: 1.5rem;
         padding-right: 0.7rem;
         margin-bottom: 2px;
-        /*        line-height: 2rem;*/
         cursor: url(images/download.png) 20 24, auto;
     }
     .menu li:nth-child(1):hover {
@@ -215,8 +213,8 @@ body {
     }
     .menu li:hover {
         text-decoration: underline;
-        background-color: #000;
-        color: #ff7a2a;
+        color: #000;
+        background-color: #ff7a2a;
         font-weight: 600;
         border: none;
         cursor: url(images/download.png) 20 24, auto;
