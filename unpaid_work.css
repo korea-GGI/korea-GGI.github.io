@@ -497,7 +497,7 @@ body {
         position: absolute;
         left: 1.5rem;
         right: 0;
-        top: 12rem;
+        top: 10rem;
         margin-bottom: 1rem;
     }
 
@@ -572,8 +572,8 @@ body {
 
     #scroll {
         position: relative;
-        top: -3.2rem;
-        left: 51.5rem;
+        top: 0.3rem;
+        left: 35.2rem;
         font-size: 1.5rem;
         line-height: 2.3rem;
         border: none;
@@ -807,7 +807,7 @@ body {
     #scroll {
         position: relative;
         top: -3.2rem;
-        left: 51.5rem;
+        left: 53.5rem;
         font-size: 1.5rem;
         line-height: 2.3rem;
         border: none;
