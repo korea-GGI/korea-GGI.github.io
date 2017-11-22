@@ -137,7 +137,7 @@ body {
         font-weight: 900;
     }
     .title a:hover {
-        color: #fbebca;
+        color: #f6ecdd;
     }
     /*head------------------------------------------*/
     header {
@@ -149,7 +149,7 @@ body {
     }
 
     .rulerWrap {
-        position: fixed;
+        position: absolute;
         top: 9rem;
         left: 1rem;
     }
@@ -234,22 +234,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
     .first {
         font-weight: 800 !important;
@@ -353,7 +353,7 @@ body {
         font-weight: 900;
     }
     .title a:hover {
-        color: #fbebca;
+        color: #f6ecdd;
     }
     /*head------------------------------------------*/
     header {
@@ -458,22 +458,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
     .first {
         font-weight: 800 !important;
@@ -575,7 +575,7 @@ body {
     }
 
     .title a:hover {
-        color: #fbebca;
+        color: #f6ecdd;
     }
 
     /*head------------------------------------------*/
@@ -686,22 +686,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .first {
