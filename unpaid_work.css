@@ -112,7 +112,6 @@ body {
         left: 0;
         right: 0;
         z-index: 400 !important;
-
     }
     .wrap {
         width: 100%;
@@ -130,7 +129,7 @@ body {
         font-weight: 900;
     }
     .title a:hover {
-        color: #fbebca;
+        color: #f6ecdd;
     }
     /*head------------------------------------------*/
     header {
@@ -141,8 +140,8 @@ body {
         z-index: 700 !important;
     }
     .rulerWrap {
-        position: fixed;
-        top: 9rem;
+        position: absolute;
+        top: 10.5rem;
         left: 1rem;
     }
     .headerbackground {
@@ -205,7 +204,6 @@ body {
         padding-left: 1.5rem;
         padding-right: 0.7rem;
         margin-bottom: 2px;
-        /*        line-height: 2rem;*/
         cursor: url(images/download.png) 20 24, auto;
     }
     .menu li:nth-child(1):hover {
@@ -226,22 +224,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
     .first {
         font-weight: 800 !important;
@@ -270,7 +268,6 @@ body {
     p {
         width: 90%;
         font-size: 1.3rem;
-        font-weight: 600;
         line-height: 2.2rem;
         margin-bottom: 5rem;
     }
@@ -322,22 +319,22 @@ body {
         height: 10px;
         background: black;
         position: relative;
-        left: 465vw;
+        left: 865vw;
     }
 
     #scroll {
         position: relative;
-        top: 0rem;
-        left: 15rem;
-        font-size: 1rem;
+        top: 0.7rem;
+        left: 0;
+        font-size: 1.1rem;
         line-height: 1.5rem;
         border: none;
-        padding: 0.1rem;
-        padding-bottom: 0.2rem;
-        padding-right: 0.5rem;
-        padding-left: 0.5rem;
+        padding: 0.3rem;
+        padding-bottom: 0.5rem;
+        padding-right: 0.7rem;
+        padding-left: 0.7rem;
         background-color: rgba(0, 0, 0, 0.8);
-        color: #fbebca;
+        color: #f6ecdd;
         border-radius: 4px;
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
         cursor: url(images/download.png) 20 24, auto;
@@ -370,7 +367,7 @@ body {
         font-weight: 900;
     }
     .title a:hover {
-        color: #fbebca;
+        color: #f6ecdd;
     }
     /*head------------------------------------------*/
     header {
@@ -475,22 +472,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
     .first {
         font-weight: 800 !important;
@@ -585,7 +582,7 @@ body {
         padding-right: 0.5rem;
         padding-left: 0.5rem;
         background-color: rgba(0, 0, 0, 0.8);
-        color: #fbebca;
+        color: #f6ecdd;
         border-radius: 4px;
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
         cursor: url(images/download.png) 20 24, auto;
@@ -616,7 +613,7 @@ body {
     }
 
     .title a:hover {
-        color: #fbebca;
+        color: #f6ecdd;
     }
 
     /*head------------------------------------------*/
@@ -718,22 +715,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .first {
@@ -819,7 +816,7 @@ body {
         padding-right: 0.5rem;
         padding-left: 0.5rem;
         background-color: rgba(0, 0, 0, 0.8);
-        color: #fbebca;
+        color: #f6ecdd;
         border-radius: 4px;
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
         cursor: url(images/download.png) 20 24, auto;

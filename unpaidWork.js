@@ -5,7 +5,7 @@ var UNPMARGIN = {
 };
 
 var unPaidWorkWidth = window.innerWidth * 0.95 - UNPMARGIN.LEFT - UNPMARGIN.RIGHT - 15,
-    unPaidWorkHeight = window.innerHeight * 0.9 - UNPMARGIN.TOP - 20,
+    unPaidWorkHeight = 27 * 28 - UNPMARGIN.TOP - 20,
     targetYear = 2016;
 
 var countriesName = [];

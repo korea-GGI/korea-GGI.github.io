@@ -52,13 +52,13 @@ a img {
 .poliaxis .domain,
 .ecoaxis .domain {
     stroke-width: 2 !important;
-    stroke: #fbebca;
+    stroke: #f6ecdd;
     opacity: 0.6;
     font-weight: 300 !important;
 }
 
 .tick text {
-    fill: #fbebca !important;
+    fill: #f6ecdd !important;
     font-weight: 400;
     transform: translate( 0, -100)!important;
 }
@@ -87,14 +87,12 @@ body {
         stroke: rgba(0, 0, 0, 0.8);
     }
     .South-KoreapoliCircle {
-        fill: #fbebca;
+        fill: #f6ecdd;
         opacity: 1 !important;
     }
 
     .koreaTip {
-        font-weight: bold;
-        text-anchor: middle;
-        font-size: 1.4rem !important;
+        display: none;
     }
 
     .South-KoreapoliTip,
@@ -112,7 +110,7 @@ body {
         alignment-baseline: text-after-edge;
     }
     .axisName {
-        font-size: 1.3rem !important;
+        font-size: 1rem !important;
     }
     .tick text {
         font-size: 1rem;
@@ -136,6 +134,7 @@ body {
         position: relative;
         left: 1rem;
         top: 1rem;
+        width: 18rem;
         font-weight: 900;
         font-size: 1.7rem;
         line-height: 2.2rem;
@@ -144,7 +143,7 @@ body {
         font-weight: 900;
     }
     .title a:hover {
-        color: #fbebca;
+        color: #f6ecdd;
     }
     /*head------------------------------------------*/
     header {
@@ -237,21 +236,21 @@ body {
     }
     .menu a:link {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
     .menu a:visited {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
     .first {
         font-weight: 800 !important;
@@ -291,7 +290,6 @@ body {
     p {
         width: 90%;
         font-size: 1.3rem;
-        font-weight: 600;
         line-height: 2.2rem;
         margin-bottom: 2rem;
     }
@@ -360,12 +358,12 @@ body {
     }
 
     .South-KoreapoliCircle {
-        fill: #fbebca;
+        fill: #f6ecdd;
         opacity: 1 !important;
     }
 
     .koreaTip {
-        fill: #fbebca;
+        fill: #f6ecdd;
         font-weight: bold;
         text-anchor: middle;
         alignment-baseline: text-after-edge;
@@ -402,7 +400,7 @@ body {
         font-weight: 900;
     }
     .title a:hover {
-        color: #fbebca;
+        color: #f6ecdd;
     }
     /*head------------------------------------------*/
     header {
@@ -507,22 +505,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
     .first {
         font-weight: 800 !important;
@@ -594,12 +592,12 @@ body {
     }
 
     .South-KoreapoliCircle {
-        fill: #fbebca;
+        fill: #f6ecdd;
         opacity: 1 !important;
     }
 
     .koreaTip {
-        fill: #fbebca;
+        fill: #f6ecdd;
         font-weight: bold;
         text-anchor: middle;
         alignment-baseline: text-after-edge;
@@ -648,7 +646,7 @@ body {
     }
 
     .title a:hover {
-        color: #fbebca;
+        color: #f6ecdd;
     }
 
     /*head------------------------------------------*/
@@ -756,22 +754,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .first {

@@ -52,6 +52,7 @@ body {
         font-size: 1rem !important;
         font-weight: bold;
     }
+
     .top {
         position: absolute;
         top: 0;
@@ -76,7 +77,7 @@ body {
         font-weight: 900;
     }
     .title a:hover {
-        color: #fbebca;
+        color: #f6ecdd;
     }
     /*head------------------------------------------*/
     header {
@@ -88,7 +89,7 @@ body {
     }
 
     .rulerWrap {
-        position: fixed;
+        position: absolute;
         top: 9rem;
         left: 1rem;
     }
@@ -173,22 +174,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
     .first {
         font-weight: 800 !important;
@@ -217,7 +218,6 @@ body {
     p {
         width: 90%;
         font-size: 1.3rem;
-        font-weight: 600;
         line-height: 2.2rem;
         margin-bottom: 2rem;
     }
@@ -265,7 +265,7 @@ body {
         margin-bottom: 0.7rem;
     }
     #pie {
-        padding-left: 35px !important;
+        padding-left: 23px !important;
         padding-top: 1rem;
     }
     .buttons {
@@ -280,9 +280,9 @@ body {
         background-color: black;
         color: #ff7a2a;
         height: 1.1rem;
-        line-height: 0.7rem;
-        padding-top: 0.2rem;
-        padding-bottom: 0.2rem;
+        line-height: 0.25rem;
+        padding-top: 0.4rem;
+        padding-bottom: 0.4rem;
         font-size: 1rem;
         outline: none;
         border: none;
@@ -293,13 +293,13 @@ body {
     }
     button:active {
         outline: none;
-        border: 1px solid #fbebca;
-        background-color: #fbebca;
+        border: 1px solid #f6ecdd;
+        background-color: #f6ecdd;
         color: #222 !important;
     }
     button:focus {
-        background-color: #fbebca;
-        border: 1px solid #fbebca;
+        background-color: #f6ecdd;
+        border: 1px solid #f6ecdd;
         color: #222;
     }
 
@@ -330,7 +330,7 @@ body {
         font-weight: 900;
     }
     .title a:hover {
-        color: #fbebca;
+        color: #f6ecdd;
     }
     /*head------------------------------------------*/
     header {
@@ -435,22 +435,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
     .first {
         font-weight: 800 !important;
@@ -548,13 +548,13 @@ body {
     }
     button:active {
         outline: none;
-        border: 1px solid #fbebca;
-        background-color: #fbebca;
+        border: 1px solid #f6ecdd;
+        background-color: #f6ecdd;
         color: #222;
     }
     button:focus {
-        background-color: #fbebca;
-        border: 1px solid #fbebca;
+        background-color: #f6ecdd;
+        border: 1px solid #f6ecdd;
         color: #222;
     }
 
@@ -583,7 +583,7 @@ body {
     }
 
     .title a:hover {
-        color: #fbebca;
+        color: #f6ecdd;
     }
 
     /*head------------------------------------------*/
@@ -698,22 +698,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
     .first {
         font-weight: 800 !important;
@@ -771,13 +771,13 @@ body {
     }
     button:active {
         outline: none;
-        border: 1px solid #fbebca;
-        background-color: #fbebca;
+        border: 1px solid #f6ecdd;
+        background-color: #f6ecdd;
         color: #222;
     }
     button:focus {
-        background-color: #fbebca;
-        border: 1px solid #fbebca;
+        background-color: #f6ecdd;
+        border: 1px solid #f6ecdd;
         color: #222;
     }
     .bottom li {

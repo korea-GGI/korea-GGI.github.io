@@ -79,12 +79,12 @@ rect.KoreaColor {
 }
 
 .South-KoreapoliCircle {
-    fill: #fbebca;
+    fill: #f6ecdd;
     opacity: 1 !important;
 }
 
 .South-KoreapoliTip {
-    fill: #fbebca;
+    fill: #f6ecdd;
     font-weight: bold;
     font-size: 1.7rem !important;
     z-index: 8800 !important;
@@ -167,7 +167,7 @@ body {
         font-weight: 900;
     }
     .title a:hover {
-        color: #fbebca;
+        color: #f6ecdd;
     }
     /*head------------------------------------------*/
     header {
@@ -179,7 +179,7 @@ body {
     }
 
     .rulerWrap {
-        position: fixed;
+        position: absolute;
         top: 6.5rem;
         left: 1rem;
     }
@@ -264,22 +264,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
     .first {
         font-weight: 800 !important;
@@ -354,12 +354,12 @@ body {
     }
 
     .South-KoreapoliCircle {
-        fill: #fbebca;
+        fill: #f6ecdd;
         opacity: 1 !important;
     }
 
     .koreaTip {
-        fill: #fbebca;
+        fill: #f6ecdd;
         font-weight: bold;
         text-anchor: middle;
         alignment-baseline: text-after-edge;
@@ -395,7 +395,7 @@ body {
         font-weight: 900;
     }
     .title a:hover {
-        color: #fbebca;
+        color: #f6ecdd;
     }
     /*head------------------------------------------*/
     header {
@@ -500,22 +500,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
     .first {
         font-weight: 800 !important;
@@ -617,7 +617,7 @@ body {
     }
 
     .title a:hover {
-        color: #fbebca;
+        color: #f6ecdd;
     }
 
     /*head------------------------------------------*/
@@ -724,22 +724,22 @@ body {
 
     .menu a:link {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:visited {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:hover {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .menu a:active {
         text-decoration: none;
-        color: #fbebca !important;
+        color: #f6ecdd !important;
     }
 
     .first {
@@ -828,9 +828,9 @@ body {
     padding-bottom: 0.2rem;
     padding-right: 0.5rem;
     padding-left: 0.5rem;
-    /*    background-color: #fbebca;*/
+    /*    background-color: #f6ecdd;*/
     background-color: rgba(0, 0, 0, 0.8);
-    color: #fbebca;
+    color: #f6ecdd;
     border-radius: 4px;
     /*    font-weight: 600;*/
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
