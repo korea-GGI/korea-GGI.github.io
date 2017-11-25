@@ -4,7 +4,7 @@
     padding: 0;
     word-break: keep-all;
     box-sizing: border-box;
-    /*    border: 1px solid rgba(0, 0, 0, 0.1);*/
+    border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 a:link {
@@ -104,7 +104,6 @@ body {
 @media screen and (max-width: 500px) {
     #mainChart text {
         font-size: 1rem !important;
-        font-weight: bold;
     }
     .top {
         position: absolute;
@@ -118,7 +117,7 @@ body {
     }
     .title {
         position: relative;
-        left: 1rem;
+        left: 0.6rem;
         top: 1rem;
         font-weight: 900;
         font-size: 1.7rem;
@@ -142,7 +141,7 @@ body {
     .rulerWrap {
         position: absolute;
         top: 10.5rem;
-        left: 1rem;
+        left: 0.2rem;
     }
     .headerbackground {
         background-color: #ff7a2a;
@@ -160,7 +159,7 @@ body {
         width: 5rem;
         position: absolute;
         top: -6.4rem;
-        right: 0.5rem;
+        right: 0;
         line-height: 3.4rem;
         z-index: 7000 !important;
         text-align: center;
@@ -256,7 +255,9 @@ body {
     .context div {
         margin-bottom: 1rem;
     }
-
+    #unpiadWorkChart {
+        margin-left: -0.5rem;
+    }
     .paragraphDiv {
         width: 100%;
         position: relative;
