@@ -99,16 +99,14 @@ var draw = function () {
             return wageGapXscale(d.value) - 2;
         })
         .attr('y', function (d, i) {
-            console.log(i);
-            return wageGapYscale(i) + wageGapYscale.bandwidth();
+            return wageGapYscale(i);
         })
         .style('text-anchor', 'end')
-        .style('alignment-baseline', 'text-after-edge')
+        .style('alignment-baseline', 'text-before-edge')
         .style('font-size', '1.3rem')
         .style('font-weight', function (d) {
             return d['country'] === 'Korea' ? '400' : '300';
         })
-        .style('fill', '')
         .style('fill', function (d) {
             return d['country'] === 'Korea' ? '#000' : '#f6ecdd';
         });
