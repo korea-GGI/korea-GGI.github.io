@@ -115,7 +115,6 @@ var unpaidWorkdraw = function () {
         return b.ratio - a.ratio;
     });
     var rankData = sortRank.map(function (d, i) {
-        console.log(d);
         return {
             ratio: d.ratio,
             country: d.country,
@@ -181,7 +180,7 @@ var unpaidWorkdraw = function () {
             return unpaidXscale(d.ratio) - 2;
         })
         .attr('y', function (d, i) {
-            return unpaidYscale(d.rank) + unpaidYscale.bandwidth() + 4;
+            return unpaidYscale(d.rank) + unpaidYscale.bandwidth();
         })
         .style('text-anchor', 'end')
         .style('alignment-baseline', 'text-after-edge')
