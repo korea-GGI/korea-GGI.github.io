@@ -111,7 +111,7 @@ body {
     }
     .title {
         position: relative;
-        left: 1rem;
+        left: 0.6rem;
         top: 1rem;
         font-weight: 900;
         font-size: 1.7rem;
@@ -134,18 +134,18 @@ body {
     .rulerWrap {
         position: fixed;
         top: 6.5rem;
-        left: 1rem;
+        /*        left: 1rem;*/
+        left: 0.2rem;
     }
     #mainChart {
-        padding-left: 0.5rem;
+
         z-index: 1500 !important;
     }
     .axis text {
         font-size: 1rem !important;
-        font-weight: bold;
         text-anchor: start !important;
-
     }
+
     .headerbackground {
         background-color: #ff7a2a;
         position: absolute;
@@ -162,7 +162,7 @@ body {
         width: 5rem;
         position: absolute;
         top: -6.4rem;
-        right: 0.5rem;
+        right: 0;
         line-height: 3.4rem;
         z-index: 7000 !important;
         text-align: center;
@@ -256,6 +256,9 @@ body {
     }
     .context div {
         margin-bottom: 1rem;
+    }
+    #worldChart {
+        margin-left: -1rem !important;
     }
     .intooltip {
         width: 34rem;
