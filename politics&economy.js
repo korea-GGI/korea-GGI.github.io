@@ -5,9 +5,9 @@ var POLIMARGIN = {
     RIGHT: 0,
     TOP: 30,
 };
-var length = window.innerWidth * 0.37 - POLIMARGIN.LEFT - 15,
-    Wlength = window.innerWidth * 0.95 - POLIMARGIN.LEFT - 15
-celSize = window.innerWidth * 0.008,
+var length = 540 - POLIMARGIN.LEFT - 15,
+    Wlength = 540 - POLIMARGIN.LEFT - 15
+celSize = 12,
     targetYear = 2017;
 // datas---------------------------------------
 

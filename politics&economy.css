@@ -77,8 +77,7 @@ body {
 
 @media screen and (max-width: 500px) {
     #poliecoChart {
-        position: relative;
-        left: -80px;
+        display: block;
     }
     .pCircle {
         stroke-width: 1px;
@@ -88,9 +87,8 @@ body {
         fill: #f6ecdd;
         opacity: 1 !important;
     }
-
     .koreaTip {
-        display: none;
+        font-size: 1.7rem;
     }
     .South-KoreapoliTip,
     .IcelandpoliTip,
