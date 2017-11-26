@@ -153,6 +153,7 @@ body {
         padding-right: 0.7rem;
         margin-bottom: 2px;
         /*        line-height: 2rem;*/
+        border-bottom: 1px solid #ff7a2a;
         cursor: url(images/download.png) 20 24, auto;
     }
     .menu li:nth-child(1):hover {

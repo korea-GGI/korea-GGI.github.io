@@ -203,6 +203,7 @@ body {
         padding-left: 1.5rem;
         padding-right: 0.7rem;
         margin-bottom: 2px;
+        border-bottom: 1px solid #ff7a2a;
         cursor: url(images/download.png) 20 24, auto;
     }
     .menu li:nth-child(1):hover {
