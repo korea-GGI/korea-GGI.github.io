@@ -90,12 +90,16 @@ var poliRedraw = function () {
         .style('font-weight', '300')
         .style('text-anchor', 'start')
         .style('fill', '#f6ecdd')
-        .call(ecoYaxis);
+        .call(ecoYaxis)
+        .selectAll('text')
+        .attr('class', function (d, i) {
+            return 'a' + (i + 1);
+        });
 
     poliChart
         .append('text')
         .text('경제 성 격차지수')
-        .attr('class', 'axisName')
+        .attr('class', 'axisName ecoName')
         .style('text-anchor', 'start')
         .style('font-size', '1.7rem')
         .style('font-weight', '600')
@@ -112,15 +116,11 @@ var poliRedraw = function () {
         .style('fill', '#f6ecdd')
         .attr('transform', 'translate( 0 , ' + length + ' )')
         .style('alignment-baseline', 'text-after-edge')
-        .call(poliXaxis)
-        .selectAll('text')
-        .attr('class', function (d, i) {
-            return "a" + i;
-        });
+        .call(poliXaxis);
     poliChart
         .append('text')
         .text('정치 성 격차지수')
-        .attr('class', 'axisName poliaxisName')
+        .attr('class', 'axisName')
         .style('fill', '#000')
         .style('font-size', '1.7rem')
         .style('text-anchor', 'end')

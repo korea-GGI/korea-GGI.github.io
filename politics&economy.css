@@ -63,8 +63,6 @@ a img {
     transform: translate( 0, -100)!important;
 }
 
-
-
 body {
     background-color: #ff7a2a;
 }
@@ -94,30 +92,39 @@ body {
     .koreaTip {
         display: none;
     }
-
     .South-KoreapoliTip,
     .IcelandpoliTip,
         {
         opacity: 1 !important;
         font-size: 1rem !important;
     }
-
     .FinlandpoliTip {
         alignment-baseline: text-before-edge;
     }
-
     .NorwaypoliTip {
         alignment-baseline: text-after-edge;
     }
     .axisName {
+        fill: #f6ecdd !important;
         font-size: 1rem !important;
     }
     .tick text {
         font-size: 1rem;
     }
-    .axisName {
-        fill: #f6ecdd !important;
-        font-size: 1rem;
+    .ecoName {
+        position: relative;
+        left: -3rem !important;
+    }
+
+    .a1,
+    .a2,
+    .a3,
+    .a4,
+    .a6,
+    .a7,
+    .a8,
+    .a9 {
+        display: none;
     }
     .top {
         position: absolute;
@@ -125,14 +132,13 @@ body {
         left: 0;
         right: 0;
         z-index: 400 !important;
-
     }
     .wrap {
         width: 100%;
     }
     .title {
         position: relative;
-        left: 1rem;
+        left: 0.6rem;
         top: 1rem;
         width: 18rem;
         font-weight: 900;
@@ -172,7 +178,7 @@ body {
         width: 5rem;
         position: absolute;
         top: -6.4rem;
-        right: 0.5rem;
+        right: 0;
         line-height: 3.4rem;
         z-index: 7000 !important;
         text-align: center;
