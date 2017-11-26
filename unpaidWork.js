@@ -180,10 +180,11 @@ var unpaidWorkdraw = function () {
             return unpaidXscale(d.ratio) - 2;
         })
         .attr('y', function (d, i) {
-            return unpaidYscale(d.rank) + unpaidYscale.bandwidth();
+            console.log(i);
+            return unpaidYscale(d.rank);
         })
         .style('text-anchor', 'end')
-        .style('alignment-baseline', 'text-after-edge')
+        .style('alignment-baseline', 'text-before-edge')
         .style('font-size', '1.2rem')
         .style('font-weight', '400')
         .style('fill', function (d) {
