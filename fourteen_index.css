@@ -132,7 +132,6 @@ body {
     }
     .axis text {
         font-size: 1rem !important;
-        font-weight: bold;
         text-anchor: start !important;
     }
     .fixedtooltip {
@@ -155,7 +154,7 @@ body {
     }
     .title {
         position: relative;
-        left: 1rem;
+        left: 0.6rem;
         top: 1rem;
         font-weight: 900;
         font-size: 1.7rem;
@@ -179,7 +178,7 @@ body {
     .rulerWrap {
         position: absolute;
         top: 6.5rem;
-        left: 1rem;
+        left: 0.2rem;
     }
     .headerbackground {
         background-color: #ff7a2a;
@@ -197,7 +196,7 @@ body {
         width: 5rem;
         position: absolute;
         top: -6.4rem;
-        right: 0.5rem;
+        right: 0;
         line-height: 3.4rem;
         z-index: 7000 !important;
         text-align: center;
@@ -285,7 +284,7 @@ body {
     /*middle-------------------------------------------*/
     .context {
         position: absolute;
-        left: 1.5rem;
+        left: 1rem;
         right: 0;
         top: 9rem;
         margin-bottom: 1rem;
