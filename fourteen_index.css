@@ -332,6 +332,8 @@ body {
     .bottom li {
         float: left;
         padding-right: 2em;
+        padding-bottom: 0.3rem;
+        text-decoration: underline;
     }
     .fourteenUl {
         font-size: 1.3rem;

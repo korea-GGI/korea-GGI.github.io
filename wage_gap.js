@@ -5,7 +5,7 @@ var UNPMARGIN = {
 };
 
 var wageGapWorkWidth = window.innerWidth * 0.95 - UNPMARGIN.LEFT - UNPMARGIN.RIGHT - 15,
-    wageGapWorkHeight = 36 * 34 - UNPMARGIN.TOP - 20,
+    wageGapWorkHeight = 36 * 35 - UNPMARGIN.TOP - 20,
     targetYear = 2014;
 
 var countriesName = [];
@@ -78,7 +78,8 @@ var draw = function () {
         })
         .attr('width', 0)
         .attr('height', wageGapYscale.bandwidth())
-        .style('fill', function (d) {
+        .style('fill', function (d, i) {
+            console.log(i);
             return d['country'] === 'Korea' ? '#f6ecdd' : '#111';
         })
         .transition()
