@@ -180,7 +180,6 @@ var unpaidWorkdraw = function () {
             return unpaidXscale(d.ratio) - 2;
         })
         .attr('y', function (d, i) {
-            console.log(i);
             return unpaidYscale(d.rank);
         })
         .style('text-anchor', 'end')
