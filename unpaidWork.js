@@ -180,7 +180,7 @@ var unpaidWorkdraw = function () {
             return unpaidXscale(d.ratio) - 2;
         })
         .attr('y', function (d, i) {
-            return unpaidYscale(d.rank);
+            return unpaidYscale(d.rank) - unpaidYscale.bandwidth() / 2;
         })
         .style('text-anchor', 'end')
         .style('alignment-baseline', 'text-before-edge')
