@@ -183,7 +183,7 @@ var unpaidWorkdraw = function () {
             return unpaidYscale(d.rank) - unpaidYscale.bandwidth() / 2;
         })
         .style('text-anchor', 'end')
-        .style('alignment-baseline', 'text-before-edge')
+        .style('alignment-baseline', 'text-after-edge')
         .style('font-size', '1.2rem')
         .style('font-weight', '400')
         .style('fill', function (d) {
