@@ -51,7 +51,7 @@ a img {
 }
 
 .Korearect {
-    fill: #ff7a2a !important;
+    fill: #ff702d !important;
     opacity: 0.1 !important;
 }
 
@@ -61,11 +61,11 @@ a img {
 }
 
 .KoreamarginRect {
-    fill: #ff7a2a !important;
+    fill: #ff702d !important;
 }
 
 rect.KoreaColor {
-    fill: #ff7a2a !important;
+    fill: #ff702d !important;
 
 }
 
@@ -85,7 +85,7 @@ rect.KoreaColor {
 /*//공동*/
 
 body {
-    background-color: #ff7a2a;
+    background-color: #ff702d;
 }
 
 .wrap {
@@ -147,7 +147,7 @@ body {
     }
 
     .headerbackground {
-        background-color: #ff7a2a;
+        background-color: #ff702d;
         position: absolute;
         left: 0;
         right: 0;
@@ -198,7 +198,7 @@ body {
     .menu li {
         list-style-type: none;
         width: 100%;
-        color: #ff7a2a;
+        color: #ff702d;
         background-color: #000;
         font-size: 1.5rem;
         margin: 0 !important;
@@ -206,7 +206,7 @@ body {
         padding-left: 1.5rem;
         padding-right: 0.7rem;
         margin-bottom: 2px;
-        border-bottom: 1px solid #ff7a2a;
+        border-bottom: 1px solid #ff702d;
         cursor: url(images/download.png) 20 24, auto;
     }
     .menu li:nth-child(1):hover {
@@ -215,7 +215,7 @@ body {
     .menu li:hover {
         text-decoration: underline;
         color: #000;
-        background-color: #ff7a2a;
+        background-color: #ff702d;
         font-weight: 600;
         border: none;
         cursor: url(images/download.png) 20 24, auto;
@@ -268,7 +268,7 @@ body {
         line-height: 2.5rem;
         border: 1px solid #444;
         background-color: black;
-        color: #ff7a2a;
+        color: #ff702d;
         padding: 1rem;
         padding-top: 0.5rem;
     }
@@ -303,7 +303,7 @@ body {
         top: -1rem;
         z-index: 600 !important;
         margin-bottom: 0 !important;
-        background-color: #ff7a2a;
+        background-color: #ff702d;
     }
     p {
         width: 90%;
@@ -347,14 +347,14 @@ body {
 
     .pointLink {
         background-color: rgba(0, 0, 0, 0.88);
-        color: #ff7a2a;
+        color: #ff702d;
         font-weight: 400;
         padding-left: 3px;
         padding-right: 3px;
     }
 
     .pointLink a {
-        color: #ff7a2a;
+        color: #ff702d;
     }
 
     .pointLink a {
@@ -414,7 +414,7 @@ body {
     }
 
     .headerbackground {
-        background-color: #ff7a2a;
+        background-color: #ff702d;
         position: absolute;
         left: 0;
         right: 0;
@@ -467,7 +467,7 @@ body {
         line-height: 5rem;
         padding-left: 2rem;
         width: 100%;
-        color: #ff7a2a;
+        color: #ff702d;
         background-color: #000;
         border: 1px solid #000;
         font-size: 1.7rem;
@@ -485,7 +485,7 @@ body {
     .menu li:hover {
         text-decoration: underline;
         color: #000;
-        background-color: #ff7a2a;
+        background-color: #ff702d;
         font-weight: 600;
         border: none;
         cursor: url(images/download.png) 20 24, auto;
@@ -536,7 +536,7 @@ body {
         line-height: 2.5rem;
         border: 1px solid #444;
         background-color: black;
-        color: #ff7a2a;
+        color: #ff702d;
         padding: 1rem;
         padding-top: 0.5rem;
     }
@@ -570,7 +570,7 @@ body {
         top: 0;
         z-index: 600 !important;
         margin-bottom: 0 !important;
-        background-color: #ff7a2a;
+        background-color: #ff702d;
     }
     p {
         width: 90%;
@@ -612,7 +612,7 @@ body {
 
     .pointLink {
         background-color: rgba(0, 0, 0, 0.88);
-        color: #ff7a2a;
+        color: #ff702d;
         font-weight: 400;
         /*    font-weight: 800;*/
         padding-left: 8px;
@@ -620,7 +620,7 @@ body {
     }
 
     .pointLink a {
-        color: #ff7a2a;
+        color: #ff702d;
     }
 
     .pointLink a {
@@ -679,7 +679,7 @@ body {
     }
 
     .headerbackground {
-        background-color: #ff7a2a;
+        background-color: #ff702d;
         position: absolute;
         left: 0;
         right: 0;
@@ -732,10 +732,10 @@ body {
         line-height: 4rem;
         padding-left: 2rem;
         width: 100%;
-        color: #ff7a2a;
+        color: #ff702d;
         background-color: #000;
         font-weight: 400;
-        border: 1px solid #ff7a2a;
+        border: 1px solid #ff702d;
         font-size: 1.7rem;
         margin: 0 !important;
         padding-right: 0.7rem;
@@ -751,7 +751,7 @@ body {
     .menu li:hover {
         text-decoration: underline;
         color: #000;
-        background-color: #ff7a2a;
+        background-color: #ff702d;
         font-weight: 600;
         border: none;
         cursor: url(images/download.png) 20 24, auto;
@@ -802,7 +802,7 @@ body {
         line-height: 2.5rem;
         border: 1px solid #444;
         background-color: black;
-        color: #ff7a2a;
+        color: #ff702d;
         padding: 1rem;
         padding-top: 0.5rem;
     }
@@ -831,7 +831,7 @@ body {
         top: -4rem;
         z-index: 600 !important;
         margin-bottom: 0 !important;
-        background-image: -webkit-linear-gradient(top, transparent 0, #ff7a2a 5%);
+        background-image: -webkit-linear-gradient(top, transparent 0, #ff702d 5%);
     }
     p {
         width: 80%;
@@ -867,7 +867,7 @@ body {
 
     .pointLink {
         background-color: rgba(0, 0, 0, 0.88);
-        color: #ff7a2a;
+        color: #ff702d;
         font-weight: 400;
         /*    font-weight: 800;*/
         padding-left: 8px;
@@ -875,7 +875,7 @@ body {
     }
 
     .pointLink a {
-        color: #ff7a2a;
+        color: #ff702d;
     }
 
     .pointLink a {
